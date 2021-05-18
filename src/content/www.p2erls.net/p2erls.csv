@@ -1,0 +1,657 @@
+"AA";"No";"0";;"2007-10-29 14:05:29";"Arnold Arboretum";"http://www.arboretum.harvard.edu/";"42.317";"-71.083";"15";"79";"47";"10.8";"110";;"TEMPFOR";"MA";"US";
+"ABCRC";"No";"0";;;"Anheuser Busch Coastal Research Center";"http://www.abcrc.virginia.edu";"37.3";"-75.933";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"VA";"US";
+"ABS";"No";"0";;"2008-06-10 15:18:53";"Archbold Biological Station";"http://www.archbold-station.org/";"27.1085";"-81.35";"30";"65";"47.5";"22.3";"136.53";;"WETLAND";"FL";"US";"Archbold_Biological_Station.pdf"
+"AC";"No";"0";;"2008-06-03 18:53:22";"Alum Creek Experimental Forest";"http://www.srs.fs.usda.gov/4106/experimentalforests/AlumCreekEF/AlumCreekEF.htm";"34.798333";"-93.054722";NULL;NULL;NULL;"15";"132.1";;"TEMPFOR";"AR";"US";
+"ACEBR";"No";"0";;"2008-06-10 16:39:32";"ACE Basin Reserve";"http://www.nerrs.noaa.gov/ACEBasin/welcome.html";"32.5365";"-80.4764";"0";"0";"0";"0";"0";;"ESTU";"SC";"US";
+"ACP";"No";"0";;"2008-06-03 15:55:06";"Anderson County Prairies";"http://www.nature.org/wherewework/northamerica/states/kansas/preserves/art2425.html";"38.18";"-95.26";"317";"357";"337";"13.6";"102";;"PRAIRIE";"KS";"US";
+"ACRR";"No";"0";;"2008-06-03 15:57:58";"Angelo Coast Range Reserve";"http://angelo.berkeley.edu/";"39.701063";"-123.654501";"378";"1290";"834";NULL;"215.6";;"TEMPFOR";"CA";"US";
+"ADHLL";"No";"0";;"2008-06-03 18:50:32";"Arthur D. Hasler Laboratory for Limnology";"http://limnology.wisc.edu/index.php?pr=Hasler_Lab_for_Limn.";"43.1";"-89.4";"0";"0";"0";"4.4";"79";;"AQUATIC";"WI";"US";
+"AECHWF";"No";"0";;"2008-06-13 14:04:21";"Adirondack Ecological Center Huntington Wildlife Forest";"http://www.esf.edu/aec";"43.985";"-74.235";"457";"823";"640";"4.4";"101";"http://www.esf.edu/aec/facilities/hwf.htm";"TEMPFOR";"NY";"US";"sample2.pdf"
+"AES";"No";"0";;"2008-04-04 17:10:04";"Adjuntas Agricultural Experimental Station";"http://estacion.cca.uprm.edu/adjuntas/infgen.aspx";"18.17464";"-66.7987";"550";"750";"650";"21.6";"189.3";;"TROPFOR";"PR";"US";"Adjuntas_Agricultural_Experimental_Station.pdf"
+"ALT-BASIN";"No";"0";;"2008-06-03 15:51:17";"Altamaha River Basin";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg";"31.857179";"-82.26018";NULL;NULL;NULL;NULL;NULL;;"AQUATIC";"GA";"US";
+"ANIR";"No";"0";;"2008-06-03 16:03:32";"Ano Nuevo Island Reserve";"http://ucreserve.ucsc.edu/ano_nuevo/anonuevo.html";"36.954764";"-122.06246";"0";"13";"6.5";"13";"50";;"OCEAN";"CA";"US";
+"APRF";"No";"0";;"2008-06-03 18:56:44";"Au Sable Institute of Environmental Studies, Pacific Rim Campus";"http://www.ausable.org/au.pacificrim.cfm";"48.2";"-122";NULL;NULL;NULL;NULL;"43.2";;"PRAIRIE";"WA";"US";
+"AR";"No";"0";;"2008-06-03 18:23:50";"Argonne Experimental Forest";"http://nrs.fs.fed.us/ef/locations/wi/argonne/";"45.75";"-89";"0";"0";"513";"5";"81.3";;"TEMPFOR";"WI";"US";
+"ARF";"No";"0";;"2008-06-03 16:15:39";"Apalachicola Reserve";"http://www.nerrs.noaa.gov/Apalachicola/welcome.html";"29.8702";"-85.0266";"0";"0";"0";NULL;NULL;"Apalachicola Bay is one of the most productive estuarine systems in the Northern Hemisphere. The reserve protects the regionâ€™s biological diversity, as well as the economic value of the natural resources and pristine conditions.";"ESTU";"FL";"US";
+"ARL";"No";"0";;"2008-04-09 11:33:06";"Airlie Center";"http://www.airlie.com/environment/index.htm";"38.75969";"-77.7937";"145";"320";"232.5";"13";"105";;"PASTURE";"VA";"US";"Airlie_Site.pdf"
+"ARN";"No";"0";;;"Armendaris Ranch";"http://tesf.org/turner/tesf/";"33.313474";"-107.001329";"1341";"2042";"1691.5";"14";"17.8";NULL;"RANGE";"NM";"US";
+"ASIES";"No";"0";;"2008-06-03 18:54:35";"Au Sable Institute of Environmental Studies, Great Lakes Campus";"http://www.ausable.org/au.greatlakes.overview.cfm";"44.77";"-84.9";NULL;NULL;NULL;NULL;NULL;;"AQUATIC";"MI";"US";
+"ATQ";"No";"0";;"2008-04-14 12:12:58";"Atqasuk Facility";"http://www.arm.gov/sites/nsa/atqasuk.stm";"70.472";"-157.407";"20";"30";"25";NULL;NULL;;"ARCTIC";"AK";"US";"Atqasuk.pdf"
+"ATRF";"No";"0";;"2008-06-03 18:28:02";"Arnot Teaching and Research Forest";"http://www.dnr.cornell.edu/arnot";"42.285";"-76.636";"350.5";"620.3";"485.4";NULL;NULL;;"TEMPFOR";"NY";"US";
+"AWRR";"No";"0";;"2008-06-03 16:17:21";"Appleton-Whittell Research Ranch";"http://www.audubon.org/local/sanctuary/appleton/";"31.591";"-110.506";NULL;NULL;NULL;NULL;NULL;;"GRASS-SHRUB";"AZ";"US";
+"BA";"No";"0";;;"Bartlett Experimental Forest";"http://nrs.fs.fed.us/ef/locations/nh/bartlett/";"44.044167";"-71.1655";"207";"915";"561";"4.5";"140";NULL;"TEMPFOR";"NH";"US";
+"BAKF";"No";"0";;"2008-06-03 19:00:31";"Baker Forest, University of California, Berkeley";"http://ecology.cnr.berkeley.edu/properties/baker.html";"39.90809";"-121.07237";NULL;NULL;NULL;NULL;"104.1";;"TEMPFOR";"CA";"US";
+"BALL";"No";"0";;"2008-06-03 19:05:20";"Ball State University Field Station and Environmental Education Center";"http://publish.bsu.edu/fseec/environment/Default.htm";"40.316";"-85.683";NULL;NULL;NULL;NULL;NULL;;"TEMPFOR";"IN";"US";
+"BAR";"No";"0";;;"Barataria Bay";"http://www.gulfbase.org/bay/view.php?bid=barataria";"29.2167";"-90.00117";"0";"0";"0";"21";"150";NULL;"ESTU";"LA";"US";
+"BBEF";"No";"0";;;"Boise Basin Experimental Forest";"http://forest.moscowfsl.wsu.edu/ef/bbef.html";"43.8166666666667";"-115.8333";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"ID";"US";
+"BBFS";"No";"0";;;"Robert J. Bernard Biological Field Station";"http://bfs.claremont.edu/";"34.11";"-117.709";NULL;NULL;NULL;NULL;"45.5";NULL;"GRASS-SHRUB";"CA";"US";
+"BBP";"No";"0";;"2007-10-27 12:09:34";"Big Bend National Park";"http://www.nps.gov/bibe";"29.25";"-103.25";"550";"2400";"1475";NULL;NULL;;"GRASS-SHRUB";"TX";"US";
+"BBS";"No";"0";;;"Bermuda Institute of Ocean Sciences";"http://www.bios.edu/";"32.367";"-64.7";"0";"0";"0";"22";"141.2";NULL;"OCEAN";NULL;"BM";
+"BCEF";"No";"0";;"2007-11-25 17:30:22";"Bonanza Creek Experimental Forest";"http://www.lter.uaf.edu/bcef/default.cfm";"64.8";"-148";"400";"700";"550";"-0.9";"22.5";NULL;"TEMPFOR";"AK";"US";
+"BCFS";"No";"0";;;"Bard College Field Station";"http://www.bard.edu/scienceinitiative/facilities/";"42.03";"-73.9";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"NY";"US";
+"BCNWR";"No";"0";;"2008-06-03 19:02:04";"Balcones Canyonlands National Wildlife Refuge";"http://www.fws.gov/southwest/refuges/texas/balcones/index.htm";"30.6101";"-98.147";NULL;NULL;"328";"18.4";"76.2";;"GRASS-SHRUB";"TX";"US";
+"BCW";"No";"0";;"2008-04-14 11:22:13";"Beaver Creek Watershed, AZ";"http://ag.arizona.edu/OALS/watershed/beaver/";"34.755";"-111.485";"935";"2560";"1747.5";"7";"62.5";;"SEMIARID";"AZ";"US";"Beaver_Creek_Watershed.pdf"
+"BDCDRC";"No";"0";;"2008-04-08 16:33:29";"Boyd Deep Canyon Desert Research Center";"http://nrs.ucop.edu/Boyd-Canyon-Desert.htm";"33.583333";"-116.3375";"180";"1310";"745";"30.3";"14.2";;"GRASS-SHRUB";"CA";"US";
+"BDG";"No";"0";;;"Bodega Marine Reserve and Lab";"http://www-bml.ucdavis.edu/";"38.32";"-123.07";"0";"58";"29";"12";"86";NULL;"GRASS-SHRUB";"CA";"US";
+"BEF";"No";"0";;"2008-04-09 13:51:11";"Blandy Experimental Farm";"http://www.virginia.edu/blandy/";"39.063";"-78.065";"167";"185";"176";"11.5";"95";;"AGRI";"VA";"US";"Blandy_Experimental_Farm.pdf"
+"BEN";"No";"0";;;"Bent Creek Experimental Forest";"http://www.srs.fs.usda.gov/bentcreek/";"35.48";"-82.63";NULL;NULL;NULL;"12.8";"121.6";NULL;"TEMPFOR";"NC";"US";
+"BEP";"No";"0";;;"Blackwater Ecological Preserve";"http://www.dcr.virginia.gov/natural_heritage/natural_area_preserves/blackwater.shtml";"36.75";"-76.5";NULL;NULL;NULL;NULL;NULL;NULL;"SAVANNA";"VA";"US";
+"BERC";"No";"0";;"2008-06-03 18:59:15";"Bahamas Environmental Research Centre";"http://www.4ecoed.org/berc.html";"25";"-78";NULL;NULL;NULL;NULL;NULL;;"TROPFOR";;"BS";
+"BES";"No";"0";;"2008-06-10 13:12:17";"Baltimore Urban LTER Site";"http://beslter.org";"39.1";"-76.3";"0";"201";"100";"13";"104";;"URBAN";"MD";"US";"Baltimore_Urban_LTER_Site.pdf"
+"BFEF";"No";"0";;;"Big Falls Experimental Forest";"http://nrs.fs.fed.us/ef/locations/mn/big-falls/";"48.166667";"-94";NULL;NULL;NULL;NULL;"57";NULL;"TEMPFOR";"MN";"US";
+"BFL";"No";"0";;;"Brackenridge Field Laboratory";"http://www.utexas.edu/research/bfl/";"30.2816";"-97.7808";NULL;NULL;"139";"20.6";"34";NULL;"URBAN";"TX";"US";
+"BFSUA";"No";"0";;;"The University of Akron Field Station at Bath Natural Preserve";"http://www3.uakron.edu/biology/fieldstation/index.htm";"41.109";"-81.388";NULL;NULL;NULL;NULL;NULL;NULL;"URBAN";"OH";"US";
+"BHEF";"No";"0";;;"Black Hills Experimental Forest";"http://www.fs.fed.us/rmrs/experimental-forests/black-hills-experimental-forest/";"44.1666666666667";"-103.6333";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"CO";"US";
+"BIFS";"No";"0";;;"Blakely Island Field Station";"http://www.spu.edu/depts/biology/blakely/";"48.554";"-122.805";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"WA";"US";
+"BIMBFS";"No";"0";;;"Bimini Biological Field Station";"http://www6.miami.edu/sharklab/atthelab.html";"25.7";"-79.3";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";NULL;"BS";
+"BIS";"No";"0";;"2008-04-04 17:38:11";"Bisley Experimental Watersheds";"http://luq.lternet.edu/";"18.29166";"-65.7916";NULL;NULL;NULL;"23.3";"350";;"TROPFOR";"PR";"US";"Bisley-Luquillo_Experimental_Forest.pdf"
+"BKG";"No";"0";;"2008-04-11 12:20:14";"Broken Kettle Grasslands";"http://www.nature.org/wherewework/northamerica/states/iowa/preserves/art2210.html";"42.706663";"-96.563";"345";"450";"397.5";"9";"61";;"PRAIRIE";"IA";"US";"Broken_Kettle_Grasslands.pdf"
+"BKX";"No";"0";;"2008-04-09 15:49:34";"Brookings AmeriFlux Tower";"http://public.ornl.gov/ameriflux/Site_Info/siteInfo.cfm?KEYID=us.brookings.01";"44.345";"-96.836";"0";"0";"0";"6.9";"6";;"PASTURE";"SD";"US";"Brookings_AmeriFlux_Tower.pdf"
+"BLA";"No";"0";;;"Blacks Mountain Experimental Forest";"http://www.fs.fed.us/psw/";"40.67";"-121.17";NULL;NULL;NULL;"9.7";"36.4";NULL;"TEMPFOR";"CA";"US";
+"BLO";"No";"0";;;"Blodgett Forest Research Station";"http://ecology.cnr.berkeley.edu/properties/blodgett.html";"38.895";"-120.633";"1315";"1315";"1315";"12";"166";"http://ecology.cnr.berkeley.edu/properties/blodgett.html";"TEMPFOR";"CA";"US";
+"BLORR";"No";"0";;"2008-04-08 16:26:39";"Blue Oak Ranch Reserve";"http://nrs.ucop.edu/blue_oak_ranch.htm";"37.368";"-121.725";"454";"870";"662";"14";"60.27";;"GRASS-SHRUB";"CA";"US";
+"BLOS";"No";"0";;;"Boulder Open Space";"http://www.co.boulder.co.us/openspace/";"40.06";"-105.207";"1580";"1595";"1587.5";"8.9";"45";NULL;"URBAN";"CO";"US";
+"BMFL";"No";"0";;;"Baruch Marine Field Laboratory";"http://links.baruch.sc.edu/BWBIMCSservices.htm";"33.35";"-79.193";"0";"0";"0";"20";"107";NULL;"OCEAN";"SC";"US";
+"BMS";"No";"0";;"2008-06-03 19:22:26";"Bamfield Marine Station";"http://bms.bc.ca/";"48.834";"-125.133";NULL;NULL;NULL;NULL;NULL;;"OCEAN";;"CA";
+"BMTN";"No";"0";;;"Blue Mountain";"http://www.sagestep.org/locations/blue_mt.html";"41.82";"-120.86";"1463";"1645.9";"1554.45";"8";"37.5";NULL;"SAGEBRUSH";"CA";"US";
+"BNF";"No";"0";;"2008-04-11 09:48:25";"Bankhead National Forest";"http://www.fs.fed.us/r8/alabama/forests/bankhead/index.shtml";"34.3018";"-87.3734";"180";"275";"227.5";"17.6";"149";;"TEMPFOR";"AL";"US";"Bankhead_National_Forest.pdf"
+"BOTG";"No";"0";;;"Botanical Gardens at University of California, Berkeley";"http://botanicalgarden.berkeley.edu/";"37.87785";"-122.24357";NULL;NULL;NULL;NULL;NULL;NULL;"URBAN";"CA";"US";
+"BOU";"No";"0";;;"Bousson Experimental Forest";"http://merlin.allegheny.edu/employee/r/rbowden/";"41.589";"-80.048";"0";"0";"372";"8.3";"105";NULL;"TEMPFOR";"PA";"US";
+"BP";"No";"0";;"2008-04-04 17:44:34";"Bosque del Pueblo";"http://www.casapueblo.org/english/index.html";"18.186";"-66.6822";"350";"725";"537.5";"21.6";"187";;"TROPFOR";"PR";"US";"Bosque_del_Pueblo.pdf"
+"BPRR";"No";"0";;;"Burns Pinon Ridge Reserve";"http://nrs.ucop.edu/Reserves/burns/description.html";"34.135652";"-116.456912";NULL;NULL;NULL;NULL;NULL;NULL;"DESERT-HOT";"CA";"US";
+"BRCR";"No";"0";;;"Bridge Creek";"http://www.sagestep.org/locations/bridge_crk.html";"44.48";"-120.22";"792.5";"868.7";"830.6";"8";"37.5";NULL;"SAGEBRUSH";"OR";"US";
+"BRF";"No";"0";;"2008-04-09 15:10:18";"Black Rock Forest";"http://www.blackrockforest.org/";"41.398";"-74.002";"110";"450";"280";"10.4";"119";;"TEMPFOR";"NY";"US";"Black_Rock_Forest.pdf"
+"BROOKER";"No";"0";;;"Brooker Creek Preserve";"http://www.pinellascounty.org/Environment/pagesHTML/envLands/el1000.html#brookeCreek";"28.137";"-82.674";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"FL";"US";
+"BRUN";"No";"0";;;"Brunswick Site (GCE)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=BRUNSWICK";"31.167225";"-81.500205";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"BSBS";"No";"0";;"2008-04-11 09:52:40";"Bull Shoals Biological Station";"http://www.bullshoals.missouristate.edu/";"36.5718";"-93.0572";"183";"335";"259";"17";"109";;"TEMPFOR";"MO";"US";"Bull_Shoals_Field_Station.pdf"
+"BSFS";"No";"0";;;"Box Springs Field Station";"http://www.werc.usgs.gov/boxsprings/index.html";"33.91439";"-117.26359";NULL;NULL;NULL;NULL;NULL;NULL;"DESERT-HOT";"CA";"US";
+"BSSB";"No";"0";;;"Bowdoin Scientific Station";"http://academic.bowdoin.edu/kent_island/";"44.501";"-66.834";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"ME";"US";
+"BUC";"No";"0";;;"Buckeye";"http://caplter.asu.edu";"33.68";"-112.7";"460";"480";"470";"21.6";"20.1";NULL;"URBAN";"AZ";"US";
+"BVEF";"No";"0";;"2008-06-10 17:24:41";"Blue Valley Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"35.01111";"-83.23777";"0";"0";"0";"0";"0";;"TEMPFOR";"NC";"US";
+"BWF";"No";"0";;"2008-06-03 19:03:10";"Baldwin Woods Forest Preserve";"http://www.ksr.ku.edu/about/html/baldwin.htm";"38.81";"-95.19";"290";"345";"317.5";"13.6";"101";;"SAVANNA";"KS";"US";
+"CAEF";"No";"0";;;"John C. Calhoun Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"34.625";"-81.70833";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"SC";"US";
+"CALSG";"No";"0";;;"CalCOFI sampling grid";"http://www.calcofi.org/newhome/info/program_info.htm";"32.8736";"-120.2798";"0";"0";"0";NULL;NULL;NULL;"OCEAN";"CA";"US";
+"CAP";"No";"0";;"2008-04-07 11:55:33";"Central Arizona - Phoenix Urban LTER";"http://www.lternet.edu/sites/cap/";"33.427";"-111.933";"387";"400";"393.5";"21";"18";;"URBAN";"AZ";"US";"Central_Arizona-Phoenix.pdf"
+"CARR";"No";"0";;;"Chickering American River Reserve";"http://nrs.ucop.edu/Chickering-American-River.htm";"39.2467";"-120.3253";"1830";"2470";"2150";"8";"125";NULL;"TEMPFOR";"CA";"US";
+"CATEI";"No";"0";;;"Catamount Institute";"http://catamountinstitute.org/";"38.917";"-105.1";NULL;NULL;NULL;NULL;NULL;NULL;"ALPINE";"CO";"US";
+"CBFS";"No";"0";;;"Cornell Biological Field Station";"http://www.dnr.cornell.edu/fieldst/cbfs.htm";"43.17";"-75.968";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"NY";"US";
+"CBLK";"No";"0";;;"Crystal Bog Lake";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=7";"46.005556";"-89.604167";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"WI";"US";
+"CBV";"No";"0";;"2008-04-11 10:48:50";"Camp Bonneville, WA";"http://www.co.clark.wa.us/public-works/campbonn/planxtras/section_2.htm";"45.666";"-122.417";"30";"200";"115";"10.6";"156";;"URBAN";"WA";"US";"Camp_Bonneville_Urban_Fringe_Site.pdf"
+"CCNHA";"No";"0";;"2008-04-11 12:24:13";"Cedar Creek Natural History Area";"http://www.lter.umn.edu/";"45.42";"-93.2";"175";"288";"231.5";"6.6";"68.9";;"WETLAND";"MN";"US";"Cedar Creek Natural History Area.pdf"
+"CCWFS";"No";"0";;;"Coe College Wilderness Field Station";"http://www.public.coe.edu/fieldstation/index.html";"47.995";"-91.831";NULL;NULL;NULL;NULL;NULL;NULL;NULL;"IL";"US";
+"CDRRC";"No";"0";;"2008-07-25 10:59:27";"Chihuahuan Desert Rangeland Research Center";"http://spectre.nmsu.edu/dept/welcome.html?t=cdrr";"32.530644";"-106.804208";"1219.2";"1524";"1371.6";"0";"0";;"GRASS-SHRUB";"NM";"US";
+"CEET";"No";"0";;"2007-10-30 13:15:24";"Center for Ecology and Environmental Technology";"http://ceet.louisiana.edu/";"30.3";"92";NULL;NULL;NULL;NULL;NULL;;"ESTU";"LA";"US";
+"CEF";"No";"0";;"2008-04-09 17:09:04";"Coram Experimental Forest";"http://www.fs.fed.us/rm/ecology/demo/coram/";"48.38";"-113.98";"1006";"1942";"1474";"6.5";"113";;"TEMPFOR";"MT";"US";"Coram_Experimental_Forest.pdf"
+"CES";"No";"0";;"2008-04-09 16:08:46";"Cottonwood Experimental Station";"http://ars.sdstate.edu/CottonwoodStation/index.htm";"43.94";"-101.85";NULL;NULL;NULL;"7.7";"43.6";;"RANGE";"SD";"US";"Cottonwood_Range_and_Livestock_Research_Station.pdf"
+"CF";"No";"0";;;"CutFoot Experimental Forest";"http://nrs.fs.fed.us/ef/locations/mn/cutfoot/";"47.66667";"-94.083333";NULL;NULL;NULL;NULL;"57";NULL;"TEMPFOR";"MN";"US";
+"CFCUM";"No";"0";;;"Cloquet Forestry Center";"http://www.cnr.umn.edu/cfc";"46.705";"-92.522";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"MN";"US";
+"CFFS";"No";"0";;;"Clark Fork Field Station";NULL;"48.15";"-116.152";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"ID";"US";
+"CGC";"No";"0";;;"Conard Environmental Research Area";"http://www.grinnell.edu/academic/biology/cera/";"41.713";"-92.879";NULL;NULL;NULL;NULL;NULL;NULL;"PRAIRIE";"IA";"US";
+"CGCC";"No";"0";;;"Columbia-Greene Community College";"http://www.sunycgcc.edu";"38.75";"-79.5";NULL;NULL;NULL;NULL;NULL;NULL;"URBAN";"NY";"US";
+"CGE";"No";"0";;;"Central Georgia Coast (GCE)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=CentralCst";"31.372861";"-81.404096";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"CGR";"No";"0";;"2008-04-09 15:54:35";"Central Grassland Research Extension Center";"http://www.ag.ndsu.nodak.edu/streeter/";"46.66";"-99.36";"0";"0";"0";"4";"0";;"RANGE";"ND";"US";"Central_Grasslands_Research_Extension_Center.pdf"
+"CHAP";"No";"0";;;"Chapala Ecology Station";"http://www.baylor.edu/ces/";"21";"-102";NULL;NULL;NULL;NULL;NULL;NULL;"TROPFOR";NULL;"MX";
+"CHBRE";"No";"0";;"2008-04-08 13:35:04";"Chesapeake Bay Reserve";"http://www.nerrs.noaa.gov/ChesapeakeBayMD/welcome.html";"38.7807";"-76.7081";"0";NULL;NULL;NULL;NULL;"The Chesapeake Bay is the largest estuary in the United States and is one of the most productive bodies of water in the world. It lies on the Atlantic Coastal plain in the Chesapeake Bay subregion of the Virginian Biogeographic Region. Roughly half of the Bay lies within the state of Maryland. ";"ESTU";"MD";"US";
+"CHDM";"No";"0";;;"Chaffey Dam";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=characteristics&lake_id=14";"-31.345556";"151.138194";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";NULL;"AU";
+"CHE";"No";"0";;"2008-04-11 10:57:44";"Cascade Head Experimental Forest";"http://www.fsl.orst.edu/chef/";"45.07";"-123.97";"0";"530";"265";"10.5";"245.9";;"TEMPFOR";"OR";"US";"Cascade_Head_Experimental_Forest.pdf"
+"CHEB";"No";"0";;;"Cheboygan";"http://www.cheboygan.org/";"45.6586";"-84.4778";"175";"185";"180";"6";"72";NULL;"ESTU";"MI";"US";
+"CHI";"No";"0";;;"China Camp, California";"http://www.parks.ca.gov/?page_id=466";"38.0022";"-122.4631";"0";"0";"0";"15";"93";NULL;"WETLAND";"CA";"US";
+"CHL";"No";"0";;"2008-04-04 13:16:00";"Coweeta Hydrologic Laboratory";"http://www.srs.fs.usda.gov/coweeta/";"35";"-83.5";"685";"1592";"1138.5";"13";"214";"http://coweeta.ecology.uga.edu/ecology/site_character.html";"TEMPFOR";"NC";"US";"Coweeta_Hydrologic_Laboratory.pdf"
+"CHMEG";"No";"0";;;"C. Hart Merriam Elevation Gradient, San Francisco Peaks";"http://www.mpcer.nau.edu/gradient/";"35.53";"-111.61";"1540";"3676";"2608";NULL;"38.1";NULL;"TEMPFOR";"AZ";"US";
+"CIFS";"No";"0";;;"Center for Integrated Farming Systems";"http://ltras.ucdavis.edu/";"38.543";"-121.872";"29";"29";"29";NULL;NULL;NULL;"AGRI";"CA";"US";
+"CIRS";"No";"0";;;"Channel Islands Research Station";"http://www.werc.usgs.gov/chis/index.html";"34.246509";"-119.266529";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"CA";"US";
+"CL";"No";"0";;;"Challenge Experimental Forest";"http://www.fs.fed.us/psw/ef/challenge/";"39.466667";"-121.2166";"730";"1130";"930";NULL;"172.7";NULL;"TEMPFOR";"CA";"US";
+"CLBS";"No";"0";;;"Cranberry Lake Biological Station";"http://www.esf.edu/CLBS";"44.222";"-74.837";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"NY";"US";
+"CLP";"No";"0";;;"Crater Lake National Park";"http://www.nps.gov/crla/";"42.93";"-122.12";"600";"2400";"1500";"3.3";"165";NULL;"ALPINE";"OR";"US";
+"CMC";"No";"0";;"2008-04-14 12:18:00";"Campbell Creek Science Center";"http://www.blm.gov/ak/st/en/prog/sciencecenter.html";"61.15";"-149.9";"0";"1500";"750";"2.7";"40.1";;"TIAGA";"AK";"US";"Campbell_Creek_Watershed.pdf"
+"CMSC";"No";"0";;;"Cedar Mountain Science Center";"http://www.suu.edu/sci/center";"37.6";"-113";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"UT";"US";
+"CMUBS";"No";"0";;;"Central Michigan University Biological Station";"http://www.cst.cmich.edu/centers/cmubs/";"45.694";"-85.54";NULL;NULL;"230";"5.5";"81";NULL;"TEMPFOR";"MI";"US";
+"CNC";"No";"0";;;"Cincinnati Nature Center";"http://www.cincynature.org/index2.asp";"39.129";"-84.253";"162";"235";"198.5";"11";"110";NULL;"TEMPFOR";"OH";"US";
+"CNG";"No";"0";;"2008-04-04 19:15:33";"Comanche National Grasslands";"http://www.fs.fed.us/r2/psicc/coma/";"37.21";"-102.715";"1160";"1990";"1575";"12.8";"40";;"GRASS-SHRUB";"CO";"US";"Comanche_National_Grassland.pdf"
+"CNSC";"No";"0";;;"Churchill Northern Studies Centre";"http://www.churchillscience.ca/";"58.73";"-93.82";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-BOREAL";NULL;"CA";
+"COEF";"No";"0";;;"Coulee Experimental Forest";"http://nrs.fs.fed.us/ef/locations/wi/coulee/";"43.8";"-91";NULL;NULL;NULL;"6.7";"86.4";NULL;"TEMPFOR";"WI";"US";
+"COPR";"No";"0";;;"Coal Oil Point Reserve";"http://nrs.ucop.edu/Coal-Oil-Point.htm";"34.417";"-119.875";"0";"12";"6";"15";"44.5";NULL;"COASTAL-TEMP";"CA";"US";
+"CORRE";"No";"0";;;"Center for Ohio River Research and Education";"http://www.thomasmore.edu/environmental/?group2=Environmental%20Science";"39.02";"-84.33";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"KY";"US";
+"CP";"No";"0";;;"Chipola Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"30.4666666666667";"-85.26666";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"FL";"US";
+"CPBS";"No";"0";;;"Cedar Point Biological Station";"http://cedarpoint.unl.edu/";"41.209";"-101.646";NULL;NULL;NULL;NULL;NULL;NULL;"PRAIRIE";"NE";"US";
+"CPER";"No";"0";;"2008-04-04 19:04:20";"Central Plains Experimental Range";"http://www.ars.usda.gov/Main/docs.htm?docid=10724";"40.83";"-104.724";"1600";"1675";"1637.5";"8.5";"32.5";;"SHORTGRASS";"CO";"US";"Central_Plains_Experimental_Range.pdf"
+"CPES";"No";"0";;"2008-04-11 09:56:02";"Coastal Plain Experiment Station";"http://www.msstate.edu/dept/cmrec/cpes/";"32.3214";"-89.1432";"116";"150";"133";NULL;NULL;;"PASTURE";"MS";"US";"Coastal_Plain_Experiment_Station.pdf"
+"CPFS";"No";"0";;;"Cano Palma Field Station";"http://coterc.org/introduction.html";"10.5";"-83.5";NULL;NULL;NULL;NULL;NULL;NULL;"TROPFOR";NULL;"CR";
+"CRC";"No";"0";;"2008-04-09 13:12:18";"Smithsonian Conservation and Research Center";"http://nationalzoo.si.edu/conservationandscience/default.cfm";"38.888";"-78.139";"250";"390";"320";NULL;NULL;;"TEMPFOR";"VA";"US";"Smithsonian_Conservation_and_Research_Center.pdf"
+"CRCAES";"No";"0";;;"Citrus Research Center & Agricultural Experiment Station";"http://agops.ucr.edu/home.html";"33.968";"-117.349";NULL;NULL;"296";NULL;NULL;NULL;"AGRI";"CA";"US";
+"CREC";"No";"0";;;"Coastal Research and Education Center";"http://www.clemson.edu/coastalrec/";"32.8";"-79.9";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"SC";"US";
+"CRO";"No";"0";;;"Crossett Experimental Forest";"http://www.srs.fs.usda.gov/4106/";"33.03";"-91.95";NULL;NULL;NULL;"17.2";"136";NULL;"TEMPFOR";"MS";"US";
+"CRP";"No";"0";;"2008-06-03 09:12:06";"Caribou Poker";"http://www.lter.uaf.edu/";"65.15";"-147.47";"210";"825";"517.5";"-3";"34";;"ARCTIC";"AK";"US";"Caribou-Poker.pdf"
+"CRT";"No";"0";;;"Laguna Cartagena National Wildlife Refuge";"http://www.fws.gov/caribbean/Lagunacartegena/default.htm";"18.01288";"-67.10039";NULL;NULL;"10";"25.3";"83";NULL;"WETLAND";"PR";"US";"Laguna_Cartagena_Lake.pdf"
+"CSL";"No";"0";;;"University of Texas  Pan American Coastal Studies Laboratory";"https://portal.utpa.edu/portal/page/portal/utpa_main/daa_home/cose_home/csl";"26.075";"-97.158";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"TX";"US";
+"CSMR";"No";"0";;;"Carpinteria Salt Marsh Reserve";"http://nrs.ucop.edu/Reserves/carpinteria/Carpinfo.html";"34.402637";"-119.533596";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"CA";"US";
+"CSP";"No";"0";;;"Caspar Creek Experimental Watershed";"http://www.fs.fed.us/psw/ef/caspar_creek/";"39.375";"-123.6667";"60";"330";"195";"11.1";"111.9";NULL;"TEMPFOR";"CA";"US";
+"CSSL";"No";"0";;;"Central Sierra Snow Laboratory";"http://research.chance.berkeley.edu/cssl/";"39.3167";"-120.3667";NULL;NULL;"2100";"8";"130";NULL;"TEMPFOR";"CA";"US";
+"CSTB";"No";"0";;;"Center for the Study of Tropical Birds";"http://cstbinc.org/";"26.514";"-99.115";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"TX";"US";
+"CWMA";"No";"0";;;"Chapparal Wildlife Management Area";"http://www.tpwd.state.tx.us/huntwild/hunt/wma/find_a_wma/list/?id=45";"28.3791";"-99.4004";"0";"0";"163";"21.1";"53.3";NULL;"GRASS-SHRUB";"TX";"US";
+"CWS";"No";"0";;;"Choptank Watershed";"http://www.md.nrcs.usda.gov/programs/csp/2006/choptank.html";"38.997222";"-75.786111";"0";"20";"10";"12.6";"100";NULL;"AGRI";"MD";"US";"Choptank_Watershed_Study_Site.pdf"
+"CZO";"No";"0";;;"Carraizo Reservoir";NULL;"18.31726";"-66.02156";"39";"50";"44.5";"24.5";"176";NULL;"AQUATIC";"PR";"US";
+"DAFS";"No";"0";;;"Davis Field Station";"http://www.werc.usgs.gov/davis/index.html";"38.540602";"-121.748151";NULL;NULL;"29";"23.6";"44.3";NULL;"AGRI";"CA";"US";
+"DC";"No";"0";;;"Deception Creek Experimental Forest";"http://forest.moscowfsl.wsu.edu/ef/dcef.html";"45.1666666666667";"-116.5";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"ID";"US";
+"DCC";"No";"0";;"2008-04-07 12:52:30";"Philip L Boyd Deep Canyon Desert Research Center";"http://deepcanyon.ucnrs.org/";"33.649";"-116.376";"180";"1310";"745";"24.5";"14.2";"http://nrs.ucop.edu/Reserves/Boyd.pdf";"DESERT-HOT";"CA";"US";"Philip_L_Boyd_Deep_Canyon_Desert_Research_Center.pdf"
+"DCT";"No";"0";;;"Dine College Tsaile-Canyon de Chelly";"https://www.dinecollege.edu/ics/";"36.25";"-109.14";"1709";"2133";"1921";"10.1";"9.4";NULL;"GRASS-SHRUB";"AZ";"US";
+"DE";"No";"0";;"2008-06-03 15:17:19";"Desert  Experimental Range";"http://www.fs.fed.us/rmrs/experimental-forests/desert-experimental-range/";"38.666667";"-113.75";"1547";"2565";"2056";"9.9";"15.7";;"DESERT-COLD";"UT";"US";
+"DEN";"No";"0";;"2008-04-14 12:39:43";"Denali National Park and Preserve";"http://www.nps.gov/dena/";"63.3";"-148.9";"200";"6300";"3250";"-2.8";"38";;"ARCTIC";"AK";"US";"Denali.pdf"
+"DESREC";"No";"0";;"2008-06-03 16:06:09";"ANR Desert Research and Extension Center";"http://groups.ucanr.org/desertrec/";"32.80383";"-115.47819";"0";"0";"0";"22.5";"0";;"AGRI";"CA";"US";
+"DEVR";"No";"0";;;"Devine Ridge";"http://www.sagestep.org/locations/devine.html";"43.71";"-118.95";"1463";"1585";"1524";"8";"37.5";NULL;"SAGEBRUSH";"OR";"US";
+"DFP";"No";"0";;;"Dolan Falls Preserve";"http://www.nature.org/wherewework/northamerica/states/texas/preserves/art6399.html";"29.8842";"-100.993";NULL;NULL;"470";"18";"48";NULL;"GRASS-SHRUB";"TX";"US";
+"DFWI";"No";"0";;;"Darrin Fresh Water Institute";"http://www.rpi.edu/dept/DFWI/";"43.557";"-73.655";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"NY";"US";
+"DIFS";"No";"0";;;"Dixon Field Station-USGS";"http://www.werc.usgs.gov/dixon/index.html";"38.496114";"-121.799065";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"CA";"US";
+"DISWP";"No";"0";;;"Disney Wilderness Preserve";"http://www.nature.org/wherewework/northamerica/states/florida/preserves/art5523.html";"28.132";"-81.405";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"FL";"US";
+"DLMC";"No";"0";;;"Dawson Los Monos Canyon Reserve";"http://nrs.ucop.edu/Dawson-Los-Monos.htm";"33.157485";"-117.245726";"67";"179";"123";"15";"21";NULL;"TEMPFOR";"CA";"US";
+"DMFS";"No";"0";;;"Delta Marsh Field Station";"http://www.umanitoba.ca/faculties/science/delta_marsh";"50.182";"-98.382";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";NULL;"CA";
+"DOS";"No";"0";;;"Doboy Sound (GCE)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE-DB";"31.390267";"-81.293662";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"DRE";"No";"0";;"2008-04-09 16:18:40";"Dickinson Research Extension Center";"http://www.ag.ndsu.nodak.edu/dickinso/";"46.883";"-102.8";NULL;NULL;NULL;"5.3";"40";;"RANGE";"ND";"US";"Dickinson_Research_Extension_Center.pdf"
+"DREC";"No";"0";;"2008-04-11 10:01:06";"Delta Research and Extension Center";"http://msucares.com/drec/";"33.475";"-90.907";"35";"40";"37.5";NULL;NULL;;"AGRI";"MS";"US";"Delta_Research_and_Extension_Center.pdf"
+"DRI";"No";"0";;;"Desert Research Institute";"http://www.dri.edu";"39.53";"-119.813";NULL;NULL;NULL;NULL;NULL;NULL;"DESERT-COLD";"NV";"US";
+"DSCC";"No";"0";;;"Desert Studies Center";"http://biology.fullerton.edu/dsc/";"35.589";"-116.355";NULL;NULL;"237";"21";"8.9";NULL;"DESERT-HOT";"CA";"US";
+"DSR";"No";"0";;;"Dine College Shiprock";"https://www.dinecollege.edu/ics/";"36.48";"-108.41";NULL;NULL;"1515";"12";"7.6";NULL;"GRASS-SHRUB";"AZ";"US";
+"DTS";"No";"0";;;"Dysart Woods Laboratory";"http://www.plantbio.ohiou.edu/epb/facility/dysart/dysart.htm";"39.59";"-80.59";"325";"425";"375";"10.7";"101";NULL;"TEMPFOR";"OH";"US";
+"DU";"No";"0";;;"Dukes Experimental Forest";"http://nrs.fs.fed.us/ef/locations/mi/dukes/";"46.35";"-87.16667";NULL;NULL;NULL;"5";"35.5";NULL;"TEMPFOR";"MI";"US";
+"ECHR";"No";"0";;;"Elliott Chaparral Reserve";"http://elliott.ucnrs.org/";"33.142";"-117.256";NULL;NULL;NULL;NULL;NULL;NULL;"GRASS-SHRUB";"CA";"US";
+"ECRC";"No";"0";;;"Eastern Colorado Research Center";"http://www.colostate.edu/depts/ecrc/";"40.12";"-103.36";"1310";"1340";"1325";"11";"36";NULL;"GRASS-SHRUB";"CO";"US";
+"EFS";"No";"0";;"2008-04-14 11:31:27";"Entrada Field Station";"http://entrada.utah.edu";"38.8";"-109.27";"1269";"2000";"1634.5";"12";"30";;"GRASS-SHRUB";"UT";"US";"Entrada_Field_Station.pdf"
+"EJMBS";"No";"0";;;"Edward J. Meeman Biological Field Station";"http://biology.memphis.edu/meeman/";"35.351";"-89.987";NULL;NULL;NULL;"16";"132";NULL;"WETLAND";"TN";"US";
+"ELBFS";"No";"0";;;"Eagle Lake Biological Field Station";"http://www.csuchico.edu/biol/EagleLake/eaglelake.html";"40.617";"-120.727";"1554";"2438";"1996";NULL;NULL;NULL;"AQUATIC";"CA";"US";
+"ELKR";"No";"0";;;"Richard J. Elkus Ranch";"http://cesanmateo.ucdavis.edu/Custom%5FProgram/";"37.466843";"-122.428715";NULL;NULL;NULL;NULL;NULL;NULL;"RANGE";"CA";"US";
+"ELP";"No";"0";;"2008-04-07 12:12:45";"El Paso";"http://www.utep.edu/indio/";"31.26";"-105.75";"800";"1600";"1200";"18.1";"24";;"DESERT-HOT";"TX";"US";"El_Paso-Indio.pdf"
+"ELSR";"No";"0";;"2008-04-08 13:41:44";"Elkhorn Slough Reserve";"http://www.nerrs.noaa.gov/ElkhornSlough/welcome.html";"36.818056";"-121.739394";"0";NULL;NULL;NULL;NULL;"Elkhorn Slough is one of the relatively few coastal wetlands remaining in California. The main channel of the slough, which winds inland nearly seven miles, is flanked by a broad salt marsh second in size in California only to San Francisco Bay.";"ESTU";"CA";"US";
+"EMC";"No";"0";;;"Estacion del Mar Cortes";"http://www.glendale.edu/baja";"28.95";"-113.55";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-DESERT";NULL;"MX";
+"ENH";"No";"0";;;"Edmund Niles Huyck Preserve and Biological Research Station";"http://www.huyckpreserve.org";"42.516";"-74.138";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"NY";"US";
+"EOAR";"No";"0";;;"Emerson Oaks Reserve";"http://nrs.ucop.edu/Reserves/Emerson/aboutemerson.html";"33.466667";"-117.039444";"439";"640";"539.5";NULL;NULL;NULL;"COASTAL-TEMP";"CA";"US";
+"EOARC";"No";"0";;;"Eastern Oregon Agricultural Research Center";"http://www.ars.usda.gov/Main/site_main.htm?modecode=53-60-00-00";"43.529";"-119.0229";NULL;NULL;NULL;"7.5";"28";NULL;"AGRI";"OR";"US";
+"ERC";"No";"0";;;"Ecology Research Center";"http://www.cas.muohio.edu/erc/";"39.883";"-85.2";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"IN";"US";
+"ES";"No";"0";;;"Escambia Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"30.1333333333333";"-87.016666";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"AL";"US";
+"ESFL";"No";"0";;;"Ecosystem Studies Field Laboratory at Altona Flat Rock";"http://faculty.plattsburgh.edu/david.franzi/esfl/esflhome.htm";"44.84";"-73.569";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"NY";"US";
+"ESGRMZ";"No";"0";;;"Edwin S. George Reserve";"http://www.sitemaker.umich.edu/esgr/home";"42.463";"-83.964";"271";"304.8";"287.9";"11";"76.2";NULL;"TEMPFOR";"MI";"US";
+"EST";"No";"0";;"2008-04-09 15:13:38";"Estabrook Woods";"http://www.estabrookwoods.org/";"42.49606";"-71.34862";"58";"83";"70.5";"8";"120";;"URBAN";"MA";"US";"Estate_Thomas_Experimental_Forest.pdf"
+"ESUNA";"No";"0";;;"Emporia State University Natural Areas";"http://www.emporia.edu/naturalareas/";"38.49";"-96.33";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"KS";"US";
+"ETEF";"No";"0";;"2008-04-04 17:50:51";"Estate Thomas Experimental Forest Hurricane Monitoring Wildland Site";;"17.7416";"-64.525";"80";"120";"100";"26.7";"110";;"URBAN";"PR";"US";
+"EVNF";"No";"0";;;"Everglades National Park";"http://www.nps.gov/ever/";"25.76256";"-80.82902";NULL;NULL;NULL;"24.3";"138";NULL;"WETLAND";"FL";"US";
+"EYNF";"No";"0";;;"El Yunque (Carribean) National Forest";"http://www.fs.fed.us/r8/caribbean/index.shtml";"18.29166";"-65.7916";NULL;NULL;NULL;NULL;NULL;NULL;"TROPFOR";"PR";"US";
+"FER";"No";"0";;;"Fernow Experimental Forest";"http://www.fs.fed.us/ne/parsons/fefhome.htm";"39.0542";"-79.6875";NULL;NULL;NULL;"9.1";"149.5";;"TEMPFOR";"WV";"US";
+"FFC";"No";"0";;;"Ford Forestry Center";"http://fordcenter.mtu.edu";"46.583";"-88.466";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"MI";"US";
+"FFS";"No";"0";;;"Forfar Field Station";"http://www.intlfieldstudies.com/index.php?option=com_content&task=view&id=15&Itemid=28";"25";"-77.3";NULL;NULL;NULL;"24.4";NULL;NULL;"COASTAL-TROP";NULL;"BS";
+"FGH";"No";"0";;"2008-04-08 18:00:47";"Feeagh Lake";"http://www.gleon.org/lakes/view/feeagh/";"53.948889";"9.575556";NULL;NULL;NULL;NULL;NULL;;"AQUATIC";;"IE";
+"FLBS";"No";"0";;;"Flathead Lake Biological Station";"http://www.umt.edu/flbs/";"47.88";"-114.03";"880";"920";"900";"8";"55.4";NULL;"TEMPFOR";"MT";"US";
+"FMRR";"No";"0";;;"Fortuna Mountain Research Reserve";"http://fs.sdsu.edu/kf/reserves/fmrr/";"32.844";"-117.056";"91";"393";"242";NULL;NULL;NULL;"GRASS-SHRUB";"CA";"US";
+"FONR";"No";"0";;;"Fort Ord Natural Reserve";"http://ucreserve.ucsc.edu/FortOrd/ftordres.html";"37.838338";"-122.479932";NULL;NULL;NULL;NULL;NULL;NULL;"GRASS-SHRUB";"CA";"US";
+"FPMS";"No";"0";;"2008-04-04 17:55:11";"Finca Pellejas Managed (Agricultural) Site";;"18.20475";"-66.70954";"350";"450";"400";"23";"192";;"AGRI";"PR";"US";"Finca_Pellejas.pdf"
+"FRA";"No";"0";;;"Fraser Experimental Forest";"http://www.fs.fed.us/rm/fraser/";"39.9069";"-105.8828";NULL;NULL;NULL;"0.3";"59.8";NULL;"ALPINE";"CO";"US";
+"FRR";"No";"0";;;"Freeman Ranch";"http://www.txstate.edu/freemanranch/oindex.htm";"29.9308";"-97.9915";NULL;NULL;"235";"20.1";"86";NULL;"SAVANNA";"TX";"US";
+"FRSL";"No";"0";;"2008-04-08 18:04:43";"Frederiksborg Slotssoe Lake";"http://www.gleon.org/lakes/view/frederiksborg/";"55.933333";"12.283333";NULL;NULL;NULL;NULL;NULL;;"AQUATIC";;"DK";
+"FTHA";"No";"0";;"2008-04-04 19:21:16";"Fort Hays Experimental Station";"http://www.wkarc.org/Arch/arch.asp";"38.858299";"-99.335271";"605";"610";"607.5";"11.5";"56";;"GRASS-SHRUB";"KS";"US";"Fort_Hays.pdf"
+"FTK";"No";"0";;;"Fort Keogh";"http://www.ars.usda.gov/Main/docs.htm?docid=3087";"46.26";"-105.53";NULL;NULL;NULL;"7.8";"34.1";NULL;"RANGE";"MT";"US";
+"FtM_MT_NRM";"No";"0";;"2008-04-09 18:15:51";"Missoula/Fort Missoula";"http://dbs.umt.edu/flightlab/";"46.84";"-114.05";"0";"0";"975";"7.3";"45";;"TEMPFOR";"MT";"US";"Missoula.pdf"
+"FTOS";"No";"0";;;"Fort Collins Open Space";"http://fcgov.com/naturalareas/";"40.56";"-105.027";"1490";"1500";"1495";"9";"39";NULL;"URBAN";"CO";"US";
+"FTSL";"No";"0";;;"Franz Theodore Stone Laboratory";"http://ohioseagrant.osu.edu/stonelab/";"41.654";"-82.823";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"OH";"US";
+"FV";"No";"0";;;"Fort Valley Experimental Forest";"http://www.fs.fed.us/rmrs/experimental-forests/fort-valley-experimental-forest";"35.2683333333333";"-111.740277";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"AZ";"US";
+"GALAC";"No";"0";;;"Galapagos Academic Institute for the Arts and Sciences";"http://www.usfq.edu.ec/gaias/index.html";"0.92";"-90.75";"0";NULL;NULL;NULL;NULL;NULL;"OCEAN";NULL;"EC";
+"GAZFRS";"No";"0";;;"Field Research Station at Gazos Creek";"http://www.gazos.org/ResearchStation/";"37.183";"-122.29";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"CA";"US";
+"GB";"No";"0";;"2007-10-30 13:24:05";"Great Basin Experimental Range";"http://www.fs.fed.us/rmrs/experimental-forests/great-basin-experimental-range/";"39.32";"-111.5";"2070";"3180";"2625";"2.5";"52.5";;"RANGE";"UT";"US";
+"GBNP";"No";"0";;"2008-06-10 16:07:49";"Great Basin National Park";"http://www.nps.gov/grba/";"39.01";"-114.22";"2000";"3982";"2991";"5.6";"55.8";;"SAGEBRUSH";"NV";"US";"Great_Basin_National_Park.pdf"
+"GC";"No";"0";;"2007-10-30 13:12:07";"Goodwin Creek Experimental Watershed";"http://ars.usda.gov/Business/docs.htm?docid=5040";"34.232";"89.914";NULL;NULL;NULL;NULL;"144";;"TEMPFOR";"MS";"US";
+"GCE1";"No";"0";;;"Eulonia (GCE1)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?site=GCE1";"31.540332";"-81.418894";NULL;NULL;"0";NULL;NULL;NULL;"ESTU";"GA";"US";
+"GCE10";"No";"0";;;"Hunt Camp (GCE10)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE10";"31.482527";"-81.276773";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"GCE2";"No";"0";;;"Four Mile Island (GCE2)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE2";"31.54198";"-81.305316";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"GCE3";"No";"0";;;"North Sapelo (GCE3)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE3";"31.53485";"-81.215897";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"GCE4";"No";"0";;;"Meridian (GCE4)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE4";"31.455351";"-81.364311";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"GCE5";"No";"0";;;"Folly River (GCE5)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE5";"31.431056";"-81.341413";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"GCE6";"No";"0";;;"Dean Creek (GCE6)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE6";"31.382215";"-81.280283";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"GCE7";"No";"0";;;"Carrs Island (GCE7)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE7";"31.341886";"-81.48337";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"GCE8";"No";"0";;"2008-06-03 15:50:39";"Alligator Creek (GCE8)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg";"31.310898";"-81.418729";NULL;NULL;NULL;NULL;NULL;;"ESTU";"GA";"US";
+"GCE9";"No";"0";;;"Rockdedundy Island (GCE9)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE9";"31.348674";"-81.335557";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"GERC";"No";"0";;;"Gerace Research Center";"http://www.geraceresearchcentre.com/";"24.117";"-74.467";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";NULL;"BS";
+"GEWMA";"No";"0";;;"Gus Engeling Wildlife Management Area";"http://www.tpwd.state.tx.us/huntwild/hunt/wma/find_a_wma/list/?id=10";"31.9083";"-95.9054";NULL;NULL;"80";"19.1";"107.2";NULL;"SAVANNA";"TX";"US";
+"GGFS";"No";"0";;;"Golden Gate Field Station";"http://www.werc.usgs.gov/gg/index.html";"37.837532";"-122.48018";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"CA";"US";
+"GHEI";"No";"0";;;"Glen Helen Ecology Institute";"http://www.glenhelen.org";"39.66";"-84";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"OH";"US";
+"GLA";"No";"0";;;"Glacier Lakes Experimental Forest";"http://www.fs.fed.us/rm/main/expfor/glees.html";"41.375";"-106.2583";"3200";"3500";"3350";"-0.8";"110";NULL;"ALPINE";"WY";"US";
+"GLEES";"No";"0";;"2007-10-30 13:22:49";"Glacier Lakes Ecosystem Experiments Site";"http://www.fs.fed.us/rm/landscapes/Locations/Glees/GLEES.shtml";"41.375";"106.258";"3200";"3500";"3350";"-0.8";"110";;"ALPINE";"WY";"US";
+"GMU";"No";"0";;"2008-04-09 11:59:19";"George Mason University Campus";"http://www.gmu.edu/";"38.83026";"-77.306513";"109";"137";"123";"13";"105";;"URBAN";"VA";"US";"George_Mason_University_Campus_Site.pdf"
+"GNR";"No";"0";;;"Gault Nature Reserve";"http://www.mcgill.ca/gault";"45.517";"-73.133";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";NULL;"CA";
+"GONA";"No";"0";;"2008-04-11 11:00:05";"Graham Oaks Natural Area";"http://www.metro-region.org/article.cfm?articleid=10365";"45.3";"-122.79";"25";"60";"42.5";"11.8";"118";;"URBAN";"OR";"US";"Graham_Oaks_Natural_Area_Urban_Fringe_Site.pdf"
+"GPFO";"No";"0";;;"Cecil and Ida Green Pinon Flat Observatory";"http://pfostrain.ucsd.edu/pfo/";"33.60986";"-116.4568";NULL;NULL;"730.4";NULL;NULL;NULL;"GRASS-SHRUB";"CA";"US";
+"GRBR";"No";"0";;"2008-04-08 13:43:07";"Grand Bay River";"http://www.nerrs.noaa.gov/GrandBay/welcome.html";"30.3571";"-88.4629";"0";"0";"0";NULL;NULL;"The Grand Bay Reserve is one of the most biologically productive estuarine ecosystems in the Gulf of Mexico region, supporting several rare or endangered plant and animal species, numerous important marine fishery resources, diverse habitat types and archaeological sites";"ESTU";"AL";"US";
+"GRFS";"No";"0";;;"Great Rivers Field Station";"http://www.umesc.usgs.gov/field_stations/fs4/greatrivers.html";"38.933";"-90.022";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"IL";"US";
+"GRG";"No";"0";;"2008-04-11 12:26:27";"Grand River Grasslands";"http://www.nature.org/wherewework/northamerica/states/missouri/preserves/art447.html";"40.5809";"-94.13";"316";"350";"333";"9.7";"85";;"PRAIRIE";"MO";"US";"Grand_River_Grasslands.pdf"
+"GRL";"No";"0";;;"Grazinglands Research Laboratory";"http://ars.usda.gov/Main/site_main.htm?modecode=62-18-00-00";"34.88";"-98";NULL;NULL;NULL;"15.6";"75.6";NULL;"GRASS-SHRUB";"OK";"US";
+"GSE";"No";"0";;"2008-04-14 11:33:46";"Grand Staircase-Escalante National Monument";"http://www.ut.blm.gov/monument/";"37.42";"-112";"1650";"3100";"2375";"12";"52.5";;"GRASS-SHRUB";"UT";"US";"Grand_Staircase-Escalante.pdf"
+"GSL";"No";"0";;"2008-04-09 16:22:18";"Gudmundsen Sandhills Laboratory";"http://westcentral.unl.edu/GSL/";"42.04";"-101.26";NULL;NULL;NULL;"8.2";"58.1";;"RANGE";"NE";"US";"Gudmundsen_Sandhills_Laboratory.pdf"
+"GSM";"No";"0";;"2008-04-04 14:21:24";"Great Smoky Mountains National Park";"http://www.nps.gov/grsm/";"35.36";"-83.55";"460";"1340";"900";"9";"177";;"TEMPFOR";"TN";"US";
+"GSWRL";"No";"0";;;"Grassland Soil and Water Research Laboratory";"http://www.ars.usda.gov/Main/site_main.htm?modecode=62-06-00-00";"31.0552";"-97.3483";NULL;NULL;NULL;"19.4";"90.4";NULL;"GRASS-SHRUB";"TX";"US";
+"GTMR";"No";"0";;"2008-04-08 14:11:51";"Guana Tolomato Matanzas Reserve";"http://www.nerrs.noaa.gov/GTM/welcome.html";"29.6578";"-81.2203";"0";NULL;NULL;NULL;NULL;"he Guana Tolomato Matanzas National Estuarine Research Reserve encompasses approximately 55,000 acres of salt marsh and mangrove tidal wetlands, oyster bars, estuarine lagoons, upland habitat and offshore seas in Northeast Florida. It contains the northern most extent of mangrove habitat on the east coast of the United States.";"ESTU";"FL";"US";
+"GTRC";"No";"0";;"2008-06-03 15:47:51";"Gobabeb Training and Research Centre";"http://www.gobabebtrc.org/";"-23.08";"14.5";NULL;NULL;NULL;NULL;NULL;;"DESERT-HOT";;"NA";
+"GUA";"No";"0";;"2008-04-04 18:00:41";"Guanica Biosphere Reserve";"http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=USA+35&mode=all";"17.9605";"-66.84238";"0";"230";"115";"25.7";"76";;"TROPFOR";"PR";"US";"Guanica_Forest_Biosphere_Reserve.pdf"
+"GUS";"No";"0";;"2008-04-04 18:08:09";"Gurabo Puerto Rico Urban Site";;"18.25597";"-65.97388";"45";"100";"72.5";"24.8";"158";;"URBAN";"PR";"US";"Gurabo_Metro.pdf"
+"GWEL";"No";"0";;;"Green Wing Environmental Laboratory";"http://helios.augustana.edu/fieldstations/index.html";"41.714";"-89.329";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"IL";"US";
+"GWIP";"No";"0";;;"Galbreath Wildlands Preserve";"http://www.sonoma.edu/galbreath/";"38.336202";"-122.673136";"274.3";"670.6";"472.45";NULL;NULL;NULL;"TEMPFOR";"CA";"US";
+"GWRL";"No";"0";;;"Grasslands Wildlife Research Lab";NULL;"38.917";"-88.2";NULL;NULL;NULL;NULL;NULL;NULL;"PRAIRIE";"IL";"US";
+"HANF";"No";"0";;"2008-04-07 13:23:44";"Hanford";"http://www.hanford.gov/";"46.73";"-119.34";"262";"287";"274.5";"11.1";"21.5";;"SAGEBRUSH";"WA";"US";"Hanford.pdf"
+"HAR";"No";"0";;;"Harrison Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"30.6333";"-89.05";NULL;NULL;NULL;"19.7";"173.1";NULL;"TEMPFOR";"MS";"US";
+"HBEF";"No";"0";;"2008-04-09 15:35:59";"Hubbard Brook Experimental Forest";"http://www.fs.fed.us/ne/newtown_square/research/experimental-forest/hubbard-brook.shtml";"43.56";"-71.45";"207";"1015";"611";"4.5";"140";"http://www.hubbardbrook.org/overview/site_description.htm";"TEMPFOR";"NH";"US";"Hubbard_Brook-Bartlett_Experimental_Forest.pdf"
+"HBS";"No";"0";;"2008-04-11 10:04:09";"Hancock Biological Station";"http://www.murraystate.edu/qacd/cos/hbs/hbs.htm";"36.29352";"-87.5927";"109";"233";"171";"14.2";"129";;"TEMPFOR";"KY";"US";"Hancock_Biological_Station.pdf"
+"HETF";"No";"0";;;"Hawaii Experimental Tropical Forest";"http://www.fs.fed.us/psw/ef/hawaii/";"19.8";"-155.3";"0";"1920";"960";NULL;NULL;NULL;"TROPFOR";"HI";"US";
+"HFR";"No";"0";;"2008-04-09 15:19:16";"Harvard Forest";"http://harvardforest.fas.harvard.edu/";"42.506";"-72.194";"114";"417";"265.5";"7.3";"109";;"TEMPFOR";"MA";"US";"Harvard_Forest.pdf"
+"HFRI";"No";"0";;;"Humboldt Field Research Institute";"http://eaglehill.us";"44.48";"-68.03";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"ME";"US";
+"HFS";"No";"0";;"2007-11-25 17:48:47";"George Harp Environmental Field Station";"http://engr.astate.edu/biology/facilities.htm";"35.8683";"-92.12123";"180";"225";"202.5";"16.6";"124";;"TEMPFOR";"AR";"US";
+"HI";"No";"0";;;"Hitchiti  Experimental Forest";"http://www.forestdisturbance.net/ExpForests/Hitchiti/index.htm";"33.1666666666667";"-83.73333";NULL;NULL;NULL;NULL;"121.9";NULL;"TEMPFOR";"GA";"US";
+"HIBS";"No";"0";;;"Highlands Biological Station";"http://www.wcu.edu/hbs/";"35.054";"-83.188";"1200";"1500";"1350";NULL;"225";NULL;"TEMPFOR";"NC";"US";
+"HJA";"No";"0";;"2008-04-11 11:02:26";"H. J. Andrews Experimental Forest";"http://www.fsl.orst.edu/lter/";"44.212";"-122.56";"410";"1630";"1020";"9.22";"225.4";;"TEMPFOR";"OR";"US";"HJ_Andrews_Experimental_Forest.pdf"
+"HJPFR";"No";"0";;;"Hans Jenny Pygmy Forest Reserve";"http://nrs.ucop.edu/Jenny-Pygmy-Forest.htm";"39.283333";"-123.756944";NULL;NULL;"180";"12";"26.2";NULL;"TEMPFOR";"CA";"US";
+"HJPFRE";"No";"0";;"2008-04-08 16:54:44";"Hans Jenny Pygmy Forest Reserve";"http://nrs.ucop.edu/Jenny-Pygmy-Forest.htm";"39.283333";"-123.756944";NULL;NULL;"180";"12";"67";;"GRASS-SHRUB";"CA";"US";
+"HMF";"No";"0";;;"Hopkins Memorial Forest";"http://www.williams.edu/ces/hopkins.htm";"42.733";"-73.25";"170";"745";"457.5";"-5.5";"101.6";"http://www.williams.edu/ces/hopkins/landscape/landscapehome.htm";"TEMPFOR";"MA";"US";
+"HMILFS";"No";"0";;;"Huron Mountain Wildlife Foundation's Stone House Field Station on Ives Lake";"http://www.hmwf.org";"46.85";"-87.67";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"MI";"US";
+"HMSAC";"No";"0";;;"Hawk Mountain Sanctuary Acopian Center";"http://www.hawkmountain.org";"40.646";"-75.98";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"PA";"US";
+"HMSC";"No";"0";;;"Huntsman Marine Science Centre";"http://www.huntsmanmarine.ca";"45.083";"-67.083";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";NULL;"CA";
+"HMSCOSU";"No";"0";;;"Hatfield Marine Science Center";"http://www.hmsc.oregonstate.edu";"44.637";"-124.052";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"OR";"US";
+"HMTN";"No";"0";;"2008-04-07 13:28:04";"Hart Mountain National Antelope Refuge";"http://www.fws.gov/sheldonhartmtn/Hart/index.html";"42.5";"-119.6";"1497";"1509";"1503";"6.5";"33.6";;"SAGEBRUSH";"OR";"US";"Hart_Mountain.pdf"
+"HNHR";"No";"0";;;"Hastings Natural History Reservation";"http://www.hastingsreserve.org";"36.388";"-121.551";"500";"1000";"750";"20";"53";NULL;"SAVANNA";"CA";"US";
+"HNR";"No";"0";;;"Hall Nature Reserve";"http://www.ksr.ku.edu/about/html/hall.htm";"39.02";"-95.35";"290";"311";"300.5";"13.6";"101";NULL;"PRAIRIE";"KS";"US";
+"HOH";"No";"0";;"2008-04-11 11:06:40";"Hoh River Valley, Olympic National Park";"http://www.nps.gov/olym";"47.8333";"-124.01";"180";"850";"515";"10";"375";;"TEMPFOR";"WA";"US";"Hoh_River_Valley.pdf"
+"HOMS";"No";"0";;;"Hopkins Marine Station";"http://www-marine.stanford.edu/";"36.618447";"-121.903415";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"CA";"US";
+"HOW";"No";"0";;"2008-04-09 15:27:00";"Howland Research Forest";"www.fs.fed.us/ne/durham/4104/Howland.shtml";"45.204022";"-68.74021";"55";"120";"87.5";"6.1";"100";;"TEMPFOR";"ME";"US";"Howland_Forest.pdf"
+"HPV";"No";"0";;"2008-04-14 12:33:46";"Happy Valley";"http://www.geobotany.uaf.edu/cryoturbation/happyvalley.html";"69.15";"-148.83";"280";"340";"310";NULL;NULL;;"ARCTIC";"AK";"US";"Happy_Valley.pdf"
+"HQR";"No";"0";;;"Harvard Forest - Quabbin Reservoir";"http://harvardforest.fas.harvard.edu/research/quabbin.html";"42.433";"-72.304";"114";"417";"265.5";"7.1";"107";NULL;"TEMPFOR";"MA";"US";
+"HREC";"No";"0";;;"Hopland Research and Extension Center";"http://groups.ucanr.org/hopland/";"39.001179";"-123.08361";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"CA";"US";
+"HSR";"No";"0";;;"Highstead Reserve";"http://www.highsteadarboretum.org/";"41.32515";"-73.39465";"173";"247";"210";NULL;NULL;NULL;"TEMPFOR";"CT";"US";
+"HTGSC";"No";"0";;;"Howard T. Greene Scientific Study and Conservation Area";"http://www3.cc.edu/programs/environscience/southernunit.asp";"42.967";"-88.367";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"WI";"US";
+"HURR";"No";"0";;"2008-04-08 14:14:15";"Hudson River Reserve";"http://www.nerrs.noaa.gov/HudsonRiver/welcome.html";"42.0182";"-73.917";"0";NULL;NULL;NULL;NULL;"The Hudson River is an amazing resource: tidal river that links the communities of the valley economically, culturally and ecologically, and a cradle of human development for thousands of years. Home to more than 200 species of fish, the Hudson serves as a nursery ground for such important fish as sturgeon, striped bass and American shad. It also supports a corresponding abundance of other river-dependent wildlife, especially birds.";"ESTU";"NY";"US";
+"IARR";"No";"0";;"2008-06-03 15:44:11";"Iracambi Atlantic Rainforest Research ";"http://www.iracambi.com";"-21";"-42.5";"800";"1500";"1150";NULL;NULL;;"TROPFOR";;"BR";
+"IBSL";"No";"0";;;"Itasca Biological Station and Laboratories";"http://www.cbs.umn.edu/itasca/";"47.228";"-95.192";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"MN";"US";
+"ICP";"No";"0";;;"Independence Creek Preserve";"http://www.nature.org/wherewework/northamerica/states/texas/preserves/art9517.html";"30.5";"-101.833";NULL;NULL;"760";"18.3";"15.4";NULL;"DESERT-HOT";"TX";"US";
+"ICSDO";"No";"0";;;"Intercultural Center for Study of Deserts and Oceans";"http://www.cedointercultural.org";"31.2";"-113.33";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-DESERT";"AZ";"US";
+"ICW";"No";"0";;;"Intracoastal Waterway (GCE)";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=GCE-IC";"31.354015";"-81.352453";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"IES";"No";"0";;"2008-06-13 16:06:18";"Cary Institute of Ecosystem Studies";"http://www.ecostudies.org/";"41.833";"-73.75";"90";"220";"155";"9.6";"110.9";;"TEMPFOR";"NY";"US";"Institute_of_Ecosystem_Studies.pdf"
+"ILL";"No";"0";;;"Iowa Lakeside Laboratory";"http://www.continuetolearn.uiowa.edu/lakesidelab/";"43.49";"-95.19";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"IA";"US";
+"IMN";"No";"0";;"2007-11-25 17:32:24";"Imnaviatt Creek";NULL;"68.6";"-149.33";"200";"300";"250";NULL;NULL;NULL;"ARCTIC";"AK";"US";
+"IND";"No";"0";;;"Indio Mountains Research Station";"http://research.utep.edu/Default.aspx?alias=research.utep.edu/indio";"31.04";"-104.83";"900";"1600";"1250";"18.1";"24";NULL;"URBAN";"TX";"US";"El_Paso-Indio.pdf"
+"INUPR";"No";"0";;;"Institute of Neurobiology, University of Puerto Rico";"http://www.neuro.upr.edu/";"18.468";"-66.106";NULL;NULL;NULL;NULL;NULL;NULL;NULL;"PR";"US";
+"IRBR";"No";"0";;;"Illinois River Biological Station";"http://www.inhs.uiuc.edu/caec/ltrm/caec_havfs.html";"40.353";"-90.022";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"IL";"US";
+"IRBS";"No";"0";;;"Illinois River Biological Station";"http://www.inhs.uiuc.edu/caec/ltrm/index.html";"40.353";"-90.05";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"IL";"US";
+"IREC";"No";"0";;;"Intermountain Research and Extension Center";"http://groups.ucanr.org/intermountain/";"41.96819";"-121.4743";NULL;NULL;"1231.4";"9.4";"32.7";NULL;"AGRI";"CA";"US";
+"ITEC";"No";"0";;;"Institute for Tropical Ecology and Conservation";"http://www.itec-edu.org/";"9.426";"-82.323";"0";NULL;NULL;"30";"400";NULL;"TROPFOR";NULL;"PA";
+"ITME";"No";"0";;;"Institute for Tropical Marine Ecology";"http://www.itme.org";"15.317";"-61.4";"0";NULL;NULL;NULL;NULL;NULL;"OCEAN";NULL;"DM";
+"IURTP";"No";"0";;;"Indiana University Research and Training Preserve";"http://www.indiana.edu/~preserve";"39.18";"-86.5";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"IN";"US";
+"IWRCELS";"No";"0";;;"Inger and Walter Rice Center for Environmental Life Science";"http://www.vcu.edu/rice/index.html";"37.317";"-77.2";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"VA";"US";
+"JACR";"No";"0";;"2008-04-09 13:27:03";"Jacques Cousteau Reserve";"http://www.nerrs.noaa.gov/JacquesCousteau/welcome.html";"39.5079";"-74.3385";"0";NULL;NULL;NULL;NULL;"The Jacques Cousteau National Estuarine Research Reserve, at the Mullica River and the Great Bay, is the only reserve in the system to be named after an individual. Itâ€™s also the only reserve in the system to expand its boundaries seaward to the Atlantic Ocean.";"ESTU";"NJ";"US";
+"JAGC";"No";"0";;;"Jaguar Creek";"http://targetearth.org/jaguarcreek/jc_main.html";"17.161";"-88.68";NULL;NULL;NULL;NULL;NULL;NULL;"TROPFOR";NULL;"BZ";
+"JAS";"No";"0";;;"Jasper Ridge Biological Preserve";"http://jrbp.stanford.edu/";"37.4036";"-122.2269";"62";"211";"136.5";NULL;"67.5";NULL;"SAVANNA";"CA";"US";
+"JER";"No";"0";;"2008-04-07 12:39:32";"Jornada Experimental Range";"http://usda-ars.nmsu.edu/";"32.38";"-106.882";"1307";"2438";"1872.5";"14.8";"25";;"GRASS-SHRUB";"NM";"US";"Jornada_Basin_and_Range.pdf"
+"JHBFS";"No";"0";;;"JH Barrow Field Station";"http://www.hiram.edu/current/catalog/resources.html";"41.313";"-81.144";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"OH";"US";
+"JMR";"No";"0";;;"James San Jacinto Mountains Reserve";"http://www.jamesreserve.edu/";"33.8083";"-116.7778";"1623";"2369";"1996";NULL;NULL;NULL;"TEMPFOR";"CA";"US";
+"JOB";"No";"0";;"2008-04-04 18:14:52";"Jobos National Estuarine Research Reserve";"http://nerrs.noaa.gov/JobosBay/";"17.9433";"-66.24972";"0";"3";"1.5";"26.3";"113";;"TROPFOR";"PR";"US";"Jobos_National_Estuary_Research_Sanctuary.pdf"
+"JPRR";"No";"0";;;"Jepson Prairie Reserve";"http://nrs.ucdavis.edu/jepson.html";"38.275207";"-121.823569";NULL;NULL;NULL;NULL;NULL;NULL;"PRAIRIE";"CA";"US";
+"JRC";"No";"0";;"2008-04-14 09:48:22";"Jones Research Center";"http://www.jonesctr.org/";"31.2185";"-84.4692";"30";"60";"45";"20";"125";;"TEMPFOR";"GA";"US";"Jones_Ecological_Research_Center.pdf"
+"KA";"No";"0";;;"Kane Experimental Forest";"http://nrs.fs.fed.us/ef/locations/pa/kane/";"41.597778";"-78.766111";NULL;NULL;NULL;NULL;"110";NULL;"TEMPFOR";"PA";"US";
+"KABRE";"No";"0";;"2008-04-08 14:20:09";"Kachemak Bay Reserve";"http://www.nerrs.noaa.gov/KachemakBay/welcome.html";"59.600911";"-151.409611";"0";"0";"0";"4";"60";;"ESTU";"AK";"US";
+"KANFS";"No";"0";;;"Kananaskis Field Stations";"http://www.kfs.ucalgary.ca/";"51.033";"-115.05";"1390";"1500";"1455";NULL;NULL;NULL;"TIAGA";NULL;"CA";
+"KASKBS";"No";"0";;;"Kaskaskia Biological Station";"http://www.inhs.uiuc.edu/cae/kaskaskia/BioStations/stations/kaskaskia.html";"39.5";"-88.75";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"IL";"US";
+"KAW";"No";"0";;;"Kawai Nui Marsh";"http://www.pixi.com/~isd/Kawai_Nui.html";"21.3972";"-157.7583";"0";"0";"0";"22";"150";NULL;"WETLAND";"HI";"US";
+"KBCCES";"No";"0";;;"Kino Bay Center for Cultural and Ecological Studies";"http://www.prescott.edu/highlights/kino/index.html";"25.025";"-112.025";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-DESERT";NULL;"MX";
+"KBS";"No";"0";;"2008-04-07 14:56:36";"Kellogg Biological Station";"http://www.kbs.msu.edu/";"42.4";"-85.4";"0";"0";"0";"9.4";"90";;"WETLAND";"MI";"US";"Kellogg_Biological_Station.pdf"
+"KCC";"No";"0";;"2008-06-03 15:42:50";"Kioloa Coastal Campus";"http://kioloa.anu.edu.au/";"-35.55";"150.383";NULL;NULL;NULL;NULL;NULL;;"OCEAN";;"AU";
+"KEF";"No";"0";;;"Kawishiwi Experimental Forest";"http://nrs.fs.fed.us/";"48.1";"-93.08333";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"MN";"US";
+"KEN";"No";"0";;"2007-11-25 17:32:38";"Kenai National Wildlife Refuge";"http://kenai.fws.gov/";"60.45";"-150.3";"50";"100";"75";NULL;NULL;NULL;"TIAGA";"AK";"US";
+"KENFR";"No";"0";;;"Kendall Frost Marsh Reserve";"http://nrs.ucop.edu/Kendall-Marsh.htm";"32.793";"-117.217";"0";"2";"1";"17";"22";NULL;"ESTU";"CA";"US";
+"KF";"No";"0";;;"Kenan Field";"http://gce-lter.marsci.uga.edu/lter/asp/db/sitedetails.asp?units=deg&polygon=0&site=KF";"31.449279";"-81.278795";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"KFS";"No";"0";;"2008-04-11 13:09:26";"Kansas Field Station and Ecological Reserves";"http://www.ksr.ku.edu/index.htm";"39.033";"-95.2";"252";"332";"292";"13.6";"101";;"PRAIRIE";"KS";"US";
+"KK";"No";"0";;;"Kaskaskia Experimental Forest";"http://nrs.fs.fed.us/ef/locations/il/kaskaskia/";"37.533333";"-88.35";NULL;NULL;NULL;"13";"109.8";NULL;"TEMPFOR";"IL";"US";
+"KLSFS";"No";"0";;"2008-06-03 15:50:03";"Alice L. Kibbe Life Sciences Research Station";"http://www.wiu.edu/kibbe/";"40.359";"-91.434";NULL;NULL;NULL;NULL;NULL;;"TEMPFOR";"IL";"US";
+"KNCT";"No";"0";;;"Kennecott Nature Center of Murray";"http://www.mury.k12.ut.us/knc/index.html";"40.57";"-112.06";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"UT";"US";
+"KNRS";"No";"0";;;"Kemp Natural Resources Station";"http://www.kemp.wisc.edu";"45.833";"-89.667";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"WI";"US";
+"KO";"No";"0";;;"Henry R. Koen Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"36.0333333333333";"-93.16666";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"AR";"US";
+"KONHSA";"No";"0";;;"Katharine Ordway Natural History Study Area";"http://www.macalester.edu/biology/ordway";"44.133";"-93";NULL;NULL;NULL;NULL;NULL;NULL;"PRAIRIE";"MN";"US";
+"KPBS";"No";"0";;"2008-04-11 12:38:36";"Konza Prairie Biological Station";"http://www.k-state.edu/konza/";"39.1";"-96.4";"320";"444";"382";"12";"83.5";"http://www.k-state.edu/konza/location.htm";"PRAIRIE";"KS";"US";"Konza_Prairie_Biological_Station.pdf"
+"KREC";"No";"0";;;"Kearney Research and Extension Center- UC Davis";"http://groups.ucanr.org/krec/";"36.601088";"-119.511444";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"CA";"US";
+"KREW";"No";"0";;;"Kings River Experimental Watershed";"http://www.fs.fed.us/psw/programs/snrc/water/kingsriver/";"37.1";"-119.1";"900";"2800";"1850";NULL;"125";NULL;"TEMPFOR";"CA";"US";
+"KSC";"No";"0";;"2008-04-14 09:50:47";"Kennedy Space Center";"http://www.nasa.gov/centers/kennedy/home/index.html";"28.5904";"-80.659197";"0";"8";"4";"22";"125";;"WETLAND";"FL";"US";"Kennedy_Space_Center.pdf"
+"KSRJH";"No";"0";;;"Koffler Scientific Reserve at Jokers Hill";"http://www.zoo.utoronto.ca/jokershill";"44.01";"-79.5";NULL;NULL;NULL;NULL;NULL;"http://www.zoo.utoronto.ca/jokershill/jhdescription.html";"TEMPFOR";NULL;"CA";
+"KWMA";"No";"0";;"2008-04-14 10:21:10";"Kerr Wildlife Management Area";"http://www.tpwd.state.tx.us/huntwild/hunt/wma/find_a_wma/list/?id=12";"30.071";"-99.338";NULL;NULL;"575";"16.3";"73.7";;"SAVANNA";"TX";"US";"Kerr_Wildlife_Management_Area.pdf"
+"KYLA";"No";"0";;"2008-04-08 18:02:01";"Kentucky Lake";"http://www.gleon.org/lakes/view/kentucky/";"36.739444";"-88.109722";NULL;NULL;NULL;NULL;NULL;;"AQUATIC";"KY";"US";
+"LACAS";"No";"0";;;"Lacawac Sanctuary";"http://www.Lacawac.org";"41.371";"-75.329";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"PA";"US";
+"LAJ";"No";"0";;"2008-04-04 18:29:18";"Lajas Agricultural Experimental Station";"http://estacion.cca.uprm.edu/lajas/infgen.aspx";"18.033";"-67.066";"0";"0";"30";"25";"0";;"TROPFOR";"PR";"US";"Lajas_Agricultural_Experimental_Station.pdf"
+"LAMFS";"No";"0";;;"Laguna Madre Field Station";"http://www.sci.tamucc.edu/stweb/research/Facilities/LagunaMadre/station.htm";"27.53";"-97.28";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"TX";"US";
+"LARM";"No";"0";;"2008-04-04 19:24:07";"Lake Meredith National Recreation Area";"http://www.nps.gov/lamr/";"35.64";"-101.66";"853";"1012";"932.5";"13.5";"51";;"GRASS-SHRUB";"TX";"US";"Lake_Meredith_National_Recreation_Area.pdf"
+"LBJ";"No";"0";;;"Lyndon B Johnson National Grasslands";"http://www.fs.fed.us/r8/texas/recreation/caddo_lbj/caddo-lbj_gen_info.shtml";"33.3625";"-97.5951";NULL;NULL;"270";"17";"90";NULL;"SAVANNA";"TX";"US";"LBJ_National_Grasslands.pdf"
+"LCAM";"No";"0";;"2008-04-11 11:14:18";"Lacamas Park";"http://www.ci.camas.wa.us/parks/lacamas.htm";"45.613";"-122.38";"20";"100";"60";"11.2";"140";;"URBAN";"WA";"US";"Lacamas_Park_Urban_Fringe_Site.pdf"
+"LCC";"No";"0";;;"Louis Calder Center";"http://www.fordham.edu/calder_center";"41.128";"-73.732";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"NY";"US";
+"LCFRS";"No";"0";;;"Las Cuevas Research Station";"http://www.mayaforest.com/";"16.733";"-88.983";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";NULL;"BZ";
+"LCW";"No";"0";;;"Lilley Cornett Woods";"http://www.naturalareas.eku.edu/lcw.php";"37.09";"-83.02";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"KY";"US";
+"LEC";"No";"0";;;"Lake Erie Center";"http://www.lakeerie.utoledo.edu/";"41.68829";"-83.37602";"173";"176";"174.5";"9.2";"84";NULL;"WETLAND";"OH";"US";
+"LFS";"No";"0";;;"Lay Field Station Saint Louis University";NULL;"39.404";"-91.151";NULL;NULL;NULL;NULL;NULL;NULL;NULL;"MO";"US";
+"LHBC";"No";"0";;;"Landels-Hill Big Creek Reserve";"http://www.redshift.com/~bigcreek";"36.07";"-121.599";"0";"1200";"600";"10";"150";NULL;"TEMPFOR";"CA";"US";
+"LKANN";"No";"0";;;"Lake Annie";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=18";"27.209722";"-81.349167";"30";"65";"47.5";"22";"136.4";NULL;"AQUATIC";"FL";"US";
+"LKEU";"No";"0";;;"Lake Euiam";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=characteristics&lake_id=15";"37.837778";"127.675556";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";NULL;"KR";
+"LKKN";"No";"0";;;"Lake Kinneret";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=13";"32.833333";"35.583333";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";NULL;"IL";
+"LKM";"No";"0";;;"Lake Mendota";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=9";"43.098333";"-89.405278";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"WI";"US";
+"LKPA";"No";"0";;;"Lake Paajarvi";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=17";"61.066667";"25.133333";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";NULL;"FI";
+"LKRT";"No";"0";;"2007-10-30 13:26:45";"Lake Rotorua";"http://www.gleon.org/lakes/view/rotorua/";"-38.066667";"176.266667";NULL;NULL;NULL;NULL;NULL;;"AQUATIC";;"NZ";
+"LKSUN";"No";"0";;;"Lake Sunapee";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=10";"43.405828";"-72.0426";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"NH";"US";
+"LKTA";"No";"0";;;"Lake Taihu";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=19";"31.3";"120.333333";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";NULL;"CN";
+"LLFS";"No";"0";;;"Lake Louise Field Station";"http://www.valdosta.edu/biology/graduate.shtml";"38";"-84";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"GA";"US";
+"LMBS";"No";"0";;;"Lake Michigan Biological Station";"http://www.inhs.uiuc.edu/cae/lmbs/";"42.467";"-87.817";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"IL";"US";
+"LMC";"No";"0";;"2008-04-04 18:34:50";"Los Machos";;"18.24998";"-65.61365";"0";"3";"1.5";"26.4";"129";;"TROPFOR";"PR";"US";"Los_Machos.pdf"
+"LMFS";"No";"0";;;"Lost Mound Field Station";"http://www.inhs.uiuc.edu/cwpe/research/fieldstations/lostmound.htm";"42.183";"-92.25";NULL;NULL;NULL;NULL;NULL;NULL;"PRAIRIE";"IL";"US";
+"LML";"No";"0";;;"Long Marine Laboratory";"http://ims.ucsc.edu/facilities/index.html#lmlab";"36.948";"-122.064";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"CA";"US";
+"LPEF";"No";"0";;;"Lower Peninsula Experimental Forest";"http://nrs.fs.fed.us/ef/locations/mi/lower-peninsula/";"43.416666";"-85.6666";NULL;NULL;NULL;NULL;"79";NULL;"TEMPFOR";"MI";"US";
+"LREC";"No";"0";;;"Lindcove Research and Extension Center";"http://groups.ucanr.org/lindcove/";"36.360758";"-119.062256";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"CA";"US";
+"LSBFS";"No";"0";;;"La Suerte Biological Field Station";"http://lasuerte.org/lasuerte.html";"10.442";"-83.771";NULL;NULL;NULL;NULL;NULL;NULL;"TROPFOR";NULL;"CR";
+"LSBS";"No";"0";;;"La Selva Biological Station Organization for Tropical Studies";"http://www.ots.duke.edu/en/laselva/";"10.431";"-84.007";"35";"2906";"1470.5";NULL;"400";NULL;"TROPFOR";NULL;"CR";
+"LUMCON";"No";"0";;;"Louisiana Universities Marine Consortium (LUMCON) Marine Center";"http://www.lumcon.edu/facilities/marinecenter/";"29.247";"-90.661";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"LA";"US";
+"LVEF";"No";"0";;;"Long Valley Experimental Forest";"http://www.fs.fed.us/rmrs/experimental-forests/long-valley-experimental-forest/";"34.5622222222222";"-111.34027";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"AZ";"US";
+"LVW";"No";"0";;;"Loch Vale Watershed";"http://www.nrel.colostate.edu/projects/lvws/pages/homepage.htm";"40.2878";"-105.6628";"3110";"4192";"3651";"6";"39.7";"http://www.nrel.colostate.edu/projects/lvws/pages/sitedescripmap/maps.htm";"ALPINE";"CO";"US";
+"LW";"No";"0";;;"Little Washita Experimental Watershed";"http://www.ars.usda.gov/Main/docs.htm?docid=8739";"34.916667";"-98.1";"300";"500";"400";"16";"76";NULL;"TEMPFOR";"OK";"US";
+"LWC";"No";"0";;;"Lady Bird Johnson Wildflower Center";"http://www.wildflower.org/";"30.1855";"-97.8737";NULL;NULL;"246";"20.3";"22";NULL;"SAVANNA";"TX";"US";
+"MAB";"No";"0";;"2008-04-11 12:07:31";"McClellan Air Base";;"38.667";"-121.4";NULL;NULL;"35";"23.1";"44";;"URBAN";"CA";"US";"McClellan_AirForce_Base.pdf"
+"MACO";"No";"0";;;"Marking Corral";"http://www.sagestep.org/locations/marking_corral.html";"39.46";"-115.13";"2133.6";"2255.5";"2194.55";"8";"37.5";NULL;"SAGEBRUSH";"NV";"US";
+"MAERS";"No";"0";;;"MacArthur Agro-Ecology Research Station";"http://www.archbold-station.org/abs/maerc/maerc.htm";"27.14";"-81.15";NULL;NULL;NULL;"22";"136.4";NULL;"AGRI";"FL";"US";
+"MANERR";"No";"0";;;"Mission-Aransas National Estaurine Research Reserve";"http://www.utmsi.utexas.edu/nerr/";"28.2176";"-96.8456";NULL;NULL;"4";"20.6";"76.7";NULL;"WETLAND";"TX";"US";
+"MAR";"No";"0";;"2008-04-09 10:33:58";"Marcell Experimental Forest";"http://www.ncrs.fs.fed.us/EF/marcell/marcell.asp";"47.51";"-93.49";"412";"432";"422";"3.4";"77.4";;"WETLAND";"MN";"US";"Marcell_Experimental_Forest.pdf"
+"MAY";"No";"0";;;"Maywoods Environmental and Educational Laboratory";"http://math2.eku.edu/campus_tour/Buildings/maywoods.html";"37.29";"-84.27";"286";"412";"349";"14";"115";NULL;"TEMPFOR";"KY";"US";
+"MB";"No";"0";;"2007-10-30 13:37:47";"Maybeso  Experimental Forest";"http://www.fs.fed.us/pnw/exforests/maybeso/index.shtml";"55.48694";"-132.66638";"0";"900";"0";"6.7";"274";;"TEMPFOR";"AK";"US";
+"MBRS";"No";"0";;;"Meanook Biological Research Station";"http://www.biology.ualberta.ca/facilities/meanook/";"54.617";"-113.35";NULL;NULL;NULL;NULL;NULL;NULL;"TIAGA";NULL;"CA";
+"MCCS";"No";"0";;;"Manomet Center for Conservation Sciences";"https://www.manomet.org/";"42.067";"-71.067";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"MA";"US";
+"MCEF";"No";"0";;;"McCormick Research Natural Area";"http://nrs.fs.fed.us/rna/mi/ottawa/mccormick/";"47.0333333333333";"-84.66666";"451";"567";"509";NULL;"15.18";NULL;"TEMPFOR";"MI";"US";
+"MCEFS";"No";"0";;;"Monmouth College Ecological Field Station";"http://department.monm.edu/envsci/facilities.htm";"41.068";"-90.751";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"IL";"US";
+"MCFS";"No";"0";;;"McCall Field Campus";"http://www.cnrhome.uidaho.edu/default.aspx?pid=41794";"44.911";"-116.101";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"ID";"US";
+"MCM";"No";"0";;"2008-06-03 15:40:45";"McMurdo Dry Valleys";"http://www.lternet.edu/sites/mcm/";"-77";"162.52";"0";"0";"0";"-19";"100";;"ANTARCTIC";;"AQ";
+"MDIBL";"No";"0";;;"Mount Desert Island Biological Laboratory";"http://www.mdibl.org";"44.43";"-68.29";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"ME";"US";
+"MDS";"No";"0";;"2008-06-10 14:53:37";"Mesa del Sol";"http://www.mesadelsolnm.com";"34.58";"-106.5667";"1500";"1600";"1550";"13";"22";;"URBAN";"NM";"US";
+"MEF";"No";"0";;;"Massabesic Experimental Forest";"http://nrs.fs.fed.us/ef/locations/me/massabesic/";"43.452222";"-70.678889";NULL;NULL;NULL;"8.1";"118.8";NULL;"TEMPFOR";"ME";"US";
+"MFS";"No";"0";;;"Malheur Field Station";"http://www.malheurfieldstation.org/";"43.266";"-118.843";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"OR";"US";
+"MH";"No";"0";;;"Mahantango Creek";"http://hydrolab.arsusda.gov/wdc/pa.htm";"40.67";"-76.63";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"PA";"US";
+"ML";"No";"0";;;"Marsh Landing";"ES";"31.417585";"-81.295941";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"MLA";"No";"0";;"2008-04-11 11:47:14";"McLaughlin Reserve";"http://nrs.ucdavis.edu/mclaughlin.html";"38.862";"-122.415";"366";"732";"549";"16.5";"62";;"GRASS-SHRUB";"CA";"US";"McLaughlin_Reserve.pdf"
+"MLB";"No";"0";;"2008-04-04 16:10:13";"Mountain Lake Biological Station";"http://www.mlbs.virginia.edu/";"37.38";"-80.52";"1150";"1160";"1155";"8.4";"120";;"TEMPFOR";"VA";"US";"Mountain_Lake_Biological_Station.pdf"
+"MLELC";"No";"0";;;"Merry Lea Environmental Learning Center";"http://www.goshen.edu/merrylea";"41.3";"-85.51";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"IN";"US";
+"MMAR";"No";"0";;;"Millbrook Marsh Nature Center";"http://www.crpr.org/Millbrook/MMNC-Menu.html";"39.062";"-78.064";"355";"375";"365";"6.1";"100";NULL;"WETLAND";"PA";"US";
+"MMR";"No";"0";;"2008-04-11 12:47:28";"Middle Mississippi River Wetland Field Station";"http://fisheries.siu.edu/wetland/";"37.266666";"-89.45";"97";"107";"102";"12.6";"116";;"WETLAND";"IL";"US";"Middle_Mississippi_River_Wetlands_Field_Station.pdf"
+"MN";"No";"0";;;"Manitou Experimental Forest";"http://www.fs.fed.us/rm/landscapes/Locations/Manitou/Manitou.shtml";"38.1";"-105.09166";"2286";"2834.64";"2560.32";NULL;"39.6";NULL;"RANGE";"CO";"US";
+"MOHO";"No";"0";;;"Mohonk Preserve";"http://mohonkpreserve.org";"41.75";"-74.1";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"NY";"US";
+"MOSE";"No";"0";;;"Moses Coulee";"http://www.nature.org/wherewework/northamerica/states/washington/preserves/art6913.html";"47.62";"-119.67";NULL;NULL;"515";"8";"37.5";NULL;"SAGEBRUSH";"WA";"US";
+"MOSS";"No";"0";;;"Moss Landing Marine Laboratories";"http://www.mlml.calstate.edu/";"36.8";"-121.788";"0";"0";"0";NULL;NULL;NULL;"OCEAN";"CA";"US";
+"MOT";"No";"0";;;"Motte Rimrock Reserve";"http://nrs.ucop.edu/Motte-Rimrock.htm";"33.8125";"-117.2583";"482";"605";"543.5";"18.5";"33";NULL;"GRASS-SHRUB";"CA";"US";
+"MP";"No";"0";;"2008-04-04 18:42:31";"Mata de Platanos Field Station";"http://bc.inter.edu/fieldstation/";"18.416";"-66.716";"100";"200";"150";"25.4";"13.7";;"TROPFOR";"PR";"US";"Mata_de_Platanos.pdf"
+"MPCER";"No";"0";;;"Merriam-Powell Center for Environmental Research";"  http://www.mpcer.nau.edu";"35.167";"-111.75";NULL;NULL;NULL;"8";"56";NULL;"TEMPFOR";"AZ";"US";
+"MRNP";"No";"0";;"2008-04-11 11:28:47";"Mount Rainier National Park";"http://www.nps.gov/mora/";"46.852";"-121.76";"490";"4392";"2441";"6.7";"188";;"ALPINE";"WA";"US";"Mount_Rainier_National_Park.pdf"
+"MRS";"No";"0";;;"Mountain Research Station";"http://www.colorado.edu/mrs";"40.1";"-105.49";NULL;NULL;"2900";NULL;NULL;NULL;"ALPINE";"CO";"US";
+"MSC";"No";"0";;;"Marine Science Center Southampton Campus Long Island University";"http://www.southampton.liu.edu/academic/mprogram/natsci/marinsci/station.html";"40.88";"-72.441";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"NY";"US";
+"MSI";"No";"0";;;"Mountain Studies Institute";"http://www.mountainstudies.org";"37.8";"-107.66";NULL;NULL;NULL;NULL;NULL;NULL;"ALPINE";"CO";"US";
+"MSIUT";"No";"0";;;"Marine Science Institute University of Texas";"http://www.utmsi.utexas.edu";"27.834";"-97.061";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"TX";"US";
+"MTR";"No";"0";;"2008-06-10 15:43:44";"Matador Ranch";"http://www.nature.org/wherewework/northamerica/states/montana/preserves/art10062.html";"47.92";"-108.33";"0";"0";"0";"0";"0";;"RANGE";"MT";"US";
+"MUE";"No";"0";;"2008-04-11 12:42:47";"Miami University Ecology Research Center";"http://www.units.muohio.edu/erc/research.htm";"39.5272";"-84.7225";"325";"425";"375";"12.2";"104";;"AGRI";"OH";"US";"Miami_University_Ecology_Research_Center.pdf"
+"MWERF";"No";"0";;;"MeadWestvaco Wildlife and Ecosystem Research Forest";"http://www.mwerf.org";"38.7";"-80.02";"734";"1180";"957";NULL;"160";NULL;"TEMPFOR";"WV";"US";
+"MWMA";"No";"0";;;"Matador Wildlife Management Area";"http://www.tpwd.state.tx.us/huntwild/hunt/wma/find_a_wma/list/?id=15";"34.1328";"-100.416";NULL;NULL;"575";"16.4";"56.2";NULL;"GRASS-SHRUB";"TX";"US";
+"NANFS";"No";"0";;;"Nantucket Field Station";"http://www.umb.edu/nantucket/index.html";"41.29";"-70.033";"0";NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"MA";"US";
+"NAUCFSF";"No";"0";;;"Northern Arizona University Centennial Forest";"http://www.for.nau.edu/centennialforest";"35.198";"-111.651";"1700";"2300";"2000";NULL;"48";NULL;"TEMPFOR";"AZ";"US";
+"NBR";"No";"0";;;"National Bison Range";"http://www.fws.gov/refuges/profiles/index.cfm?id=61540";"47.33";"-114.22";"790";"1490";"1140";"7.5";"40";NULL;"GRASS-SHRUB";"MT";"US";
+"NCBFS";"No";"0";;;"Purdue University North Central Biology Field Station";"http://www.pnc.edu/bc/fieldstation.html";"41.712";"-86.936";NULL;NULL;"182";NULL;NULL;NULL;"TEMPFOR";"IN";"US";
+"NCR";"No";"0";;"2008-04-09 16:26:46";"North Central Grasslands Research Extension Center";"http://www.ag.ndsu.nodak.edu/minot/";"46.74";"-99.47";NULL;NULL;"725";"6";"45.2";;"GRASS-SHRUB";"ND";"US";"North_Central_Research_Extension_Center.pdf"
+"NDERC";"No";"0";;"2007-11-20 13:29:39";"University of Notre Dame Environmental Research Center";"http://UNDERC.nd.edu";"46.227";"-89.523";"500";"520";"510";"3.5";"84";;"TEMPFOR";"WI";"US";
+"NDV";"No";"0";;;"North Desert Village Suburban Expt";"http://caplter.asu.edu";"33.31";"-111.68";"406";"408";"407";"22.6";"19";NULL;"URBAN";"AZ";"US";
+"NERR";"No";"0";;;"Delaware NERRS";"http://www8.nos.noaa.gov/publicnerrs/news.aspx?id=65";"38.656603";"-77.236423";"0";"22";"11";"18";"117";NULL;"ESTU";"DE";"US";
+"NFAL";"No";"0";;;"North Fork Association Lands";"http://nrs.ucop.edu/Chickering-American-River.htm";"39.2467";"-120.3253";"1830";"2470";"2150";"8";"125";NULL;"TEMPFOR";"CA";"US";
+"NGP";"No";"0";;"2008-06-13 16:50:06";"Northern Great Plains Research Laboratory";"http://www.ars.usda.gov/main/site_main.htm?modecode=54-45-00-00";"46.81";"-100.91";"500";"600";"550";"5";"41";;"GRASS-SHRUB";"ND";"US";"Northern_Great_Plains_Research_Laboratory.pdf"
+"NMEA";"No";"0";;;"North Mountain Experimental Area";"http://www.fs.fed.us/psw/ef/north_mountain/";"33.84";"-116.9";"460";"1328";"894";"16.5";"50";NULL;"GRASS-SHRUB";"CA";"US";
+"NMS";"No";"0";;;"Norman Mesonet Station";"http://www.mesonet.org/sites/sitedescription.php?site=NRMN";"35.23611";"-97.46488";"357";"357";"357";"16.1";"94.7";NULL;"GRASS-SHRUB";"OK";"US";
+"NOCR";"No";"0";;"2008-04-08 14:23:48";"North Carolina Reserve";"http://www.nerrs.noaa.gov/NorthCarolina/welcome.html";"34.1555";"-77.8509";"0";NULL;NULL;NULL;NULL;"North Carolina's estuarine system is the third largest in the country, encompassing more the two million acres. This system is of prime economic importance to the coastal area -- 90 percent of the commercial seafood species caught in the state spends at least part of their lives in an estuary. The North Carolina National Estuarine Research Reserve was established to preserve these fragile natural areas and the variety of life they support.";"ESTU";"NC";"US";
+"NOR";"No";"0";;"2008-06-10 15:21:38";"North Inlet - Winyah Bay Reserve";"http://www.nerrs.noaa.gov/NorthInlet/welcome.html";"33.316";"-79.1833";"0";"0";"0";"20";"107";;"WETLAND";"SC";"US";
+"NPW";"No";"0";;"2008-04-09 16:35:30";"Northern Prairie Wildlife Research Center";"http://www.npwrc.usgs.gov/";"46.88";"-98.63";NULL;NULL;"454";"5.4";"47";;"PRAIRIE";"ND";"US";"Northern_Prairie_Wildlife_Research_Center.pdf"
+"NRBR";"No";"0";;"2008-04-08 14:21:59";"Narragansett Bay Reserve ";"http://www.nerrs.noaa.gov/NarragansettBay/welcome.html";"41.6389";"-71.3394";"0";NULL;NULL;NULL;NULL;"The reserve encompasses 2,353 acres of land on Prudence, Patience and Hope islands and 1,591 acres of water adjoining the islands out to a depth of 18 feet.Approximately 60 percent of Prudence Island is included in the reserve's boundaries. The island is sparsely populated because it's relatively inaccessible, and commercial development has been actively discouraged by its residents. Approximately 150 people spend their winters on the island. The population swells to more than 10 times that number during the summer.";"ESTU";"RI";"US";
+"NRMR";"No";"0";;;"Kenneth S. Norris Rancho Marino Reserve";"http://nrs.ucop.edu/Kenneth-Norris-Rancho-Marino.htm";"35.542149";"-121.089299";"0";"216";"108";"17.5";"46";NULL;"COASTAL-TEMP";"CA";"US";
+"NSNWR";"No";"0";;"2008-06-10 15:30:40";"Neal Smith National Wildlife Refuge";"http://www.fws.gov/refuges/profiles/index.cfm?id=33670";"41.558";"-93.28";"244";"280";"262";"9.5";"84.8";;"PRAIRIE";"IA";"US";"Neal_Smith_National_Wildlife_Refuge.pdf"
+"NTK";"No";"0";;"2007-10-30 13:45:26";"Noatak National Preserve";"http://www.nps.gov/noat/";"67.3";"-162";"0";"1500";"750";"-5.7";"25.5";;"ARCTIC";"AK";"US";
+"NTL";"No";"0";;"2008-06-03 18:50:10";"North Temperate Lakes";"http://lter.limnology.wisc.edu/";"46";"-89.7";"0";"0";"0";"4.4";"79";;"AQUATIC";"WI";"US";
+"NTS";"No";"0";;;"Nevada Desert Research Center";"http://www.unlv.edu/Climate_Change_Research/";"36.76";"-115.99";"960";"975";"967.5";"17.3";"15";NULL;"GRASS-SHRUB";"NV";"US";
+"NWRC";"No";"0";;;"Northwest Watershed Research Center";"http://ars.usda.gov/Main/site_main.htm?modecode=53-62-00-00";"43.603977";"-116.190149";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"ID";"US";
+"OAK";"No";"0";;"2008-04-11 13:01:23";"Oak Lake Biological Field Station";"http://biomicro.sdstate.edu/Oaklake/index.htm";"44.505";"-96.532";"549";"573";"561";"5.9";"58.3";;"WETLAND";"SD";"US";"Oak_Lake_Biological_Field_Station.pdf"
+"OBFS";"No";"0";;;"Oneonta Biological Field Station";"http://www.oneonta.edu/academics/biofld/";"42.75";"-74.83";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"NY";"US";
+"OBS";"No";"0";;;"University of Oklahoma Biological Station";"http://www.ou.edu/uobs/";"33.9982";"-96.8034";NULL;NULL;"210";"16.5";"107.1";NULL;"TEMPFOR";"OK";"US";
+"OCR";"No";"0";;"2008-04-11 11:52:36";"Onion Creek Experimental Forest ";"http://www.fs.fed.us/psw/ef/onion_creek/";"39.28";"-120.354";"1830";"2590";"2210";"8";"106";;"TEMPFOR";"CA";"US";"Onion_Creek_Experimental_Forest.pdf"
+"ODLO";"No";"0";;;"Oasis de los Osos Reserve";"http://nrs.ucop.edu/James-San-Jacinto.htm";"33.8083";"-116.7778";"1623";"2369";"1996";NULL;NULL;NULL;"TEMPFOR";"CA";"US";
+"OEV";"No";"0";;;"Oakville Experimental Vineyard";"http://wineserver.ucdavis.edu/facilities/vineyard/oakville/";"38.540602";"-121.748151";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"CA";"US";
+"OHOO";"No";"0";;"2008-04-09 11:21:29";"Ohio Oak Openings Region";"http://www.oakopen.org/";"41.55385";"-83.84338";"200";"205";"202.5";"9.2";"84";;"SAVANNA";"OH";"US";"Ohio_Oak_Openings.pdf"
+"OIMB";"No";"0";;;"Oregon Institute of Marine Biology";"http://www.uoregon.edu/~oimb";"43.34";"-124.329";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"OR";"US";
+"OL";"No";"0";;;"Olustee Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"30.216666";"-82.43333";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"FL";"US";
+"OLWC";"No";"0";;"2008-04-08 14:25:18";"Old Woman Creek ";"http://www.nerrs.noaa.gov/OldWomanCreek/welcome.html";"41.3819";"-82.5142";"0";NULL;NULL;NULL;NULL;"Old Woman Creek is the smallest reserve in the National Estuarine Research System. It is also the only Great Lakes-type, freshwater estuary in the system. The reserve features freshwater marshes, swamp forests, a barrier beach, upland forest, estuarine waters, stream and nearshore Lake Erie.";"ESTU";"OH";"US";
+"OMBS";"No";"0";;"2008-04-11 10:15:33";"Ouachita Mountain Biological Station";"http://www.lsus.edu/lsusmus/ombs.html";"34.486";"-93.97";"395";"622";"507.5";"17";"132";;"TEMPFOR";"AR";"US";"Ouachita_Mountain_Biological_Station.pdf"
+"ONAQ";"No";"0";;"2008-04-07 13:38:43";"Onaqui-Benmore";"http://www.ut.blm.gov/saltlake_fo/";"40.2";"-112.45";"1670";"2000";"1885";"8.4";"40.3";;"SAGEBRUSH";"UT";"US";"Onaqui-Benmore.pdf"
+"ONF";"No";"0";;"2007-11-25 17:53:50";"Ouachita National Forest";"http://www.fs.fed.us/r8/ouachita/";"34.4864";"-93.9697";"212";"242";"227";NULL;NULL;;"TEMPFOR";"AR";"US";
+"ORR";"No";"0";;"2008-04-04 16:09:22";"Oak Ridge Reservation";"http://walkerbranch.ornl.gov";"35.58";"-84.17";"226";"413";"319.5";"14.3";"135.6";;"TEMPFOR";"TN";"US";"Oak_Ridge_Reservation-Walker_Branch_Watershed.pdf"
+"OSB";"No";"0";;"2008-04-14 10:05:22";"Ordway-Swisher Biological Station";"http://www.ordway.ufl.edu/";"29.6977";"-81.9832";"24";"55";"39.5";"20";"132";;"WETLAND";"FL";"US";"Ordway-Swisher_Biological_Station.pdf"
+"OWVL";"No";"0";;;"Owens Valley Laboratory";"http://www.wmrs.edu/facilities/OVL/default.htm";"37.360976";"-118.326744";NULL;NULL;NULL;NULL;NULL;NULL;"RANGE";"CA";"US";
+"OWYS";"No";"0";;"2008-04-08 15:52:56";"Owyhee Site";"http://www.sagestep.org/locations/owyhee.html";"41.6";"-116.9";"1615";"1646";"1630.5";NULL;NULL;;"SAGEBRUSH";"WY";"US";
+"PA";"No";"0";;;"Palustris Experimental Forest";"http://www.srs.fs.usda.gov/4111/palustris.htm";"31.16666";"-92.6833";NULL;NULL;NULL;"22";"146.5";NULL;"TEMPFOR";"LA";"US";
+"PABR";"No";"0";;"2008-04-08 14:27:06";"Padilla Bay Reserve";"http://www.nerrs.noaa.gov/PadillaBay/welcome.html";"48.5181";"-122.473";"0";NULL;NULL;NULL;NULL;"Padilla Bay, located in the Salish Sea, is part of a large river delta in a fjord estuary.The Salish Sea includes the inland waters between Olympia Washington and Campbell River in Canada. This large estuary, carved out by glaciers that retreated about 20,000 years ago, is fed by many fresh water sources including the Fraser and Skagit Rivers.";"ESTU";"WA";"US";
+"PAL";"No";"0";;"2008-06-03 15:42:01";"Palmer Station";"http://www.lternet.edu/sites/pal/";"-64.7";"-64";"0";"600";"300";"-1.7";"67";;"ANTARCTIC";;"AQ";
+"PAR";"No";"0";;;"Paradise Valley";"http://fwp.mt.gov/tmc/reports/sidebar3.html";"45.27";"-110.37";NULL;NULL;"1450";"7.7";"36";NULL;"GRASS-SHRUB";"MT";"US";
+"PB";"No";"0";;;"Pike Bay Experimental Forest";"http://nrs.fs.fed.us/ef/locations/mn/pike-bay/";"47.33333";"-94.666667";NULL;NULL;NULL;NULL;"57.5";NULL;"TEMPFOR";"MN";"US";
+"PBLS";"No";"0";;;"Piedras Blancas Light Station";"http://www.blm.gov/ca/st/en/fo/bakersfield/Programs/pbls.html";"35.6";"-121.2";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"CA";"US";
+"PCBFRS";"No";"0";;;"Pinellas County Biological Field Research Station at Brooker Creek Preserve";"http://www.pinellascounty.org/environment/pagesHTML/envLands/el5000.html";"28.137";"-82.674";"10";"15";"12.5";NULL;NULL;NULL;"WETLAND";"FL";"US";
+"PCC";"No";"0";;;"Pierce Cedar Creek";"http://www.cedarcreekinstitute.org";"42.533";"-85.283";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"MI";"US";
+"PDX";"No";"0";;"2008-04-11 11:21:03";"MacCleay Park/Balch Creek Watershed, Portland, OR";"http://www.trlc.org/projects/balchcreek";"45.536";"-122.713";"15";"350";"182.5";"11.7";"109";;"TEMPFOR";"OR";"US";"Macleay_Park-Balch_Creek_Watershed.pdf"
+"PE";"No";"0";;;"Penobscot Experimental Forest";"http://nrs.fs.fed.us/ef/locations/me/penobscot/";"44.85";"-68.616667";NULL;NULL;NULL;"6.6";"106";NULL;"TEMPFOR";"ME";"US";
+"PEREC";"No";"0";;"2008-04-09 11:53:16";"Potomac Environmental Research and Education Center";"http://cos.gmu.edu/center/PEREC";"38.6566";"-77.23642";"0";"12";"6";NULL;NULL;;"WETLAND";"VA";"US";
+"PESC";"No";"0";;;"Pescadero Conservation Alliance";"http://www.gazos.org";"37.165";"-122.362";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"CA";"US";
+"PFEF";"No";"0";;;"Pringle Falls Experimental Forest and Research Natural Area";"http://www.fs.fed.us/pnw/exforests/pringle-falls/index.shtml";"43.7";"-121.616666";NULL;"1592";NULL;NULL;"81.28";NULL;"TEMPFOR";"OR";"US";
+"PFRS";"No";"0";;;"Pinelands Field Research Station";"http://marine.rutgers.edu/pinelands/";"39.93";"-74.6";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"NJ";"US";
+"PFS";"No";"0";;;"Palomarin Field Station";"http://www.prbo.org/cms/27";"37.933";"-122.733";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"CA";"US";
+"PIEB";"No";"0";;"2008-04-09 16:03:23";"Plum Island Ecosystem (Burlington Site)";"http://ecosystems.mbl.edu/PIE";"42.517";"-71.183";NULL;NULL;"60";"9";"120";;"URBAN";"MA";"US";"Plum_Island_Ecosystem.pdf"
+"PL";"No";"0";;;"Paoli Experimental Forest";"http://nrs.fs.fed.us/ef/locations/in/paoli/";"38.316667";"-86.3";"180";"256";"218";NULL;"109.2";NULL;"TEMPFOR";"IN";"US";
+"PLE";"No";"0";;;"Pymatuning Laboratory of Ecology Univ of Pittsburgh";"http://www.pitt.edu/~biology/pymatuning.htm";"41.656";"-80.424";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"PA";"US";
+"PLEC";"No";"0";;;"Pine Lake Environmental Campus";"http://www.hartwick.edu/PineLake.xml";"42.71";"-74.91";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"NY";"US";
+"PLFS";"No";"0";;;"Pigeon Lake Field Station";"http://www.uwrf.edu/pigeonlake/";"46.37";"-91.41";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"WI";"US";
+"PMEL";"No";"0";;"2007-11-05 14:56:03";"Pacific Marine Environmental Laboratory";"http://www.pmel.noaa.gov/";"47.684786";"-122.264483";NULL;NULL;NULL;NULL;NULL;;"OCEAN";"WA";"US";
+"PNG";"No";"0";;;"Pawnee National Grasslands";"http://www.fs.fed.us/r2/arnf/";"40.82";"-103.861";"1320";"1750";"1535";"8.8";"34";NULL;"SHORTGRASS";"CO";"US";
+"PNR";"No";"0";;;"Powdermill Nature Reserve";"http://www.powdermill.org/";"40.197";"-79.239";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"PA";"US";
+"POCA";"No";"0";;;"Pocatello, North City Park";"http://www.pocatello.us/";"42.82";"-112.43";NULL;NULL;"1360";"9.4";"32.9";NULL;"URBAN";"ID";"US";
+"POCB";"No";"0";;;"Pocatello, sites B, C, D, E, F, G";"http://www.pocatello.us/";"42.82";"-112.43";NULL;NULL;"1360";"9.4";"32.9";NULL;"URBAN";"ID";"US";
+"PPRU";"No";"0";;"2008-04-04 18:53:22";"Ponce Puerto Rico Urban Site";;"17.99812";"-66.62724";"0";"0";"0";"26.5";"100";;"URBAN";"PR";"US";"Ponce_Metro.pdf"
+"PRC";"No";"0";;;"Plainsman Research Center";"http://www.colostate.edu/depts/prc/index.html";"37.26";"-102.21";"1190";"1210";"1200";"11.8";"37";NULL;"GRASS-SHRUB";"CO";"US";
+"PRFS";"No";"0";;;"Point Reyes Field Station";"http://www.werc.usgs.gov/pt-reyes/index.html";"38.07051";"-122.862035";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"CA";"US";
+"PRI";"No";"0";;"2008-04-09 18:18:26";"Priest River Experimental Forest";"http://forest.moscowfsl.wsu.edu/ef/pref.html";"48.35";"-116.833";"680";"1800";"1240";"7";"81.7";;"TEMPFOR";"ID";"US";"Priest_River_Experimental_Forest.pdf"
+"PRNP";"No";"0";;;"Pepperwood Ranch Natural Preserve";NULL;"38.568";"-122.701";NULL;NULL;NULL;NULL;NULL;NULL;NULL;"CA";"US";
+"PRNWR";"No";"0";;;"Parker River National Wildlife Refuge";"http://www.fws.gov/northeast/parkerriver/";"42.759";"-70.891";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"MA";"US";
+"QERC";"No";"0";;;"Quetzal Education and Research Center";"http://www.snu.edu/qerc";"9.553";"-83.811";NULL;NULL;NULL;NULL;NULL;NULL;"TROPFOR";NULL;"CR";
+"QRR";"No";"0";;;"Quail Ridge Reserve";"http://nrs.ucdavis.edu/quail.html";"38.818";"-122.241";NULL;NULL;NULL;NULL;"69.5";NULL;"SAVANNA";"CA";"US";
+"QRRC";"No";"0";;;"Quesnel River Research Centre";"http://www.unbc.ca/qrrc/";"52.58";"-121.55";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";NULL;"CA";
+"RBC";"No";"0";;"2008-04-07 13:55:53";"Red Butte Canyon Research Natural Area";"http://redbuttecanyon.net/";"40.8";"-111.78";"1497";"2195";"1846";"9.6";"70";;"GRASS-SHRUB";"UT";"US";"Red_Butte_Canyon.pdf"
+"RBCUG";"No";"0";;;"River Basin Center";"http://www.rivercenter.uga.edu/index.htm";"33.9314";"-83.3644";NULL;NULL;NULL;NULL;"127";NULL;"AQUATIC";"GA";"US";
+"RBG";"No";"0";;;"Red Butte Garden";"http://www.redbuttegarden.org/";"40.798";"-111.783";NULL;NULL;NULL;NULL;NULL;NULL;"URBAN";"UT";"US";
+"RBS";"No";"0";;;"Reis Biological Station";"http://rbs.slu.edu";"37.98";"-91.23";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"MO";"US";
+"RCEW";"No";"0";;"2008-04-07 14:06:42";"Reynolds Creek Experimental Watershed";"http://ars.usda.gov/Main/site_main.htm?modecode=53-62-00-00";"43.08";"-116.72";"0";"0";"0";"8.8";"27.7";;"GRASS-SHRUB";"ID";"US";"Reynolds_Creek.pdf"
+"RCFS";"No";"0";;;"Rice Creek Field Station";"http://www.oswego.edu/academics/opportunities/rice_creek_field_station/";"43.455";"-76.511";NULL;NULL;NULL;"8.5";"90";NULL;"TEMPFOR";"NY";"US";
+"RCP";"No";"0";;"2008-06-13 17:03:47";"Rock Creek National Park";"http://www.nps.gov/rocr/";"39.0833";"-75.45";"30";"70";"50";"14";"120";;"URBAN";"DC";"US";"Rock_Creek_National_Park.pdf"
+"RD";"No";"0";;;"Redwood Experimental Forest";"http://www.fs.fed.us/psw/ef/redwood/";"41.5833333";"-124.083333";"40";"340";"190";"9.7";"193";NULL;"TEMPFOR";"CA";"US";
+"REFS";"No";"0";;;"Redwood Field Station";"http://www.werc.usgs.gov/redwood/index.html";"40.903199";"-124.086919";NULL;NULL;NULL;NULL;NULL;"http://www.werc.usgs.gov/redwood/redwood2.pdf";"TEMPFOR";"CA";"US";
+"RFL";"No";"0";;;"Riverwoods Field Laboratory";"http://riverwoods.ces.fau.edu";"27.378";"-81.097";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"FL";"US";
+"RFSJC";"No";"0";;;"Raystown Field Station Juniata College";"http://services.juniata.edu/station/index.html";"40.358";"-78.15";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"PA";"US";
+"RFUK";"No";"0";;;"Robinson Forest";"http://www.ca.uky.edu/forestry/robfor.php";"37.553";"-83.384";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"KY";"US";
+"RGSPRS";"No";"0";;;"Richard B. Gump South Pacific Research Station";"http://moorea.berkeley.edu/";"-17.5";"-149.833";"0";NULL;NULL;NULL;NULL;NULL;"COASTAL-TROP";NULL;"TAH";
+"RI";"No";"0";;;"Rincon Institute";"http://rinconinstitute.org/component/option,com_frontpage/Itemid,36/";"32.086";"-110.711";NULL;NULL;NULL;NULL;NULL;NULL;"DESERT-HOT";"AZ";"US";
+"RIFS";"No";"0";;;"Richmond Field Station";"http://rfs.berkeley.edu/index.html";"37.9155";"-122.336";"0";NULL;NULL;NULL;NULL;NULL;"ESTU";"CA";"US";
+"RLREC";"No";"0";;;"Russell Larson Research and Education Center at Rock Springs";"http://research.cas.psu.edu/RockSprings/default.html";"40.66756";"-77.9347";NULL;NULL;"365";"6.1";"100";NULL;"AGRI";"PA";"US";
+"RLRTC";"No";"0";;;"Reelfoot Lake Research and Teaching Center";"http://www.utm.edu/departments/cens/biology/reelfoot/";"36.384";"-89.35";NULL;NULL;"86";NULL;NULL;NULL;"TEMPFOR";"TN";"US";
+"RMBL";"No";"0";;;"Rocky Mountain Biological Laboratory";"http://www.rmbl.org";"38.959";"-106.989";NULL;NULL;"2890.4";NULL;NULL;NULL;"ALPINE";"CO";"US";
+"RNF";"No";"0";;;"Roosevelt National Forest";"http://www.fs.fed.us/r2/arnf/";"40.65";"-105.27";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"CO";"US";
+"RNP";"No";"0";;"2008-04-11 11:36:25";"Redwood National Park";"http://www.nps.gov/redw/";"41.166";"-123.983";"0";"1200";"600";"11";"95";;"TEMPFOR";"CA";"US";"Redwood_National_Park_CA.pdf"
+"ROOBR";"No";"0";;"2008-04-08 14:29:10";"Rookery Bay Reserve";"http://www.nerrs.noaa.gov/RookeryBay/welcome.html";"26.0257";"-81.7332";"0";NULL;NULL;NULL;NULL;"Located at the northern end of the Ten Thousand Islands on the gulf coast of Florida, Rookery Bay National Estuarine Research Reserve represents one of the few remaining undisturbed mangrove estuaries in North America.The Rookery Bay and Ten Thousand Islands ecosystem is a prime example of a nearly pristine subtropical mangrove forested estuary. Rookery Bay Reserve is located in the West Florida subregion of the West Indian Biogeographic Region.";"ESTU";"FL";"US";
+"RRAC";"No";"0";;;"Red Rock Agricultural Center";"http://cals.arizona.edu/general/departments/redrock.html";"32.575773";"-111.327427";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"AZ";"US";
+"RRC";"No";"0";;;"Riesel Research Center/Blackland Experimental Watershed";"http://www.ars.usda.gov/Main/docs.htm?docid=9699";"36.42";"-99.4";NULL;NULL;NULL;"19.4";"90.4";NULL;"RANGE";"TX";"US";
+"RSC";"No";"0";;;"Regional Science Center at Minnesota State University, Moorhead";"http://www.MNstate.edu/regsci";"46.87";"-96.49";NULL;NULL;NULL;NULL;NULL;NULL;"PRAIRIE";"MN";"US";
+"RTCES";"No";"0";;;"Romberg Tiburon Center for Environmental Studies";"http://rtc.sfsu.edu/";"37.889573";"-122.448485";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"CA";"US";
+"RUBY";"No";"0";;"2008-04-07 14:26:43";"South Ruby Mountain";"http://www.sagestep.org/locations/south_ruby.html";"40.62";"-115.48";"1981.2";"2042.2";"2011.7";"1.4";"84.5";;"SAGEBRUSH";"NV";"US";"South_Ruby_Mountain.pdf"
+"RUSR";"No";"0";;;"Russell Reservation";"http://www.cnr.berkeley.edu/forestry/russell/";"37.915984";"-122.158595";"221";"381";"301";NULL;"61";NULL;"TEMPFOR";"CA";"US";
+"SA";"No";"0";;;"Stephen F. Austin Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"31.4666";"-94.7833";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"TX";"US";
+"SAEF";"No";"0";;;"Sierra Ancha Experimental Forest";"http://www.fs.fed.us/rmrs/experimental-forests/sierra-ancha-experimental-forest/";"33.5";"-111";"1460";"1830";"1645";NULL;"63.5";NULL;"GRASS-SHRUB";"AZ";"US";
+"SAFRA";"No";"0";;"2008-04-08 14:37:06";"San Francisco Bay Reserve";"http://www.nerrs.noaa.gov/SanFrancisco/welcome.html";"38.001247";"-122.460356";"0";NULL;NULL;NULL;NULL;" The primary focus of the San Francisco Bay National Estuarine Research Reserve is to support tidal marsh restoration through research, monitoring and education.San Francisco Bay has lost nearly 97 percent of its historic tidal wetlands due to development pressures within and around the bay. Tidal wetlands are critical for flood prevention; sediment management; and habitat for small mammals, migratory birds and fish species, many of which are threatened and endangered.";"ESTU";"CA";"US";
+"SAIS";"No";"0";;"2008-04-08 14:38:27";"Sapelo Island";"http://www.nerrs.noaa.gov/SapeloIsland/welcome.html";"31.4177";"-81.2961";"0";NULL;NULL;"19.6";"128";;"ESTU";"GA";"US";
+"SAL";"No";"0";;;"Salmon River Estuary";"http://www.fs.fed.us/r6/siuslaw/projects/restoration/salmonriver/index.shtml";"45.02805";"-123.975";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"WA";"US";
+"SAN";"No";"0";;;"Santee Experimental Forest";"http://www.srs.fs.usda.gov/charleston/index.html";"33.1333";"-80.8167";NULL;NULL;NULL;"18.3";"138.6";NULL;"TEMPFOR";"SC";"US";
+"SANWR";"No";"0";;;"Santa Ana National Wildlife Refuge";"http://www.fws.gov/southwest/refuges/texas/santana.html";"26.0623";"-98.1435";NULL;NULL;"25";"22.5";"60.2";NULL;"WETLAND";"TX";"US";
+"SAP";"No";"0";;;"Sapelo Island Reserve";"http://www.gastateparks.org/info/sapelo/";"31.45";"-81.2833";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"SAS";"No";"0";;;"Sierra Ancha Station";"http://sols.asu.edu/sierraancha/index.php";"33.683";"-110.967";"1080";"2355";"1717.5";NULL;NULL;NULL;"TEMPFOR";"AZ";"US";
+"SASI";"No";"0";;;"Sonoran Arthropod Studies Institute";"http://www.sasionline.org";"32.129";"-111.242";NULL;NULL;NULL;NULL;NULL;NULL;"DESERT-HOT";"AZ";"US";
+"SBB";"No";"0";;"2008-04-14 11:39:56";"Senator Beck Basin Study Area";"http://www.snowstudies.org/";"37.94322";"-107.7691";"3362";"4118";"3740";"-1";"125";;"ALPINE";"CO";"US";"Senator_Beck_Basin.pdf"
+"SBC";"No";"0";;;"Santa Barbara Coastal";"http://www.lternet.edu/sites/sbc/";"34.4239";"-119.9503";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"CA";"US";
+"SBD";"No";"0";;;"Sleeping Bear Dunes National Lakeshore";"http://www.nps.gov/slbe/";"44.88309";"-86.07015";"200";"400";"300";"8.3";"83";NULL;"TEMPFOR";"MI";"US";
+"SCCF";"No";"0";;;"Sanibel-Captiva Conservation Foundation";"http://www.sccf.org";"26.442";"-82.033";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"FL";"US";
+"SCFS";"No";"0";;;"Sagehen Creek Field Station";"http://sagehen.berkeley.edu";"39.442";"-120.246";"859";"2652";"1755.5";"5.2";"85.5";NULL;"TEMPFOR";"CA";"US";
+"SCIP";"No";"0";;;"Scipio";"http://www.sagestep.org/locations/scipio.html";"39.31";"-112.2";"1676.4";"1798.3";"1737.35";"8";"37.5";NULL;"SAGEBRUSH";"UT";"US";
+"SCIR";"No";"0";;;"Santa Cruz Island Reserve";"http://nrs.ucop.edu/Santa-Cruz-Island.htm";"34.068";"-119.718";"0";"742";"371";"15.8";"50";NULL;"COASTAL-TEMP";"CA";"US";
+"SCIRS";"No";"0";;;"St. Catherines Island Research Station";"http://www.sewanee.edu/Forestry_Geology/programs.html";"31.667";"-81.15";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TEMP";"GA";"US";
+"SCM";"No";"0";;"2008-04-07 11:43:41";"Sand Creek Massacre National Historic Site";"http://www.nps.gov/sand/";"38.56";"-102.517";"1320";"1750";"1535";"10.5";"35";;"GRASS-SHRUB";"CO";"US";"Sand_Creek_National_Monument.pdf"
+"SCR";"No";"0";;;"Scripps Coastal Reserve UCSD Reserves";"http://nrs.ucop.edu/Scripps-Coastal.htm";"32.875";"-117.254";"-227";"113";"-57";"16.5";"22";NULL;"COASTAL-TEMP";"CA";"US";
+"SCREC";"No";"0";;;"South Coast Research and Extension Center";"http://groups.ucanr.org/southcoast/";"33.686626";"-117.720981";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"CA";"US";
+"SCT";"No";"0";;;"Santa Catalina Mountain (Sky Island)";"http://www.sahra.arizona.edu/research/TA1/towers/index.html";"32.4639";"-110.7939";"1000";"2790";"1895";"15.8";"65";NULL;"TEMPFOR";"AZ";"US";
+"SCWRS";"No";"0";;;"St Croix Watershed Research Station";"http://www.smm.org/scwrs";"45.171";"-92.761";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"MN";"US";
+"SCZFS";"No";"0";;;"Santa Cruz Field Station";"http://www.werc.usgs.gov/santacruz/index.html";"36.954764";"-122.06246";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"CA";"US";
+"SDEF";"No";"0";;;"San Dimas Experimental Forest";"http://www.fs.fed.us/psw/ef/san_dimas/";"34.2";"-117.75";"500";"1800";"1150";"15";"30";NULL;"SAVANNA";"CA";"US";
+"SDFS";"No";"0";;;"San Diego Field Station";"http://www.werc.usgs.gov/sandiego/";"32.838174";"-117.13446";NULL;NULL;NULL;NULL;NULL;NULL;"URBAN";"CA";"US";
+"SDMS";"No";"0";;"2008-04-08 15:43:21";"Saddle Mountain Site";"http://www.sagestep.org/locations/saddle_mt.html";"46.75";"-119.45";"860";"940";"900";NULL;NULL;;"SHORTGRASS";"WY";"US";
+"SDRS";"No";"0";;;"Sonoran Desert Research Station";"http://www.srnr.arizona.edu/nbs/";"32.234";"-111.159";NULL;NULL;NULL;NULL;NULL;NULL;"DESERT-HOT";"AZ";"US";
+"SEDR";"No";"0";;;"Sedgwick Reserve";"http://nrs.ucop.edu/Sedgwick.htm";"34.668";"-120.114";"290";"790";"540";NULL;"38";NULL;"SAVANNA";"CA";"US";
+"SEF";"No";"0";;;"Sagehen Experimental Forest";"http://www.fs.fed.us/psw/ef/sagehen/";"39.431792";"-122.238694";NULL;NULL;NULL;"5.2";"84.7";NULL;"TEMPFOR";"CA";"US";
+"SEFR";"No";"0";;;"Starkey Experimental Forest and Range";"http://www.fs.fed.us/pnw/exforests/starkey/index.shtml";"45.233333";"-118.55";"1067";"1524";"1295.5";NULL;"51";NULL;"TEMPFOR";"OR";"US";
+"SERC";"No";"0";;;"Smithsonian Environmental Research Center";"http://www.serc.si.edu/";"38.88901";"-76.54458";"0";"30";"15";"12.6";"107";NULL;"TEMPFOR";"MD";"US";"Smithsonian_Environmental_Research_Center_Site.pdf"
+"SEVNWR";"No";"0";;"2008-04-07 13:02:21";"Sevilleta National Wildlife Refuge";"http://www.fws.gov/southwest/REFUGES/newmex/sevilleta/";"34.353";"-106.882";"1525";"2745";"2135";"13.7";"22.5";;"GRASS-SHRUB";"NM";"US";"Sevilleta_National_Wildlife_Refuge.pdf"
+"SEW";"No";"0";;;"Safford Experimental Watershed";"http://www.ars.usda.gov/main/site_main.htm?modecode=53-42-45-00";"32.4";"-109.6";"1219.2";"1524";"1371.6";NULL;NULL;NULL;"GRASS-SHRUB";"AZ";"US";
+"SFBEFS";"No";"0";;;"San Francisco Bay Estuary Field Station";"http://www.werc.usgs.gov/sfbe/index.html";"38.0989";"-122.27538";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"CA";"US";
+"SFT";"No";"0";;"2008-04-11 11:58:08";"Sierra Foothills Field Station";"http://groups.ucanr.org/sierrafoothill/";"39.28";"-121.3";"67";"616";"341.5";"15.8";"71.1";;"AGRI";"CA";"US";"Sierra_Foothills_Field_Station.pdf"
+"SGMDRC";"No";"0";;"2008-04-07 13:07:41";"Sweeney Granite Mountains Desert Research Center";"http://nrs.ucop.edu/Sweeney-Granite.htm";"34.782";"-115.653";"700";"2071";"1385.5";"16";"23";;"DESERT-HOT";"CA";"US";"Sweeney_Granite_Mountains_Desert_Res_Ctr.pdf"
+"SHNF";"No";"0";;"2008-04-14 10:52:36";"Sam Houston National Forest";"http://www.fs.fed.us/r8/texas/recreation/sam_houston/samhouston_gen_info.shtml";"31.3689";"-94.9301";NULL;NULL;"390";"19";"122";;"SAVANNA";"TX";"US";"Sam_Houston_National_Forest.pdf"
+"SHREC";"No";"0";;;"Shafter Research and Extension Center";"http://groups.ucanr.org/shafter/";"35.532439";"-119.278203";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"CA";"US";
+"SHSU";"No";"0";;;"SHSU Center for Biological Field Studies";"http://www.shsu.edu/cbfs/";"30.742";"-95.478";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"TX";"US";
+"SIEF";"No";"0";;;"Sinkin Experimental Forest";"http://nrs.fs.fed.us/ef/locations/mo/sinkin/";"37.5";"-91.25";NULL;NULL;NULL;NULL;"111.8";NULL;"TEMPFOR";"MO";"US";
+"SINERR";"No";"0";;;"Sapelo Island National Estuarine Research Reserve";"http://www.sapelonerr.org/";"31.37";"-81.43";NULL;NULL;NULL;"20";"130";NULL;"ESTU";"GA";"US";
+"SJER";"No";"0";;;"San Joaquin Experimental Range";"http://www.fs.fed.us/psw/ef/san_joaquin/";"37.096";"-119.73";"210";"520";"365";"20";"49";NULL;"SAVANNA";"CA";"US";
+"SJFMR";"No";"0";;;"San Joaquin Freshwater Marsh Reserve";"http://nrs.ucop.edu/San-Joaquin-Marsh.htm";"33.658333";"-117.858333";"2";"3";"2.5";"17";"30";NULL;"WETLAND";"CA";"US";
+"SJNF";"No";"0";;"2008-04-14 11:48:26";"San Juan National Forest";"http://www.fs.fed.us/r2/sanjuan/";"37.437";"-106.813";"2950";"3560";"3255";NULL;NULL;;"TEMPFOR";"CO";"US";
+"SKCFS";"No";"0";;;"Sequoia and Kings Canyon Field Station";"http://www.werc.usgs.gov/seki/index.html";"36.48492";"-118.837898";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"CA";"US";
+"SKMC";"No";"0";;;"Spruce Knob Mountain Center";"http://www.mountain.org/work/skmc/";"38.671";"-79.491";NULL;"1482.2";NULL;NULL;NULL;NULL;"TEMPFOR";"WV";"US";
+"SKML";"No";"0";;;"Seahorse Key Marine Laboratory";"http://www.zoo.ufl.edu/shkml/";"29.086";"-83.019";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TROP";"FL";"US";
+"SLCA";"No";"0";;;"Salt Lake City, university";"http://co2.utah.edu";"40.76";"-111.85";NULL;NULL;"1424";NULL;NULL;NULL;"URBAN";"UT";"US";
+"SLCB";"No";"0";;;"Salt Lake City, downtown learning center";"http://co2.utah.edu";"40.76";"-111.88";NULL;NULL;"1304";NULL;NULL;NULL;"URBAN";"UT";"US";
+"SLCC";"No";"0";;;"Salt Lake City, residential";"http://co2.utah.edu";"40.73";"-111.87";NULL;NULL;"1309";NULL;NULL;NULL;"URBAN";"UT";"US";
+"SLEF";"No";"0";;"2007-10-31 14:28:05";"Silas Little Experimental Forest";"http://nrs.fs.fed.us/ef/locations/nj/silas-little/";"39.91611";"-74.598611";"0";"30.5";"18";NULL;"114.5";;"TEMPFOR";"NJ";"US";
+"SLL";"No";"0";;;"Selman Living Laboratory";"http://www.lunet.edu/mcneely/selman_living_laboratory.htm";"48.2";"-99.267";NULL;NULL;NULL;"14.4";"6";NULL;"PRAIRIE";"OK";"US";
+"SLPBS";"No";"0";;;"Stengl Lost Pines Biological Station";"http://www.sbs.utexas.edu/philjs/stengl/";"30.081";"-97.173";NULL;NULL;"168";"17.2";"92.2";NULL;"TEMPFOR";"TX";"US";
+"SMER";"No";"0";;;"Santa Margarita Ecological Reserve";"http://fs.sdsu.edu/kf/reserves/smer/";"33.5";"-117.3";"150";"700";"425";"22";"50";"http://fs.sdsu.edu/kf/reserves/factsheet.php?id=1";"GRASS-SHRUB";"CA";"US";
+"SML";"No";"0";;;"Shoals Marine Laboratory";"http://www.sml.cornell.edu";"42.989";"-70.615";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"ME";"US";
+"SMTR";"No";"0";;;"Sacramento Mountains Reserve";"http://nrs.ucop.edu/Sweeney-Granite.htm";"34.805556";"-115.663889";"700";"915";"807.5";"17";"22";NULL;"DESERT-HOT";"CA";"US";
+"SMVA";"No";"0";;"2008-04-07 11:49:34";"Smokey Valley Ranch";"http://www.nature.org/wherewework/northamerica/states/kansas/preserves/art63.html";"38.89";"-101.09";"860";"890";"875";"5";"50.8";;"RANGE";"KS";"US";"Smokey_Valley_Ranch.pdf"
+"SNARL";"No";"0";;;"Sierra Nevada Aquatic Research Lab";"http://nrs.ucop.edu/Valentine-Sierra-Nevada-Aquatic.htm";"37.614";"-118.833";"1250";"4012";"2631";"6";"38.2";NULL;"WETLAND";"CA";"US";
+"SNFC";"No";"0";;;"Sierra Nevada Field Campus";"http://www.sfsu.edu/~sierra/";"39.588";"-120.429";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"CA";"US";
+"SNP";"No";"0";;"2008-04-09 12:16:38";"Shenandoah National Park";"http://www.nps.gov/shen/";"38.5";"-77.9";"283";"1200";"741.5";NULL;"100";;"TEMPFOR";"VA";"US";"Shenandoah_National_Park.pdf"
+"SNWR";"No";"0";;;"Seatuck National Wildlife Refuge";"http://www.fws.gov/refuges/profiles/index.cfm?id=52565";"40.814";"-72.727";NULL;NULL;NULL;NULL;NULL;NULL;"GRASS-SHRUB";"NY";"US";
+"SOF";"No";"0";;;"Sky Oaks Field Station";"http://fs.sdsu.edu/kf/reserves/sofs/";"33.384";"-116.6403";"1183";"1829";"1506";"20";"50";"http://fs.sdsu.edu/kf/reserves/factsheet.php?id=2";"GRASS-SHRUB";"CA";"US";
+"SOSRO";"No";"0";;"2008-04-08 14:40:02";"South Slough Reserve";"http://www.nerrs.noaa.gov/SouthSlough/welcome.html";"43.317217";"-124.321633";"0";NULL;NULL;NULL;NULL;"The South Slough Reserve contains upland forests, freshwater wetlands and ponds, salt marshes, mud flats, eelgrass meadows and open water habitats. Major activities at the reserve include K-12 and adult education; ecological research and monitoring; and wetland restoration.";"ESTU";"OR";"US";
+"SOYL";"No";"0";;;"Soyang Lake";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=16&content_id=21";"37.948056";"127.821944";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";NULL;"KR";
+"SPL";"No";"0";;;"Storm Peak Laboratory";"http://stormpeak.dri.edu/";"40.45";"-106.73";"3200";"3200";"3200";"2";"125";NULL;"ALPINE";"CO";"US";
+"SPLK";"No";"0";;;"Sparkling Lake";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=4";"46";"-89.7";NULL;NULL;NULL;"4.4";"79";NULL;"AQUATIC";"WI";"US";
+"SPMC";"No";"0";;;"Shannon Point Marine Center";"http://www.wwu.edu/~spmc";"48.513";"-122.611";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"WA";"US";
+"SPRRS";"No";"0";;;"Southern Plains Range Research Station";"http://www.sprrs.usda.gov/index.html";"36.42";"-99.4";"610";"640";"625";"15.3";"59.6";NULL;"RANGE";"OK";"US";
+"SPS";"No";"0";;;"San Pedro SECA Site";"http://eebweb.arizona.edu/faculty/huxman/seca/";"31.662213";"-110.178982";"1200";"1250";"1225";"16.1";"23.3";NULL;"GRASS-SHRUB";"AZ";"US";
+"SRE";"No";"0";;"2008-04-14 10:15:06";"Savannah River Ecology Laboratory";"http://www.uga.edu/~srel/";"33.14";"-81.38";"21";"128";"74.5";"18";"100";;"WETLAND";"GA";"US";"Savannah_River_Site.pdf"
+"SREFS";"No";"0";;;"Savannah River Environmental Field Station";"http://www.cnrt.scsu.edu/fieldstation";"33.364";"-81.679";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"SC";"US";
+"SRER";"No";"0";;"2008-04-07 12:58:42";"Santa Rita Experimental Range";"http://ag.arizona.edu/SRER/";"31.8";"-110.9";"889";"2881";"1885";"17.9";"54.3";;"RANGE";"AZ";"US";"Santa_Rita_Experimental_Range.pdf"
+"SRS";"No";"0";;"2008-06-13 17:17:02";"Savannah River Site";"http://www.srs.gov/general/srs-home.html";"33.14";"-81.38";"21";"128";"74.5";"18";"100";;"WETLAND";"GA";"US";"Savannah_River_Site.pdf"
+"SSEF";"No";"0";;;"Scull Shoals Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"33.66666";"-83.26666";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"GA";"US";
+"STARR";"No";"0";;;"Starr Ranch Sanctuary National Audubon Society";"http://www.starrranch.org";"33.629";"-117.553";NULL;NULL;NULL;NULL;NULL;NULL;"GRASS-SHRUB";"CA";"US";
+"STCR";"No";"0";;;"Stebbins Cold Canyon Reserve";"http://nrs.ucop.edu/Stebbins-Canyon.htm";"38.856";"-122.174";"91";"762";"426.5";"18";"52";NULL;"GRASS-SHRUB";"CA";"US";
+"STEF";"No";"0";;;"Stanislaus-Tuolumne Experimental Forest";"http://www.fs.fed.us/psw/ef/stanislaus_tuolumne/";"38.05";"-119.95";"1590";"1950";"1770";"5";"94";NULL;"TEMPFOR";"CA";"US";
+"STL";"No";"0";;;"Santa Lucia Preserve";"http://www.slconservancy.org/";"36.49";"-121.86";"9";"915";"462";"15.4";"68.6";NULL;"SAVANNA";"CA";"US";
+"STRI";"No";"0";;;"Smithsonian Tropical Research Institute";"http://www.si.edu/stri";"9.426";"-82.323";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-TROP";NULL;"PA";
+"STROUD";"No";"0";;;"Stroud Water Research Center";"http://www.stroudcenter.org";"39.264";"-75.788";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"PA";"US";
+"STTN";"No";"0";;;"Stratton";"http://www.soilcrop.colostate.edu/research_extension/research/dryland/dryland.htm";"40.15";"-103.2";NULL;NULL;"1335";"10.8";"41.5";NULL;"AGRI";"CO";"US";
+"STUNT";"No";"0";;;"Stunt Ranch Santa Monica Mountains Reserve";"http://nrs.ucop.edu/reserves/stunt.html";"34.1";"-118.65";"392";"472.4";"432.2";NULL;"60";NULL;"GRASS-SHRUB";"CA";"US";
+"SU";"No";"0";;;"South Umpqua Experimental Forest";"http://www.fs.fed.us/pnw/exforests/south-umpqua/index.shtml";"43.016667";"-123.16667";NULL;NULL;NULL;NULL;"123";NULL;"TEMPFOR";"OR";"US";
+"SVA";"No";"0";;;"Superstition Vistas";"http://caplter.asu.edu";"33.37";"-111.52";"490";"510";"500";"21.2";"31.4";NULL;"URBAN";"AZ";"US";
+"SVEF";"No";"0";;"2008-04-09 13:59:29";"Stone Valley Experimental Forest";"http://www.forestryexplorer.psu.edu/forests/paforests.html";"40.66756";"-77.9347";"200";"350";"275";"6.1";"100";;"TEMPFOR";"PA";"US";
+"SWEF";"No";"0";;;"Swain Mountain Experimental Forest";"http://www.fs.fed.us/psw/ef/swain_mountain/";"40.416667";"-121.1";"1737";"2149";"1943";NULL;"126";NULL;"TEMPFOR";"CA";"US";
+"SWRS";"No";"0";;;"Southwest Research Station";"http://research.amnh.org/swrs/";"31.94";"-109.164";NULL;NULL;"1646";"12.3";"53";NULL;"TEMPFOR";"AZ";"US";
+"SYEF";"No";"0";;;"Sylamore Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"36";"-92.16666";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"AR";"US";
+"TAESS";"No";"0";;"2008-04-14 11:09:14";"Texas Agricultural Experiment Station at Sonora";"http://agresearch.tamu.edu/SanAngelo.htm";"30.2046";"-100.665";NULL;NULL;"665";"22.8";"57.4";;"SAVANNA";"TX";"US";
+"TAL";"No";"0";;"2008-04-11 10:27:26";"Tallahatchie Experimental Forest";"http://www.srs.fs.usda.gov/organization/exforest/";"34.733";"-89.133";"70";"150";"110";"17";"132.1";;"TEMPFOR";"MS";"US";"Tallahatchie_Experimental_Forest.pdf"
+"TBLK";"No";"0";;"2008-06-03 18:51:14";"Trout Bog Lake";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content";"46.033333";"-89.683333";"0";"0";"0";"4.4";"79";;"AQUATIC";"WI";"US";
+"TBNG";"No";"0";;"2008-04-09 16:44:44";"Thunder Basin National Grassland";"http://www.fs.fed.us/r2/mbr/";"43.56";"-104.46";"1097.28";"1584.96";"1341.12";"6.8";"39";;"GRASS-SHRUB";"WY";"US";"Thunder_Basin_National_Grassland.pdf"
+"TBS";"No";"0";;;"Taiga Biological Station";"http://www.wilds.mb.ca/taiga";"51.03";"-95.33";NULL;NULL;NULL;NULL;NULL;NULL;"TIAGA";NULL;"CA";
+"TCEF";"No";"0";;"2008-04-09 17:28:13";"Tenderfoot Creek Experimental Forest";"http://www.fs.fed.us/rmrs/experimental-forests/tenderfoot-creek-experimental-forest/";"46.92";"-110.88";"1840";"2421";"2130.5";"5";"88";;"TEMPFOR";"MT";"US";"Tenderfoot_Creek_Experimental_Forest.pdf"
+"TCERS";"No";"0";;;"Turtle Cove Environmental Research Station";"http://www3.selu.edu/turtlecove/";"30.294";"-90.304";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"LA";"US";
+"TCFS";"No";"0";;;"Trinity College Field Station";"http://dep.trincoll.edu/envsci/churchfarm.htm";"41.833";"-72.169";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"CT";"US";
+"TEF";"No";"0";;;"Teakettle Experimental Forest";"http://www.fs.fed.us/psw/ef/teakettle/";"36.965";"-119.036";"2000";"2800";"2400";"10";"125";NULL;"TEMPFOR";"CA";"US";
+"THFS";"No";"0";;;"Treehaven Field Station";"http://www.uwsp.edu/cnr/treehaven";"45.55";"-89.56";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"WI";"US";
+"TIBS";"No";"0";;;"Thousand Islands Biological Field Station";"http://www.esf.edu/glrc/FacilitiesWeb/TIBS.htm";"44.25";"-76.1";NULL;NULL;NULL;NULL;NULL;NULL;"AQUATIC";"NY";"US";
+"TLK";"No";"0";;"2007-11-25 17:33:33";"Toolik Field Station";"http://www.uaf.edu/toolik/";"68.633";"-149.6";"727";"900";"813.5";"-8";"25.5";;"ARCTIC";"AK";"US";"Toolik_Lake.pdf"
+"TLS";"No";"0";;"2008-06-03 18:52:08";"Trout Lake Station";"http://limnology.wisc.edu/index.php?pr=Trout_Lake_Station";"46.018";"-89.668";"0";"0";"0";"4.4";"79";;"AQUATIC";"WI";"US";
+"TNF";"No";"0";;"2008-04-11 10:23:11";"Talladega National Forest";"http://www.fs.fed.us/r8/alabama/forests/talladega/";"32.9339";"-87.4352";"78";"151";"114.5";"17.2";"135";;"TEMPFOR";"AL";"US";"Talladega_National_Forest.pdf"
+"TNP";"No";"0";;;"Tifft Nature Preserve";"http://www.sciencebuff.org/tifft_nature_preserve.php";"39.02";"-84.33";NULL;NULL;NULL;NULL;NULL;NULL;"URBAN";"NY";"US";
+"TON";"No";"0";;;"Tonzi Ranch";"http://public.ornl.gov/ameriflux/Site_Info/siteInfo.cfm?KEYID=us.tonzi.01";"38.432";"-120.962";NULL;NULL;"177";"15.4";"55.9";NULL;"SAVANNA";"CA";"US";
+"TPP";"No";"0";;"2008-04-11 13:47:48";"Tallgrass Prairie Preserve";"http://www.nature.org/wherewework/northamerica/states/oklahoma/preserves/tallgrass.html";"36.6234";"-96.6331";NULL;NULL;"330";"15.6";"101";;"PRAIRIE";"OK";"US";"Tallgrass_Prairie_Preserve.pdf"
+"TPR";"No";"0";;;"Page Ranch";"http://ag.arizona.edu/aes/cac/locations.htm#Page";"32.5531";"-110.9538";NULL;NULL;"1000";"16.7";"56.4";NULL;"GRASS-SHRUB";"AZ";"US";
+"TRC";"No";"0";;;"Tahoe Environmental Research Center";"http://terc.ucdavis.edu/";"39.243";"-119.94";NULL;NULL;"1922";"6.3";"81";NULL;"TEMPFOR";"CA";"US";
+"TRCWU";"No";"0";;;"Tyson Research Center";"http://www.biology.wustl.edu/tyson";"38.537";"-90.559";"120.4";"243.9";"182.15";NULL;"90";NULL;"URBAN";"MO";"US";
+"TRFS";"No";"0";;;"Taylor Ranch Field Station";"http://www.cnrhome.uidaho.edu/taylorranch.htm";"45.104";"-114.854";NULL;NULL;NULL;"7.1";"37";NULL;"TEMPFOR";"ID";"US";
+"TRLK";"No";"0";;"2008-06-03 18:51:44";"Trout Lake";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content";"46.033333";"-89.666667";"0";"0";"0";"4.4";"79";;"AQUATIC";"WI";"US";"Notre_Dame_Environmental_Research_Center-Trout_Lake_Station.pdf"
+"TRNER";"No";"0";;;"Tijuana River National Estuarine Research";"http://fs.sdsu.edu/kf/reserves/trnerr/";"32.554";"-117.114";"0";"0";"0";"17";"20";NULL;"ESTU";"CA";"US";
+"TTRS";"No";"0";;;"Tall Timbers Research Station";"http://www.talltimbers.org";"30.5";"-84";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"FL";"US";
+"TVOEC";"No";"0";;;"Twin Valleys Outdoor Education Center";"http://www.cardinalcard.com/twin-valleys/main.htm";"44.267";"-73.483";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"NY";"US";
+"UCFC";"No";"0";;"2008-04-14 10:17:15";"University of Central Florida campus";"http://www.ucf.edu/";"28.59";"-81.25";NULL;NULL;"10";"22";"125";;"WETLAND";"FL";"US";"University_of_Central_Florida.pdf"
+"UCRBG";"No";"0";;;"University of California Riverside Botanic Gardens";"http://gardens.ucr.edu/";"33.97566";"-117.331143";NULL;NULL;NULL;NULL;NULL;NULL;"URBAN";"CA";"US";
+"UEF";"No";"0";;;"Udell Experimental Forest";"http://nrs.fs.fed.us/ef/locations/mi/udell/";"44.25";"-85.4";NULL;NULL;NULL;NULL;"79";NULL;"TEMPFOR";"MI";"US";
+"UGAMI";"No";"0";;;"University of Georgia Marine Insititute";"http://www.uga.edu/ugami/";"31.397142";"-81.280814";NULL;NULL;NULL;NULL;NULL;NULL;"ESTU";"GA";"US";
+"UMBS";"No";"0";;"2008-04-09 11:27:23";"University of Michigan Biological Station";"http://www.lsa.umich.edu/umbs/";"45.56033";"-84.6765";NULL;NULL;"230";"5.5";"81";;"TEMPFOR";"MI";"US";"University_of_Michigan_Biological_Station.pdf"
+"UMFS";"No";"0";;;"University of Mississippi Field Station";"http://www.baysprings.olemiss.edu";"34.425";"-89.392";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"MS";"US";
+"UNFOR";"No";"0";;;"University Forest Agricultural Experiment Station";"http://aes.missouri.edu/uforest/index.stm";"36.88";"-90.3";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"MO";"US";
+"UWA";"No";"0";;"2008-04-11 13:12:05";"University of Wisconsin Arboretum";"http://uwarboretum.org/";"43.03844";"-89.43025";"258";"311";"284.5";"7.1";"83.5";;"WETLAND";"WI";"US";"University_of_Wisconsin_Arboretum.pdf"
+"UWMFS";"No";"0";;;"University of Wisconsin Milwaukee Field Station";"http://www.uwm.edu/Dept/fieldstation/home.html";"43.382";"-88.021";NULL;NULL;NULL;NULL;NULL;NULL;"WETLAND";"WI";"US";
+"UWNPSRS";"No";"0";;;"University of Wyoming - National Park Service Research Center";"http://uwadmnweb.uwyo.edu/Zoology/UWNPSRS/UWNPSRS.htm";"43.857";"-110.589";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"WY";"US";
+"VAI";"No";"0";;;"Vaira Ranch";"http://public.ornl.gov/ameriflux/Site_Info/siteInfo.cfm?KEYID=us.vaira_ranch.01";"38.40667";"-120.9507";NULL;NULL;"129";"16.3";"55.9";NULL;"GRASS-SHRUB";"CA";"US";
+"VAREC";"No";"0";;;"Vernon Agricultural Research and Extension Center";"http://vernon.tamu.edu/";"33.9057";"-98.2222";NULL;NULL;"270";"16.8";"65.2";NULL;"GRASS-SHRUB";"TX";"US";
+"VBVR";"No";"0";;;"V Bar V Ranch";"http://ag.arizona.edu/aes/vbarv/";"34.627524";"-111.763745";"970";"2100";"1535";"15";"57";NULL;"GRASS-SHRUB";"AZ";"US";
+"VCD";"No";"0";;"2008-04-07 12:27:28";"Valles Caldera National Preserve";"http://www.vallescaldera.gov";"35.728";"-106.507";"1585";"3500";"2542.5";"4.7";"57";;"RANGE";"NM";"US";"Jemez_Mountains.pdf"
+"VCR";"No";"0";;"2008-04-09 14:09:44";"Virginia Coast Reserve LTER";"http://www.vcrlter.virginia.edu/";"37.283";"-75.913";"0";"20";"10";"15.3";"66.4";;"ESTU";"VA";"US";"Virginia_Coast_Reserve_LTER.pdf"
+"VESR";"No";"0";;;"Valentine Eastern Sierra Reserve";"http://vesr.ucnrs.org";"37.625";"-118.992";"2437";"2605";"2521";"7.5";"57.5";NULL;"GRASS-SHRUB";"CA";"US";
+"VFEF";"No";"0";;;"Vinton Furnace Experimental Forest";"http://nrs.fs.fed.us/ef/locations/oh/vinton-furnace/";"39.183333";"-82.366667";"200";"300";"250";"11.3";"102.4";NULL;"TEMPFOR";"OH";"US";
+"VFS";"No";"0";;;"Vermilion Sea Field Station";"http://www.vsfs.org";"47.901";"-91.868";NULL;NULL;NULL;NULL;NULL;NULL;"COASTAL-DESERT";NULL;"MX";
+"VOER";"No";"0";;;"Voorhis Ecological Reserve";"http://www.csupomona.edu/%7Ebiology/docs/voorhis.html";"34.0585";"-117.825";NULL;NULL;NULL;NULL;NULL;NULL;"SAGEBRUSH";"CA";"US";
+"VRC";"No";"0";;"2008-06-03 18:27:03";"Arkansas Valley Rocky Ford";"http://www.colostate.edu/depts/avrc/";"37.96";"-103.77";"1200";"1273";"1236.5";"10";"40";;"GRASS-SHRUB";"CO";"US";
+"WABU";"No";"0";;;"Walker Butte";"http://www.sagestep.org/locations/walker.html";"43.53";"-120.7";"1371.6";"1432.6";"1402.1";"8";"37.5";NULL;"SAGEBRUSH";"OR";"US";
+"WALSH";"No";"0";;;"Walsh";"http://www.soilcrop.colostate.edu/research_extension/research/dryland/dryland.htm";"37.4";"-102.3";NULL;NULL;"1134";"12.2";"39.5";NULL;"AGRI";"CO";"US";
+"WASH";"No";"0";;;"Washington Mesonet Site";"http://kffl.ou.edu/projects.php?content=mesonet";"34.9822";"-97.5208";NULL;NULL;"345";"16.1";"93";NULL;"GRASS-SHRUB";"OK";"US";
+"WBW";"No";"0";;"2007-11-20 10:50:52";"Walker Branch Watershed";"http://walkerbranch.ornl.gov/";"35.58";"-84.17";"226";"413";"319.5";"14.3";"135.6";;"TEMPFOR";"TN";"US";"Oak_Ridge_Reservation-Walker_Branch_Watershed.pdf"
+"WCCER";"No";"0";;;"Walnut Creek Center for Education and Research";"http://www.mpcer.nau.edu/walnutcreek/index.html";"34.923";"-112.844";NULL;NULL;"1560";NULL;NULL;NULL;"SEMIARID";"AZ";"US";
+"WCSS";"No";"0";;;"Wheaton College Science Station";"http://www.wheaton.edu/BlackHills";"44.09";"-103.22";NULL;NULL;NULL;NULL;NULL;NULL;"TEMPFOR";"IL";"US";
+"WEBRA";"No";"0";;"2008-04-08 14:46:24";"Weeks Bay Reserve";"http://www.nerrs.noaa.gov/WeeksBay/welcome.html";"30.4162";"-87.8228";"0";NULL;NULL;NULL;NULL;"Weeks Bay is a small estuary, about 3 sq. miles (8 sq. kilometers), receiving freshwater from the Magnolia and Fish rivers, and drains a 198 sq. mile watershed into the portion of Mobile Bay. This sub-estuary of Mobile Bay averages just 4.8 ft deep (1.5 meters) and is fringed with marsh (Spartina, Juncus) and swamp (pine, oak, magnolia, maple, cypress, bayberry, tupelo and others). The reserve lands also include upland and bottomland hardwood forests, freshwater marsh (Typha, Cladium), submerged aquatic vegetation (Ruppia, Valisneria) and unique bog habitats (Sarracenia, Drosera). Weeks Bay is a critical nursery for shrimp, bay anchovy, blue crab and multitudes of other fish, crustaceans and shellfish that support robust commercial fisheries providing $450 million/year for Alaba";"ESTU";"AL";"US";
+"WEFS";"No";"0";;;"Woodlake Environmental Field Station";"http://www.csuohio.edu/ei/woodlake.html";"41.23";"-81.52";NULL;NULL;NULL;NULL;NULL;NULL;NULL;"OH";"US";
+"WEO";"No";"0";;;"Wolfskill Experimental Orchards";"http://www.plantsciences.ucdavis.edu/pomology/dept/facilities.htm#OG";"38.54";"-121.75";NULL;NULL;"14";NULL;NULL;NULL;"AGRI";"CA";"US";
+"WEW";"No";"0";;"2008-04-11 11:39:35";"West Eugene Wetlands";"http://www.eugene-or.gov/portal/server.pt?space=CommunityPage";"44.212";"-122.56";"100";"177";"138.5";"11.3";"102";;"WETLAND";"OR";"US";"West_Eugene_Wetlands.pdf"
+"WFS";"No";"0";;"2008-04-09 16:55:30";"Woodworth Field Station";"http://www.npwrc.usgs.gov/about/facility.htm";"47.136";"-99.244";NULL;NULL;NULL;"5.4";"47";;"WETLAND";"ND";"US";"Woodworth_Field_Station.pdf"
+"WFWA";"No";"0";;;"Whittell Forest and Wildlife Area";"http://www.cabnr.unr.edu/littlevalley/";"39.275";"-119.878";"1900";"2500";"2200";NULL;NULL;NULL;"TEMPFOR";"NV";"US";
+"WGW";"No";"0";;;"Walnut Gulch Experimental Watershed";"http://www.tucson.ars.ag.gov/unit/gis/wg.html";"31.7058";"-110.0571";"1250";"1585";"1417.5";"17.7";"35";NULL;"GRASS-SHRUB";"AZ";"US";
+"WHTKF";"No";"0";;;"Whitaker Forest Research Station";"http://ecology.cnr.berkeley.edu/properties/whitaker.html";"36.71";"-118.94";NULL;NULL;"109.2";NULL;NULL;NULL;"TEMPFOR";"CA";"US";
+"WIN";"No";"0";;"2008-04-11 11:44:52";"Wind River Experimental Forest";"http://www.fs.fed.us/pnw/exforests/wind-river/index.shtml";"45.833";"-121.9";"330";"1300";"815";"8.8";"229.1";;"TEMPFOR";"WA";"US";"Wind_River_Experimental_Forest.pdf"
+"WJUG";"No";"0";;"2008-04-07 14:43:56";"West Jordan City";"http://neon-iron.org";"40.6";"-111.98";NULL;NULL;"1330";"10.8";"42.3";;"URBAN";"UT";"US";"West_Jordan_City.pdf"
+"WMRS";"No";"0";;;"White Mountain Research Station";"http://www.wmrs.edu/";"37.361";"-118.326";NULL;NULL;NULL;NULL;NULL;NULL;"ARCTIC";"CA";"US";
+"WMSC";"No";"0";;;"Wrigley Marine Science Center";"http://wrigley.usc.edu/msc/index.html";"33.433";"-118.5";NULL;NULL;NULL;NULL;NULL;NULL;"OCEAN";"CA";"US";
+"WMWR";"No";"0";;;"Wichita Mountains Wildlife Refuge";"http://www.fws.gov/southwest/refuges/wichitamountains/";"34.7621";"-98.6562";NULL;NULL;"750";"17";"98.1";NULL;"GRASS-SHRUB";"OK";"US";
+"WNERR";"No";"0";;;"Wells National Estuarine Research Reserve";"http://www.wellsreserve.org/";"43.3374";"-70.55";"0";NULL;NULL;NULL;NULL;NULL;"ESTU";"ME";"US";
+"WNWR";"No";"0";;;"Wheeler National Wildlife Refuge";"http://www.fws.gov/wheeler/";"34.5545";"-86.9457";"180";"200";"190";NULL;NULL;NULL;"WETLAND";"AL";"US";
+"WQBR";"No";"0";;"2008-04-08 14:44:38";"Waquoit Bay Reserve";"http://www.nerrs.noaa.gov/WaquoitBay/welcome.html";"41.5817";"-70.5251";"0";NULL;NULL;NULL;NULL;"Waquoit Bay Reserve encompasses open waters, barrier beaches, marshlands and uplands on the south shore of Cape Cod.The WBNERR is representative of the northern section (Cape Cod to Sandy Hook) of the Virginian biogeographic region. WBNERR is located within the transitional border between the Virginian and Acadian biogeographic regions.";"ESTU";"MA";"US";
+"WRE";"No";"0";;"2008-04-09 16:52:15";"Williston Research Extension Center";"http://www.ag.ndsu.nodak.edu/willisto/";"48.13";"-103.73";NULL;NULL;NULL;"5";"36.4";;"AGRI";"ND";"US";"Williston_Research_Extension_Center.pdf"
+"WRW";"No";"0";;;"Weber River Watershed";"http://greatsaltlake.utah.edu/description/weberriver/";"41.01";"-111.51";"1300";"3600";"2450";"6";"58.4";NULL;"SAGEBRUSH";"UT";"US";
+"WSREC";"No";"0";;;"West Side Research and Extension Center";"http://groups.ucanr.org/wsrec/index.cfm";"36.342184";"-120.104991";NULL;NULL;NULL;NULL;NULL;NULL;"AGRI";"CA";"US";
+"WTAR";"No";"0";;"2008-04-11 10:29:43";"Winfred A. Thomas Agricultural Research Station (East)";"http://wx.aamu.edu/2053/";"34.9017";"-86.5386";"227";"242";"234.5";"15.7";"102.7";;"URBAN";"AL";"US";"Winfred_Thomas_Agricultural_Research_Station.pdf"
+"WWR";"No";"0";;"2008-04-14 11:18:19";"Welder Wildlife Refuge";"http://www.welderwildlife.org/";"28.0704";"-97.4652";NULL;NULL;"13";"22.2";"81.3";;"GRASS-SHRUB";"TX";"US";"Welder_Wildlife_Refuge.pdf"
+"YBEF";"No";"0";;"2007-10-30 13:36:39";"Young Bay Experimental Forest";"http://www.fs.fed.us/pnw/exforests/young-bay/index.shtml";"58.13333";"-134.5333";"0";"1160";"580";NULL;NULL;;"TEMPFOR";"AK";"US";
+"YERC";"No";"0";;;"Yellowstone Ecological Research Center Field Station";"http://www.yellowstoneresearch.org/home.shtml";"45";"-109.833";NULL;NULL;NULL;"5";NULL;NULL;"TEMPFOR";"MT";"US";
+"YLAR";"No";"0";;"2008-06-10 17:23:36";"Younger Lagoon Reserve";"http://nrs.ucop.edu/Younger-Lagoon.htm";"36.950833";"-122.065833";"0";"15";"7.5";"13.5";"62";;"OCEAN";"CA";"US";
+"YNR";"No";"0";;;"Yellowstone Northern Range";"http://www.neoninc.org/milestones/2006/rfi/yellowstone_northern_range_cor.html";"45.01";"-110.35";"1627";"2346";"1986.5";"5";NULL;NULL;"TEMPFOR";"MT";"US";
+"YOFS";"No";"0";;;"Yosemite Field Station";"http://www.werc.usgs.gov/yosemite/";"37.674608";"-119.784553";"610";"3962";"2286";NULL;NULL;NULL;"TEMPFOR";"CA";"US";
+"YYLK";"No";"0";;;"Yuan-Yang Lake";"http://benthos.limnology.wisc.edu:8080/gleonweb/GleonWebServlet?mode=content&lake_id=12";"24.583333";"121.4";NULL;NULL;NULL;"13";"400";NULL;"AQUATIC";NULL;"TW";
+"ZCB";"No";"0";;"2008-04-14 11:53:46";"Zion-Cedar Breaks";"http://www.us-parks.com/bryce/index.html";"37.35";"-112.96";"1200";"3200";"2200";"9";"56.5";;"SAGEBRUSH";"UT";"US";"Zion-Cedar_Breaks.pdf"

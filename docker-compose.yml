@@ -1,0 +1,51 @@
+version: "3.9"
+services:
+  apache-php:
+    image: php:7-apache
+    ports:
+      - 5020:80
+    container_name: php
+    volumes:
+      # - drupal_test4_dbdata:/var/lib/mysql
+      - ./src/content:/outside
+    # env_file:
+    #   - .env
+  mysql:
+    build:
+      context: .
+      dockerfile: src/images/mysql/Dockerfile
+    image: mysql:latest
+    ports:
+      - 3306:3306
+    container_name: mysql
+    volumes:
+    #   - drupal_test4_dbdata:/var/lib/mysql
+      - ./src/images/mysql:/outside
+    environment: 
+      MYSQL_ROOT_PASSWORD: ${ROOT_PW}
+      MYSQL_DATABASE: ${MYSQL_DB}
+      MYSQL_USER: ${MYSQL_USR}
+      MYSQL_PASSWORD: ${MYSQL_PW}
+    env_file:
+      - .env
+
+  phpmyadmin:
+    build:
+      context: . 
+      dockerfile: src/images/phpmyadmin/Dockerfile
+    image: krstphr/custom_phpmyadmin:latest
+    ports:
+      - 8090:80
+    container_name: phpmyadmin
+    environment:  
+      PMA_HOST: mysql 
+    volumes:
+      - ./src/images/phpmyadmin:/outside
+# volumes:
+#   # persistent modules , profiles, themes, sites( if multisite? )
+#   drupal_test4_modules:
+#   drupal_test4_profiles:
+#   drupal_test4_themes:
+#   drupal_test4_sites:
+#   # persistent mysql data
+#   drupal_test4_dbdata:

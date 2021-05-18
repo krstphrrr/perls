@@ -1,0 +1,289 @@
+/*
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//	Copyright (C) 2007 Cro-Cec, Inc. dba Digital Solutions.
+//	A complete description of Digital Solutions’ copyright notice can be found online at: 
+//	http://www.digitalsolutionslc.com/copyright_notice.php 
+//		
+//	Digital Solutions is a premier marketing and web development company in Las Cruces, New Mexico. 
+//	We offer professional web design including flash and database web sites, graphic design, marketing materials, 
+//	and video production. 
+//
+//	If you enjoyed this website and are looking for custom web development, give us a call at (505) 523-7661.
+//		
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+*/
+
+/* CSS Document */
+
+body{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000; /*666666*/
+background-image:url(../images/bg.jpg);
+background-repeat:repeat-x;
+background-color:#b1b6bb;
+margin:0px;
+}
+
+a, a:link, a:visited{
+color:#2C7AC4;
+text-decoration:none;
+font-weight:bold;
+}
+
+a:hover, a:active{
+color:#FF0000;
+text-decoration:none;
+font-weight:bold;
+}
+
+#main{
+background-image:url(../images/right-repeat.jpg);
+background-repeat:repeat-y;
+background-position:right;
+}
+#content {
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#666666;
+margin-bottom: 5px;
+margin-left:9px;
+margin-right:18px;
+}
+.ast{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FF0000; /* FFCC00 */
+}
+#footer {
+	background-image:url(../images/bg_bottom.jpg);
+	background-repeat:no-repeat;
+	background-color:#ABB0B6;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#395E7C;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+#nav {
+	background-image:url(../images/bg_nav.jpg);
+	background-repeat:no-repeat;
+	height:44px; 
+	padding-left:40px;
+	}
+#left {
+	background-image:url(../images/left-repeat.jpg);
+	background-repeat:repeat-y;
+	padding-left:20px;
+	}
+	
+.l_r_padding {
+	padding-left:5px;
+	padding-right:5px;
+}
+.l_r_padding_more {
+	padding-left:10px;
+	padding-right:10px;
+}
+.t_b_padding {
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.t_b_padding_more {
+	padding-top:10px;
+	padding-bottom:10px;
+}
+	
+a.white, a.white:link, a.white:visited { 
+	color: #ffffff; 
+	text-decoration:none; 
+	font-weight:bold;
+	font-size:13px;
+	font:Arial, Helvetica, sans-serif; 
+	}
+	
+a.white:hover{ color: #ABB0B6;}
+
+a.white_small, a.white_small:link, a.white_small:visited { 
+	color: #ffffff; 
+	text-decoration:none; 
+	font-size:11px;
+	font:Arial, Helvetica, sans-serif; 
+	}
+	
+a.white_small:hover{ color: #ABB0B6;}
+
+.header{
+	font:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px; 
+	color:#ffffff;
+}
+.header_medium{
+	font:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px; 
+	color:#ffffff;
+}
+.header_small{
+	font:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:11px; 
+	color:#ffffff;
+}
+.section{
+	font:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px; 
+	color:#000000;
+}
+#login {
+	background-image:url(images/top2.jpg);
+	background-repeat:no-repeat;
+	width:988px;
+	/*height:39px;*/
+	padding-right:20px;
+	}
+#map2 {
+	z-index:0;
+	position:relative;
+	width: 700px; 
+	height: 500px;
+	}
+	#map {
+	z-index:1;
+	position:relative; 
+	
+	width: 700px; 
+	height: 500px;
+	}
+		
+	 
+		#select_multiple_sites,
+		#select_multiple_programs,
+		#select_multiple_networks,
+		#select_multiple_gradients,
+		#select_multiple_regions,
+		#select_multiple_ecosystems
+		{
+			width:220px;
+		}
+		   
+		#select_sites_container{
+			position:relative;
+			z-index:11; 
+			width:220px;
+		} 
+		#select_programs_container{
+			position:relative;
+			z-index:10; 
+			width:220px;
+		} 
+		#select_networks_container{
+			position:relative;
+			z-index:9; 
+			width:220px;
+		} 
+		#select_gradients_container{
+			position:relative;
+			z-index:8; 
+			width:220px;
+		} 
+		#select_regions_container{
+			position:relative;
+			z-index:7; 
+			width:220px;
+		} 
+		#select_ecosystems_container{
+			position:relative;
+			z-index:6; 
+			width:220px;
+		}  
+		
+		 
+		.select_multiple_submit {
+			background-image:url("http://livepipe.net/styles/popup_footer.gif");
+			background-image:top center;
+			background-repeat:repeat-x;
+			padding:10px;
+			height:22px;
+			text-align:right;
+		}
+
+		.select_multiple_label {
+			margin-left:5px;
+			font-family:"Lucida Grande",Verdana;
+			font-size:11px;
+		}
+
+		.select_multiple_container {
+			width:450px;
+			position:absolute;
+			top:0;
+			left:0;
+			z-index:10; !important
+			border:1px solid #222;
+			border-top:none;
+		}
+
+		.select_multiple_container .select_multiple_header {
+			background-image:url("http://livepipe.net/styles/black_background.gif");
+			background-repeat:repeat-x;
+			background-position:top center;
+			color:#eee;
+			font-family:"Lucida Grande",Verdana;
+			font-weight:bold;
+			font-size:12px;
+			margin:0;
+			padding:7px 0 8px 10px;
+			background-color:#000;
+		}
+		
+		table.select_multiple_table td {
+			height:27px;
+			border-bottom:1px solid #ddd;
+			font-family:"Lucida Grande",Verdana;
+			color:#333;
+			font-size:11px;
+		}
+		
+		table.select_multiple_table tr.even {
+			background-color:#FCFCFC;
+		}
+
+		table.select_multiple_table tr.odd {
+			background-color:#F7F7F7;
+		}
+		
+		table.select_multiple_table tr.selected {
+			background-image:none;
+			background-color:#D9E9FE;
+		}
+		
+		.select_multiple_name {
+			padding-left:15px;
+			font-weight:bold;
+		}
+		
+		.select_multiple_checkbox {
+			text-align:right;
+		}
+		
+		.select_multiple_checkbox input {
+			margin-right:15px;
+		}
+		
+		
+	.select_multiple_submit1 {			
+			background-image:url("http://livepipe.net/styles/popup_footer.gif");
+			background-image:top center;
+			background-repeat:repeat-x;
+			padding:10px;
+			height:22px;
+			text-align:right; 
+}
+
+  
+		
+		
+		  

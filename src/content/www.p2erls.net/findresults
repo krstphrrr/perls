@@ -1,0 +1,834 @@
+./process_activate_account.php:		$account_num= mysql_result($result,$i,"account_num"); 
+./process_activate_account.php:		$query3="UPDATE p2erls_accounts SET active_user='".$active_user."' WHERE account_num='".$account_num."'";
+./backup/process_activate_account.php:		$account_num= mysql_result($result,$i,"account_num"); 
+./backup/process_activate_account.php:		$query3="UPDATE p2erls_accounts SET active_user='".$active_user."' WHERE account_num='".$account_num."'";
+./backup/process_create_account.php:$account_num			=$_POST["account_num"];
+./backup/includes/map_functions2.js.20080531:function saveSearch(account_num)
+./backup/includes/map_functions2.js.20080531:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./backup/includes/map_functions2.js.20080531:	url=url+"&account_num="+account_num 
+./backup/includes/map_functions2.js.20080531:		//showSavedSearches(account_num);
+./backup/includes/map_functions2.js.20080531:function showSavedSearches(account_num)
+./backup/includes/map_functions2.js.20080531:	url=url+"&account_num="+account_num 
+./backup/includes/map_functions2.js.20080531:function removeSearch(saved_search_num,search_name,account_num)
+./backup/includes/map_functions2.js.20080531:		showSavedSearches(account_num);
+./backup/includes/map_functions2.js:function saveSearch(account_num)
+./backup/includes/map_functions2.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./backup/includes/map_functions2.js:	url=url+"&account_num="+account_num 
+./backup/includes/map_functions2.js:		//showSavedSearches(account_num);
+./backup/includes/map_functions2.js:function showSavedSearches(account_num)
+./backup/includes/map_functions2.js:	url=url+"&account_num="+account_num 
+./backup/includes/map_functions2.js:function removeSearch(saved_search_num,search_name,account_num)
+./backup/includes/map_functions2.js:		showSavedSearches(account_num);
+./backup/includes/map_functions.js:function saveSearch(account_num)
+./backup/includes/map_functions.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./backup/includes/map_functions.js:	url=url+"&account_num="+account_num 
+./backup/includes/map_functions.js:		//showSavedSearches(account_num);
+./backup/includes/map_functions.js:function showSavedSearches(account_num)
+./backup/includes/map_functions.js:	url=url+"&account_num="+account_num 
+./backup/includes/map_functions.js:function removeSearch(saved_search_num,search_name,account_num)
+./backup/includes/map_functions.js:		showSavedSearches(account_num);
+./backup/includes/showSavedSearches.php:$account_num=$_GET["account_num"];
+./backup/includes/showSavedSearches.php:if($account_num==''){ echo"You Must Be Logged In To View Your Saved Searches."; }
+./backup/includes/showSavedSearches.php:$query_saved_searches = "SELECT * FROM p2erls_saved_searches where account_num = '$account_num' ORDER BY saved_search_num ASC";
+./backup/includes/showSavedSearches.php:	$account_num= mysql_result($result_saved_searches,$kk_saved_searches,"account_num");
+./backup/includes/showSavedSearches.php:    <td><a href="javascript:loadSearch('<?php echo"$select_multiple_programs";?>','<?php echo"$select_multiple_networks";?>','<?php echo"$select_multiple_gradients";?>','<?php echo"$select_multiple_regions";?>','<?php echo"$select_multiple_ecosystems";?>','<?php echo"$site_elevlow_min";?>','<?php echo"$site_elevlow_max";?>','<?php echo"$site_elevhigh_min";?>','<?php echo"$site_elevhigh_max";?>','<?php echo"$site_temp_min";?>','<?php echo"$site_temp_max";?>','<?php echo"$site_precip_min";?>','<?php echo"$site_precip_max";?>')" class="white"><?php echo"$search_name";?></a> - <a href="javascript:removeSearch('<?php echo"$saved_search_num";?>','<?php echo"$search_name";?>','<?php echo"$account_num";?>')" class="white">Remove</a></td>
+./backup/includes/saveSearch.php:$account_num=$_GET["account_num"];
+./backup/includes/saveSearch.php:			'".$account_num."', 
+./backup/index_old.php:                    <td colspan="2"><a href="javascript:mapReset();" class="white_small">Reset Map</a> - <a href="javascript:saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" class="white_small" >Save Current Search</a></td>
+./backup/my_account.php:$account_num = $_SESSION[p2erls_account_num];
+./backup/my_account.php:$query = "SELECT * FROM p2erls_accounts WHERE account_num = '$account_num' ";
+./backup/my_account.php:	$account_num= mysql_result($result,$i,"account_num");
+./backup/my_account.php:				  <input type="hidden" value="<?php echo"$account_num";?>" name="account_num" id="account_num" ecosystem_id="account_num" />
+./backup/web/process_activate_account.php:		$account_num= mysql_result($result,$i,"account_num"); 
+./backup/web/process_activate_account.php:		$query3="UPDATE p2erls_accounts SET active_user='".$active_user."' WHERE account_num='".$account_num."'";
+./backup/web/process_create_account.php:$account_num			=$_POST["account_num"];
+./backup/web/includes/map_functions2.js.20080531:function saveSearch(account_num)
+./backup/web/includes/map_functions2.js.20080531:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./backup/web/includes/map_functions2.js.20080531:	url=url+"&account_num="+account_num 
+./backup/web/includes/map_functions2.js.20080531:		//showSavedSearches(account_num);
+./backup/web/includes/map_functions2.js.20080531:function showSavedSearches(account_num)
+./backup/web/includes/map_functions2.js.20080531:	url=url+"&account_num="+account_num 
+./backup/web/includes/map_functions2.js.20080531:function removeSearch(saved_search_num,search_name,account_num)
+./backup/web/includes/map_functions2.js.20080531:		showSavedSearches(account_num);
+./backup/web/includes/map_functions2.js:function saveSearch(account_num)
+./backup/web/includes/map_functions2.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./backup/web/includes/map_functions2.js:	url=url+"&account_num="+account_num 
+./backup/web/includes/map_functions2.js:		//showSavedSearches(account_num);
+./backup/web/includes/map_functions2.js:function showSavedSearches(account_num)
+./backup/web/includes/map_functions2.js:	url=url+"&account_num="+account_num 
+./backup/web/includes/map_functions2.js:function removeSearch(saved_search_num,search_name,account_num)
+./backup/web/includes/map_functions2.js:		showSavedSearches(account_num);
+./backup/web/includes/map_functions.js:function saveSearch(account_num)
+./backup/web/includes/map_functions.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./backup/web/includes/map_functions.js:	url=url+"&account_num="+account_num 
+./backup/web/includes/map_functions.js:		//showSavedSearches(account_num);
+./backup/web/includes/map_functions.js:function showSavedSearches(account_num)
+./backup/web/includes/map_functions.js:	url=url+"&account_num="+account_num 
+./backup/web/includes/map_functions.js:function removeSearch(saved_search_num,search_name,account_num)
+./backup/web/includes/map_functions.js:		showSavedSearches(account_num);
+./backup/web/includes/showSavedSearches.php:$account_num=$_GET["account_num"];
+./backup/web/includes/showSavedSearches.php:if($account_num==''){ echo"You Must Be Logged In To View Your Saved Searches."; }
+./backup/web/includes/showSavedSearches.php:$query_saved_searches = "SELECT * FROM p2erls_saved_searches where account_num = '$account_num' ORDER BY saved_search_num ASC";
+./backup/web/includes/showSavedSearches.php:	$account_num= mysql_result($result_saved_searches,$kk_saved_searches,"account_num");
+./backup/web/includes/showSavedSearches.php:    <td><a href="javascript:loadSearch('<?php echo"$select_multiple_programs";?>','<?php echo"$select_multiple_networks";?>','<?php echo"$select_multiple_gradients";?>','<?php echo"$select_multiple_regions";?>','<?php echo"$select_multiple_ecosystems";?>','<?php echo"$site_elevlow_min";?>','<?php echo"$site_elevlow_max";?>','<?php echo"$site_elevhigh_min";?>','<?php echo"$site_elevhigh_max";?>','<?php echo"$site_temp_min";?>','<?php echo"$site_temp_max";?>','<?php echo"$site_precip_min";?>','<?php echo"$site_precip_max";?>')" class="white"><?php echo"$search_name";?></a> - <a href="javascript:removeSearch('<?php echo"$saved_search_num";?>','<?php echo"$search_name";?>','<?php echo"$account_num";?>')" class="white">Remove</a></td>
+./backup/web/includes/saveSearch.php:$account_num=$_GET["account_num"];
+./backup/web/includes/saveSearch.php:			'".$account_num."', 
+./backup/web/index_old.php:                    <td colspan="2"><a href="javascript:mapReset();" class="white_small">Reset Map</a> - <a href="javascript:saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" class="white_small" >Save Current Search</a></td>
+./backup/web/my_account.php:$account_num = $_SESSION[p2erls_account_num];
+./backup/web/my_account.php:$query = "SELECT * FROM p2erls_accounts WHERE account_num = '$account_num' ";
+./backup/web/my_account.php:	$account_num= mysql_result($result,$i,"account_num");
+./backup/web/my_account.php:				  <input type="hidden" value="<?php echo"$account_num";?>" name="account_num" id="account_num" ecosystem_id="account_num" />
+./backup/web/activate.php:			$account_num= mysql_result($result,$i,"account_num");		
+./backup/web/activate.php:		$query3 = "UPDATE `p2erls_accounts` SET active_user = 'Yes' WHERE  account_num = '$account_num' ";
+./backup/web/activate.php:$query_login = "UPDATE `p2erls_accounts` SET member_since = '$member_since' WHERE account_num = '$account_num' ";
+./backup/web/restricted/accounts.php:<body onLoad="init_table('<?php echo $_GET["mode"]; ?>','<?php echo $_GET["account_num"]; ?>');">
+./backup/web/restricted/showContinents.php:					$query_continents = "SELECT co_name FROM p2erls_continents_oceans WHERE co_id='$co_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY co_id ASC";
+./backup/web/restricted/showContinents.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showContinents.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showLinks.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showLinks.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showRegions.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_region_co WHERE pending_change='Yes' AND account_num!='0' AND region_id='$region_id' AND co_id='$co_id'";
+./backup/web/restricted/showRegions.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/web/restricted/showRegions.php:			<div id="result_account_<?php echo "$co_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/web/restricted/showRegions.php:        <?php $account_num='';
+./backup/web/restricted/showRegions.php:					$query_regions = "SELECT * FROM p2erls_regions WHERE region_id='$region_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY region_id ASC";
+./backup/web/restricted/showRegions.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showRegions.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/includes/update_approvals.old:		if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./backup/web/restricted/includes/update_assc.php:$curr_session_acct=$_SESSION["p2erls_account_num"];
+./backup/web/restricted/includes/update_assc.php:$account_num=$_GET["account_num"];
+./backup/web/restricted/includes/update_assc.php:if ($account_num == '') { $account_num = 0; }
+./backup/web/restricted/includes/update_assc.php://echo "account_num = $account_num<br>";
+./backup/web/restricted/includes/update_assc.php:		if ($curr_session_acct != $account_num && $account_num == 0)
+./backup/web/restricted/includes/update_assc.php:			$query_delete_removal_request="DELETE FROM $table_name WHERE delete_assc='Yes' AND pending_change='Yes' AND account_num='".$account_num."' AND $pkey='".$pkey_value."' AND $assc_pkey='".$assc_pkey_value."'";
+./backup/web/restricted/includes/update_assc.php:		if ($curr_session_acct != $account_num && $account_num == 0)
+./backup/web/restricted/includes/update_assc.php:			$query_delete_approval_request="DELETE FROM $table_name WHERE delete_assc='No' AND pending_change='Yes' AND account_num='".$account_num."' AND $pkey='".$pkey_value."' AND $assc_pkey='".$assc_pkey_value."'";
+./backup/web/restricted/includes/ajax_common.js:	var account_num = document.getElementById('result_account_'+assc_pkey_value).innerHTML;
+./backup/web/restricted/includes/ajax_common.js:	url=url+"?account_num="+account_num;
+./backup/web/restricted/includes/assc_site_landowner.js:	var account_num = document.getElementById('result_account_'+assc_pkey_value).innerHTML;
+./backup/web/restricted/includes/assc_site_landowner.js:	url=url+"?account_num="+account_num;
+./backup/web/restricted/includes/function_pending_check.php:	$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./backup/web/restricted/includes/admin_styles.css:	border:1px solaccount_num #cccccc;
+./backup/web/restricted/includes/admin_styles.css:	border:1px solaccount_num #cccccc;
+./backup/web/restricted/includes/ajax_accounts.js:	Param = url >> Url to call : account_num = Passing div account_num for multiple use ~ as a seprator for eg. div1~div2 :
+./backup/web/restricted/includes/ajax_accounts.js:	Desc = This function is used to valaccount_numation for the empty field 
+./backup/web/restricted/includes/ajax_accounts.js:function init_table(mode,account_num)
+./backup/web/restricted/includes/ajax_accounts.js:		requestInfo('showAccounts.php?mode='+mode+'&account_num='+account_num,'showAccounts','');
+./backup/web/restricted/includes/ajax_accounts.js:function update_data(account_num_update) 
+./backup/web/restricted/includes/ajax_accounts.js:		url2=url2+"&account_num="+account_num_update;
+./backup/web/restricted/includes/update_approvals.php:		if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./backup/web/restricted/includes/function_id_check.php:	//$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./backup/web/restricted/includes/function_id_check.php:		$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./backup/web/restricted/showPrograms.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_program_networks WHERE pending_change='Yes' AND account_num!='0' AND program_id='$program_id' AND network_id='$network_id'";
+./backup/web/restricted/showPrograms.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/web/restricted/showPrograms.php:			<div id="result_account_<?php echo "$network_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/web/restricted/showPrograms.php:        <?php $account_num='';
+./backup/web/restricted/showPrograms.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_program_sites WHERE pending_change='Yes' AND account_num!='0' AND program_id='$program_id' AND site_id='$site_id'";
+./backup/web/restricted/showPrograms.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/web/restricted/showPrograms.php:			<div id="result_account_<?php echo "$site_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/web/restricted/showPrograms.php:        <?php $account_num='';
+./backup/web/restricted/showPrograms.php:					$query_programs = "SELECT * FROM p2erls_programs WHERE program_id='$program_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY program_id ASC";
+./backup/web/restricted/showPrograms.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showPrograms.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showApprovals.php:			//$query_account = "SELECT DISTINCT account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id'";
+./backup/web/restricted/showApprovals.php:			//$account_num= mysql_result($result_account,0,"account_num");		
+./backup/web/restricted/showApprovals.php:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey='$assc_id_db'";
+./backup/web/restricted/showApprovals.php:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc_2." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey_2='$assc_id_db_2'";
+./backup/web/restricted/showApprovals.php:						$account_num= mysql_result($result_assc_cat,0,"account_num");
+./backup/web/restricted/showApprovals.php:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/web/restricted/showApprovals.php:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./backup/web/restricted/showApprovals.php:			$account_num=$_GET["acct"];
+./backup/web/restricted/showApprovals.php:			$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";			
+./backup/web/restricted/showApprovals.php:			<p align="center" style="font-size:10px;"><b>Proposed By <a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$account_username"; ?></a></b></p>
+./backup/web/restricted/showApprovals.php:						if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./backup/web/restricted/showApprovals.php:						$account_num= mysql_result($result_main_cat,$i,"account_num");
+./backup/web/restricted/showApprovals.php:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/web/restricted/showApprovals.php:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./backup/web/restricted/showApprovals.php:					$account_num= mysql_result($results_to_search,$i,"account_num");
+./backup/web/restricted/showApprovals.php:					$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/web/restricted/showApprovals.php:					<?php if ($num_results_main_cat != 0) { ?><td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td><?php } ?>
+./backup/web/restricted/showApprovals.php:					<td><a href="javascript:requestInfo('showApprovals.php?mode=<?php echo "$mode_to_send"; ?>&acct=<?php echo "$account_num"; ?>&cat_id=<?php echo "$cat_id"; ?>&curr_id=<?php echo "$curr_id"; ?>&pkey=<?php echo "$pkey"; if ($cat_id_assc != '') { ?>&cat_id_assc=<?php echo "$cat_id_assc"; ?>&assc_pkey=<?php echo "$assc_pkey"; } if ($cat_id_assc_2 != '') { ?>&cat_id_assc_2=<?php echo "$cat_id_assc_2"; ?>&assc_pkey_2=<?php echo "$assc_pkey_2"; } if ($num_results_main_cat == 0) { ?>&main_cat_approvals=No<?php } ?>','showApprovals','')">Update</a></td>
+./backup/web/restricted/showGradients.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_gradient_region WHERE pending_change='Yes' AND account_num!='0' AND gradient_id='$gradient_id' AND region_id='$region_id'";
+./backup/web/restricted/showGradients.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/web/restricted/showGradients.php:			<div id="result_account_<?php echo "$region_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/web/restricted/showGradients.php:        <?php $account_num='';
+./backup/web/restricted/showGradients.php:				$query_gradients = "SELECT * FROM p2erls_gradients WHERE gradient_id='$gradient_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY gradient_id ASC";
+./backup/web/restricted/showGradients.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showGradients.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/Security_Dept/login_check.php:		$account_num	= mysql_result($result_login_check,0,"account_num");
+./backup/web/restricted/Security_Dept/login_check.php:		$query_login = "UPDATE `p2erls_accounts` SET last_login='$time_now' WHERE account_num='$account_num'";
+./backup/web/restricted/Security_Dept/login_check.php:		$_SESSION["p2erls_account_num"] 	= $account_num;
+./backup/web/restricted/Security_Dept/login_check.php:		echo "<b><span style='color:#FF0000;'>account_num : $account_num</span></b>";
+./backup/web/restricted/Security_Dept/redirect.php:	$account_num	= mysql_result($result_login_check,0,"account_num");
+./backup/web/restricted/Security_Dept/redirect.php:	$query_login = "UPDATE `p2erls_accounts` SET last_login = '$time_now' WHERE account_num = '$account_num'";
+./backup/web/restricted/Security_Dept/redirect.php:	$_SESSION["p2erls_account_num"] 	= $account_num;
+./backup/web/restricted/showAccounts.php:					$account_num=$_GET["account_num"]; 
+./backup/web/restricted/showAccounts.php:					$sql="SELECT * FROM p2erls_accounts where account_num='$account_num' ORDER BY account_num ASC";
+./backup/web/restricted/showAccounts.php:						$account_num		=$row["account_num"]; 
+./backup/web/restricted/showAccounts.php:          Account <?php echo"$account_num";?> <br />
+./backup/web/restricted/showAccounts.php:          <td width="153"><input type="hidden" value="<?php echo"$account_num";?>" name="account_num" id="account_num" ecosystem_id="account_num">
+./backup/web/restricted/showAccounts.php:          <td width="281"><?php echo"$account_num";?></td>
+./backup/web/restricted/showAccounts.php:          <td colspan="2"><a href="javascript:requestInfo('showAccounts.php?mode=list&account_num=<?php echo"$account_num";?>','showAccounts','')">Cancel</a> ||
+./backup/web/restricted/showAccounts.php:            <a href="javascript:update_data('<?php echo"$account_num";?>');">Save</a>
+./backup/web/restricted/showAccounts.php:    <td colspan=20 bgcolor="#FFFFFF"><a href="javascript:requestInfo('showAccounts.php?mode=new&account_num=<?php echo"$account_num";?>','showAccounts','')">Add New Data</a> || <a href="javascript:requestInfo('showAccounts.php?mode=list','showAccounts','')">Refresh</a></td>
+./backup/web/restricted/showAccounts.php:			$var_account_num=$_GET["account_num"];
+./backup/web/restricted/showAccounts.php:			$sqlDelete="DELETE FROM p2erls_accounts where account_num='$var_account_num'";
+./backup/web/restricted/showAccounts.php:				$account_num		=$_GET["account_num"]; 
+./backup/web/restricted/showAccounts.php:				'$account_num', 
+./backup/web/restricted/showAccounts.php:				$account_num		=$_GET["account_num"]; 
+./backup/web/restricted/showAccounts.php:			where account_num='$account_num'";
+./backup/web/restricted/showAccounts.php:			$sql="SELECT * FROM p2erls_accounts ORDER BY account_num ASC";
+./backup/web/restricted/showAccounts.php:				$account_num	=$row["account_num"]; 
+./backup/web/restricted/showAccounts.php:				$account_num2=$_GET["account_num"];
+./backup/web/restricted/showAccounts.php:			if($account_num2!=$account_num) { ?>
+./backup/web/restricted/showAccounts.php:          <td><a href="javascript:requestInfo('showAccounts.php?mode=update&account_num=<?php echo"$account_num";?>','showAccounts','')">Update</a> </td>
+./backup/web/restricted/showAccounts.php:          <td><?php if($_SESSION[p2erls_access_level] == "1"){?><a href="javascript:requestInfo('showAccounts.php?mode=delete&account_num=<?php echo"$account_num";?>','showAccounts','');" onclick="return confirmLink(this, 'username', '<?php echo"$account_num";?>');">Delete</a><?php } ?></td>
+./backup/web/restricted/showSites.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_site_landowner WHERE pending_change='Yes' AND account_num!='0' AND site_id='$site_id' AND landowner_id='$landowner_id'";
+./backup/web/restricted/showSites.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/web/restricted/showSites.php:			<div id="result_account_<?php echo "$landowner_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/web/restricted/showSites.php:        <?php $account_num='';
+./backup/web/restricted/showSites.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_site_gradient WHERE pending_change='Yes' AND account_num!='0' AND site_id='$site_id' AND gradient_id='$gradient_id'";
+./backup/web/restricted/showSites.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/web/restricted/showSites.php:			<div id="result_account_<?php echo "$gradient_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/web/restricted/showSites.php:        <?php $account_num='';
+./backup/web/restricted/showSites.php:				$query_sites = "SELECT * FROM p2erls_sites WHERE site_id='$site_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY site_id ASC";
+./backup/web/restricted/showSites.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showSites.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/assc_site_landowner.php:		'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/assc_site_landowner.php:		'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showStates.php:					$query_states = "SELECT state_name FROM p2erls_states WHERE state_id='$state_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY state_id ASC";
+./backup/web/restricted/showStates.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showStates.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showNetworks.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_network_sites WHERE pending_change='Yes' AND account_num!='0' AND network_id='$network_id' AND site_id='$site_id'";
+./backup/web/restricted/showNetworks.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/web/restricted/showNetworks.php:			<div id="result_account_<?php echo "$site_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/web/restricted/showNetworks.php:        <?php $account_num='';
+./backup/web/restricted/showNetworks.php:					$query_networks = "SELECT * FROM p2erls_networks WHERE network_id='$network_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY network_id ASC";
+./backup/web/restricted/showNetworks.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showNetworks.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/test/approve_assc_examples.php:    <th>account_num</th>
+./backup/web/restricted/showEcosystems.php:				$query_ecosystems = "SELECT * FROM p2erls_ecosystems WHERE ecosystem_id='$ecosystem_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY ecosystem_id ASC";
+./backup/web/restricted/showEcosystems.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showEcosystems.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showApprovals.old:			//$query_account = "SELECT DISTINCT account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id'";
+./backup/web/restricted/showApprovals.old:			//$account_num= mysql_result($result_account,0,"account_num");		
+./backup/web/restricted/showApprovals.old:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey='$assc_id_db'";
+./backup/web/restricted/showApprovals.old:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc_2." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey_2='$assc_id_db_2'";
+./backup/web/restricted/showApprovals.old:						$account_num= mysql_result($result_assc_cat,0,"account_num");
+./backup/web/restricted/showApprovals.old:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/web/restricted/showApprovals.old:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./backup/web/restricted/showApprovals.old:			$account_num=$_GET["acct"];
+./backup/web/restricted/showApprovals.old:			$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";			
+./backup/web/restricted/showApprovals.old:			<p align="center" style="font-size:10px;"><b>Proposed By <a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$account_username"; ?></a></b></p>
+./backup/web/restricted/showApprovals.old:						if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./backup/web/restricted/showApprovals.old:						$account_num= mysql_result($result_main_cat,$i,"account_num");
+./backup/web/restricted/showApprovals.old:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/web/restricted/showApprovals.old:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./backup/web/restricted/showApprovals.old:					$account_num= mysql_result($results_to_search,$i,"account_num");
+./backup/web/restricted/showApprovals.old:					$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/web/restricted/showApprovals.old:					<?php if ($num_results_main_cat != 0) { ?><td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td><?php } ?>
+./backup/web/restricted/showApprovals.old:					<td><a href="javascript:requestInfo('showApprovals.php?mode=<?php echo "$mode_to_send"; ?>&acct=<?php echo "$account_num"; ?>&cat_id=<?php echo "$cat_id"; ?>&curr_id=<?php echo "$curr_id"; ?>&pkey=<?php echo "$pkey"; if ($cat_id_assc != '') { ?>&cat_id_assc=<?php echo "$cat_id_assc"; ?>&assc_pkey=<?php echo "$assc_pkey"; } if ($cat_id_assc_2 != '') { ?>&cat_id_assc_2=<?php echo "$cat_id_assc_2"; ?>&assc_pkey_2=<?php echo "$assc_pkey_2"; } if ($num_results_main_cat == 0) { ?>&main_cat_approvals=No<?php } ?>','showApprovals','')">Update</a></td>
+./backup/web/restricted/showLandowner_bounds.php:					$query_landowner_bounds = "SELECT * FROM p2erls_landowner_bounds WHERE lb_id='$lb_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY lb_id ASC";
+./backup/web/restricted/showLandowner_bounds.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showLandowner_bounds.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showLandowner.php:				$query_landowners = "SELECT * FROM p2erls_landowners WHERE landowner_id='$landowner_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY landowner_id ASC";
+./backup/web/restricted/showLandowner.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showLandowner.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showCountries.php:					$query_countries = "SELECT country_name FROM p2erls_countries WHERE country_id='$country_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY country_id ASC";
+./backup/web/restricted/showCountries.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/restricted/showCountries.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/web/browse_sites.php:						<input type="button" name="Button" value="Save Current Search" onclick="saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" /></td>
+./backup/web/process_my_account.php:$account_num = $_SESSION[p2erls_account_num];
+./backup/web/process_my_account.php:			where account_num='".$account_num."'
+./backup/web/saved_searches.php:$account_num=$_SESSION["p2erls_account_num"];
+./backup/web/saved_searches.php:if($account_num==''){ echo"You Must Be Logged In To View Your Saved Searches."; }
+./backup/web/saved_searches.php:$query_saved_searches = "SELECT * FROM p2erls_saved_searches where account_num = '$account_num' ORDER BY saved_search_num ASC";
+./backup/web/saved_searches.php:	$account_num= mysql_result($result_saved_searches,$kk_saved_searches,"account_num");
+./backup/web/saved_searches.php:    <td><a href="javascript:loadSearch('<?php echo"$select_multiple_programs";?>','<?php echo"$select_multiple_networks";?>','<?php echo"$select_multiple_gradients";?>','<?php echo"$select_multiple_regions";?>','<?php echo"$select_multiple_ecosystems";?>','<?php echo"$site_elevlow_min";?>','<?php echo"$site_elevlow_max";?>','<?php echo"$site_elevhigh_min";?>','<?php echo"$site_elevhigh_max";?>','<?php echo"$site_temp_min";?>','<?php echo"$site_temp_max";?>','<?php echo"$site_precip_min";?>','<?php echo"$site_precip_max";?>')" class="white"><?php echo"$search_name";?></a> - <a href="javascript:removeSearch('<?php echo"$saved_search_num";?>','<?php echo"$search_name";?>','<?php echo"$account_num";?>')" class="white">Remove</a></td>
+./backup/activate.php:			$account_num= mysql_result($result,$i,"account_num");		
+./backup/activate.php:		$query3 = "UPDATE `p2erls_accounts` SET active_user = 'Yes' WHERE  account_num = '$account_num' ";
+./backup/activate.php:$query_login = "UPDATE `p2erls_accounts` SET member_since = '$member_since' WHERE account_num = '$account_num' ";
+./backup/restricted/accounts.php:<body onLoad="init_table('<?php echo $_GET["mode"]; ?>','<?php echo $_GET["account_num"]; ?>');">
+./backup/restricted/showContinents.php:					$query_continents = "SELECT co_name FROM p2erls_continents_oceans WHERE co_id='$co_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY co_id ASC";
+./backup/restricted/showContinents.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showContinents.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showLinks.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showLinks.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showRegions.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_region_co WHERE pending_change='Yes' AND account_num!='0' AND region_id='$region_id' AND co_id='$co_id'";
+./backup/restricted/showRegions.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/restricted/showRegions.php:			<div id="result_account_<?php echo "$co_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/restricted/showRegions.php:        <?php $account_num='';
+./backup/restricted/showRegions.php:					$query_regions = "SELECT * FROM p2erls_regions WHERE region_id='$region_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY region_id ASC";
+./backup/restricted/showRegions.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showRegions.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/includes/update_approvals.old:		if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./backup/restricted/includes/update_assc.php:$curr_session_acct=$_SESSION["p2erls_account_num"];
+./backup/restricted/includes/update_assc.php:$account_num=$_GET["account_num"];
+./backup/restricted/includes/update_assc.php:if ($account_num == '') { $account_num = 0; }
+./backup/restricted/includes/update_assc.php://echo "account_num = $account_num<br>";
+./backup/restricted/includes/update_assc.php:		if ($curr_session_acct != $account_num && $account_num == 0)
+./backup/restricted/includes/update_assc.php:			$query_delete_removal_request="DELETE FROM $table_name WHERE delete_assc='Yes' AND pending_change='Yes' AND account_num='".$account_num."' AND $pkey='".$pkey_value."' AND $assc_pkey='".$assc_pkey_value."'";
+./backup/restricted/includes/update_assc.php:		if ($curr_session_acct != $account_num && $account_num == 0)
+./backup/restricted/includes/update_assc.php:			$query_delete_approval_request="DELETE FROM $table_name WHERE delete_assc='No' AND pending_change='Yes' AND account_num='".$account_num."' AND $pkey='".$pkey_value."' AND $assc_pkey='".$assc_pkey_value."'";
+./backup/restricted/includes/ajax_common.js:	var account_num = document.getElementById('result_account_'+assc_pkey_value).innerHTML;
+./backup/restricted/includes/ajax_common.js:	url=url+"?account_num="+account_num;
+./backup/restricted/includes/assc_site_landowner.js:	var account_num = document.getElementById('result_account_'+assc_pkey_value).innerHTML;
+./backup/restricted/includes/assc_site_landowner.js:	url=url+"?account_num="+account_num;
+./backup/restricted/includes/function_pending_check.php:	$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./backup/restricted/includes/admin_styles.css:	border:1px solaccount_num #cccccc;
+./backup/restricted/includes/admin_styles.css:	border:1px solaccount_num #cccccc;
+./backup/restricted/includes/ajax_accounts.js:	Param = url >> Url to call : account_num = Passing div account_num for multiple use ~ as a seprator for eg. div1~div2 :
+./backup/restricted/includes/ajax_accounts.js:	Desc = This function is used to valaccount_numation for the empty field 
+./backup/restricted/includes/ajax_accounts.js:function init_table(mode,account_num)
+./backup/restricted/includes/ajax_accounts.js:		requestInfo('showAccounts.php?mode='+mode+'&account_num='+account_num,'showAccounts','');
+./backup/restricted/includes/ajax_accounts.js:function update_data(account_num_update) 
+./backup/restricted/includes/ajax_accounts.js:		url2=url2+"&account_num="+account_num_update;
+./backup/restricted/includes/update_approvals.php:		if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./backup/restricted/includes/function_id_check.php:	//$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./backup/restricted/includes/function_id_check.php:		$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./backup/restricted/showPrograms.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_program_networks WHERE pending_change='Yes' AND account_num!='0' AND program_id='$program_id' AND network_id='$network_id'";
+./backup/restricted/showPrograms.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/restricted/showPrograms.php:			<div id="result_account_<?php echo "$network_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/restricted/showPrograms.php:        <?php $account_num='';
+./backup/restricted/showPrograms.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_program_sites WHERE pending_change='Yes' AND account_num!='0' AND program_id='$program_id' AND site_id='$site_id'";
+./backup/restricted/showPrograms.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/restricted/showPrograms.php:			<div id="result_account_<?php echo "$site_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/restricted/showPrograms.php:        <?php $account_num='';
+./backup/restricted/showPrograms.php:					$query_programs = "SELECT * FROM p2erls_programs WHERE program_id='$program_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY program_id ASC";
+./backup/restricted/showPrograms.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showPrograms.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showApprovals.php:			//$query_account = "SELECT DISTINCT account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id'";
+./backup/restricted/showApprovals.php:			//$account_num= mysql_result($result_account,0,"account_num");		
+./backup/restricted/showApprovals.php:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey='$assc_id_db'";
+./backup/restricted/showApprovals.php:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc_2." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey_2='$assc_id_db_2'";
+./backup/restricted/showApprovals.php:						$account_num= mysql_result($result_assc_cat,0,"account_num");
+./backup/restricted/showApprovals.php:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/restricted/showApprovals.php:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./backup/restricted/showApprovals.php:			$account_num=$_GET["acct"];
+./backup/restricted/showApprovals.php:			$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";			
+./backup/restricted/showApprovals.php:			<p align="center" style="font-size:10px;"><b>Proposed By <a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$account_username"; ?></a></b></p>
+./backup/restricted/showApprovals.php:						if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./backup/restricted/showApprovals.php:						$account_num= mysql_result($result_main_cat,$i,"account_num");
+./backup/restricted/showApprovals.php:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/restricted/showApprovals.php:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./backup/restricted/showApprovals.php:					$account_num= mysql_result($results_to_search,$i,"account_num");
+./backup/restricted/showApprovals.php:					$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/restricted/showApprovals.php:					<?php if ($num_results_main_cat != 0) { ?><td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td><?php } ?>
+./backup/restricted/showApprovals.php:					<td><a href="javascript:requestInfo('showApprovals.php?mode=<?php echo "$mode_to_send"; ?>&acct=<?php echo "$account_num"; ?>&cat_id=<?php echo "$cat_id"; ?>&curr_id=<?php echo "$curr_id"; ?>&pkey=<?php echo "$pkey"; if ($cat_id_assc != '') { ?>&cat_id_assc=<?php echo "$cat_id_assc"; ?>&assc_pkey=<?php echo "$assc_pkey"; } if ($cat_id_assc_2 != '') { ?>&cat_id_assc_2=<?php echo "$cat_id_assc_2"; ?>&assc_pkey_2=<?php echo "$assc_pkey_2"; } if ($num_results_main_cat == 0) { ?>&main_cat_approvals=No<?php } ?>','showApprovals','')">Update</a></td>
+./backup/restricted/showGradients.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_gradient_region WHERE pending_change='Yes' AND account_num!='0' AND gradient_id='$gradient_id' AND region_id='$region_id'";
+./backup/restricted/showGradients.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/restricted/showGradients.php:			<div id="result_account_<?php echo "$region_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/restricted/showGradients.php:        <?php $account_num='';
+./backup/restricted/showGradients.php:				$query_gradients = "SELECT * FROM p2erls_gradients WHERE gradient_id='$gradient_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY gradient_id ASC";
+./backup/restricted/showGradients.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showGradients.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/Security_Dept/login_check.php:		$account_num	= mysql_result($result_login_check,0,"account_num");
+./backup/restricted/Security_Dept/login_check.php:		$query_login = "UPDATE `p2erls_accounts` SET last_login='$time_now' WHERE account_num='$account_num'";
+./backup/restricted/Security_Dept/login_check.php:		$_SESSION["p2erls_account_num"] 	= $account_num;
+./backup/restricted/Security_Dept/login_check.php:		echo "<b><span style='color:#FF0000;'>account_num : $account_num</span></b>";
+./backup/restricted/Security_Dept/redirect.php:	$account_num	= mysql_result($result_login_check,0,"account_num");
+./backup/restricted/Security_Dept/redirect.php:	$query_login = "UPDATE `p2erls_accounts` SET last_login = '$time_now' WHERE account_num = '$account_num'";
+./backup/restricted/Security_Dept/redirect.php:	$_SESSION["p2erls_account_num"] 	= $account_num;
+./backup/restricted/showAccounts.php:					$account_num=$_GET["account_num"]; 
+./backup/restricted/showAccounts.php:					$sql="SELECT * FROM p2erls_accounts where account_num='$account_num' ORDER BY account_num ASC";
+./backup/restricted/showAccounts.php:						$account_num		=$row["account_num"]; 
+./backup/restricted/showAccounts.php:          Account <?php echo"$account_num";?> <br />
+./backup/restricted/showAccounts.php:          <td width="153"><input type="hidden" value="<?php echo"$account_num";?>" name="account_num" id="account_num" ecosystem_id="account_num">
+./backup/restricted/showAccounts.php:          <td width="281"><?php echo"$account_num";?></td>
+./backup/restricted/showAccounts.php:          <td colspan="2"><a href="javascript:requestInfo('showAccounts.php?mode=list&account_num=<?php echo"$account_num";?>','showAccounts','')">Cancel</a> ||
+./backup/restricted/showAccounts.php:            <a href="javascript:update_data('<?php echo"$account_num";?>');">Save</a>
+./backup/restricted/showAccounts.php:    <td colspan=20 bgcolor="#FFFFFF"><a href="javascript:requestInfo('showAccounts.php?mode=new&account_num=<?php echo"$account_num";?>','showAccounts','')">Add New Data</a> || <a href="javascript:requestInfo('showAccounts.php?mode=list','showAccounts','')">Refresh</a></td>
+./backup/restricted/showAccounts.php:			$var_account_num=$_GET["account_num"];
+./backup/restricted/showAccounts.php:			$sqlDelete="DELETE FROM p2erls_accounts where account_num='$var_account_num'";
+./backup/restricted/showAccounts.php:				$account_num		=$_GET["account_num"]; 
+./backup/restricted/showAccounts.php:				'$account_num', 
+./backup/restricted/showAccounts.php:				$account_num		=$_GET["account_num"]; 
+./backup/restricted/showAccounts.php:			where account_num='$account_num'";
+./backup/restricted/showAccounts.php:			$sql="SELECT * FROM p2erls_accounts ORDER BY account_num ASC";
+./backup/restricted/showAccounts.php:				$account_num	=$row["account_num"]; 
+./backup/restricted/showAccounts.php:				$account_num2=$_GET["account_num"];
+./backup/restricted/showAccounts.php:			if($account_num2!=$account_num) { ?>
+./backup/restricted/showAccounts.php:          <td><a href="javascript:requestInfo('showAccounts.php?mode=update&account_num=<?php echo"$account_num";?>','showAccounts','')">Update</a> </td>
+./backup/restricted/showAccounts.php:          <td><?php if($_SESSION[p2erls_access_level] == "1"){?><a href="javascript:requestInfo('showAccounts.php?mode=delete&account_num=<?php echo"$account_num";?>','showAccounts','');" onclick="return confirmLink(this, 'username', '<?php echo"$account_num";?>');">Delete</a><?php } ?></td>
+./backup/restricted/showSites.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_site_landowner WHERE pending_change='Yes' AND account_num!='0' AND site_id='$site_id' AND landowner_id='$landowner_id'";
+./backup/restricted/showSites.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/restricted/showSites.php:			<div id="result_account_<?php echo "$landowner_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/restricted/showSites.php:        <?php $account_num='';
+./backup/restricted/showSites.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_site_gradient WHERE pending_change='Yes' AND account_num!='0' AND site_id='$site_id' AND gradient_id='$gradient_id'";
+./backup/restricted/showSites.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/restricted/showSites.php:			<div id="result_account_<?php echo "$gradient_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/restricted/showSites.php:        <?php $account_num='';
+./backup/restricted/showSites.php:				$query_sites = "SELECT * FROM p2erls_sites WHERE site_id='$site_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY site_id ASC";
+./backup/restricted/showSites.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showSites.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/assc_site_landowner.php:		'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/assc_site_landowner.php:		'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showStates.php:					$query_states = "SELECT state_name FROM p2erls_states WHERE state_id='$state_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY state_id ASC";
+./backup/restricted/showStates.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showStates.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showNetworks.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_network_sites WHERE pending_change='Yes' AND account_num!='0' AND network_id='$network_id' AND site_id='$site_id'";
+./backup/restricted/showNetworks.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./backup/restricted/showNetworks.php:			<div id="result_account_<?php echo "$site_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./backup/restricted/showNetworks.php:        <?php $account_num='';
+./backup/restricted/showNetworks.php:					$query_networks = "SELECT * FROM p2erls_networks WHERE network_id='$network_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY network_id ASC";
+./backup/restricted/showNetworks.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showNetworks.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/test/approve_assc_examples.php:    <th>account_num</th>
+./backup/restricted/showEcosystems.php:				$query_ecosystems = "SELECT * FROM p2erls_ecosystems WHERE ecosystem_id='$ecosystem_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY ecosystem_id ASC";
+./backup/restricted/showEcosystems.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showEcosystems.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showApprovals.old:			//$query_account = "SELECT DISTINCT account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id'";
+./backup/restricted/showApprovals.old:			//$account_num= mysql_result($result_account,0,"account_num");		
+./backup/restricted/showApprovals.old:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey='$assc_id_db'";
+./backup/restricted/showApprovals.old:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc_2." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey_2='$assc_id_db_2'";
+./backup/restricted/showApprovals.old:						$account_num= mysql_result($result_assc_cat,0,"account_num");
+./backup/restricted/showApprovals.old:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/restricted/showApprovals.old:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./backup/restricted/showApprovals.old:			$account_num=$_GET["acct"];
+./backup/restricted/showApprovals.old:			$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";			
+./backup/restricted/showApprovals.old:			<p align="center" style="font-size:10px;"><b>Proposed By <a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$account_username"; ?></a></b></p>
+./backup/restricted/showApprovals.old:						if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./backup/restricted/showApprovals.old:						$account_num= mysql_result($result_main_cat,$i,"account_num");
+./backup/restricted/showApprovals.old:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/restricted/showApprovals.old:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./backup/restricted/showApprovals.old:					$account_num= mysql_result($results_to_search,$i,"account_num");
+./backup/restricted/showApprovals.old:					$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./backup/restricted/showApprovals.old:					<?php if ($num_results_main_cat != 0) { ?><td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td><?php } ?>
+./backup/restricted/showApprovals.old:					<td><a href="javascript:requestInfo('showApprovals.php?mode=<?php echo "$mode_to_send"; ?>&acct=<?php echo "$account_num"; ?>&cat_id=<?php echo "$cat_id"; ?>&curr_id=<?php echo "$curr_id"; ?>&pkey=<?php echo "$pkey"; if ($cat_id_assc != '') { ?>&cat_id_assc=<?php echo "$cat_id_assc"; ?>&assc_pkey=<?php echo "$assc_pkey"; } if ($cat_id_assc_2 != '') { ?>&cat_id_assc_2=<?php echo "$cat_id_assc_2"; ?>&assc_pkey_2=<?php echo "$assc_pkey_2"; } if ($num_results_main_cat == 0) { ?>&main_cat_approvals=No<?php } ?>','showApprovals','')">Update</a></td>
+./backup/restricted/showLandowner_bounds.php:					$query_landowner_bounds = "SELECT * FROM p2erls_landowner_bounds WHERE lb_id='$lb_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY lb_id ASC";
+./backup/restricted/showLandowner_bounds.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showLandowner_bounds.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showLandowner.php:				$query_landowners = "SELECT * FROM p2erls_landowners WHERE landowner_id='$landowner_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY landowner_id ASC";
+./backup/restricted/showLandowner.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showLandowner.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showCountries.php:					$query_countries = "SELECT country_name FROM p2erls_countries WHERE country_id='$country_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY country_id ASC";
+./backup/restricted/showCountries.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/restricted/showCountries.php:				'".$_SESSION["p2erls_account_num"]."',
+./backup/browse_sites.php:						<input type="button" name="Button" value="Save Current Search" onclick="saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" /></td>
+./backup/process_my_account.php:$account_num = $_SESSION[p2erls_account_num];
+./backup/process_my_account.php:			where account_num='".$account_num."'
+./backup/saved_searches.php:$account_num=$_SESSION["p2erls_account_num"];
+./backup/saved_searches.php:if($account_num==''){ echo"You Must Be Logged In To View Your Saved Searches."; }
+./backup/saved_searches.php:$query_saved_searches = "SELECT * FROM p2erls_saved_searches where account_num = '$account_num' ORDER BY saved_search_num ASC";
+./backup/saved_searches.php:	$account_num= mysql_result($result_saved_searches,$kk_saved_searches,"account_num");
+./backup/saved_searches.php:    <td><a href="javascript:loadSearch('<?php echo"$select_multiple_programs";?>','<?php echo"$select_multiple_networks";?>','<?php echo"$select_multiple_gradients";?>','<?php echo"$select_multiple_regions";?>','<?php echo"$select_multiple_ecosystems";?>','<?php echo"$site_elevlow_min";?>','<?php echo"$site_elevlow_max";?>','<?php echo"$site_elevhigh_min";?>','<?php echo"$site_elevhigh_max";?>','<?php echo"$site_temp_min";?>','<?php echo"$site_temp_max";?>','<?php echo"$site_precip_min";?>','<?php echo"$site_precip_max";?>')" class="white"><?php echo"$search_name";?></a> - <a href="javascript:removeSearch('<?php echo"$saved_search_num";?>','<?php echo"$search_name";?>','<?php echo"$account_num";?>')" class="white">Remove</a></td>
+./process_create_account.php:$account_num			=$_POST["account_num"];
+./includes/map_functions2.js.20080531:function saveSearch(account_num)
+./includes/map_functions2.js.20080531:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./includes/map_functions2.js.20080531:	url=url+"&account_num="+account_num 
+./includes/map_functions2.js.20080531:		//showSavedSearches(account_num);
+./includes/map_functions2.js.20080531:function showSavedSearches(account_num)
+./includes/map_functions2.js.20080531:	url=url+"&account_num="+account_num 
+./includes/map_functions2.js.20080531:function removeSearch(saved_search_num,search_name,account_num)
+./includes/map_functions2.js.20080531:		showSavedSearches(account_num);
+./includes/map_functions2.js:function saveSearch(account_num)
+./includes/map_functions2.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./includes/map_functions2.js:	url=url+"&account_num="+account_num 
+./includes/map_functions2.js:		//showSavedSearches(account_num);
+./includes/map_functions2.js:function showSavedSearches(account_num)
+./includes/map_functions2.js:	url=url+"&account_num="+account_num 
+./includes/map_functions2.js:function removeSearch(saved_search_num,search_name,account_num)
+./includes/map_functions2.js:		showSavedSearches(account_num);
+./includes/map_functions.js:function saveSearch(account_num)
+./includes/map_functions.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./includes/map_functions.js:	url=url+"&account_num="+account_num 
+./includes/map_functions.js:		//showSavedSearches(account_num);
+./includes/map_functions.js:function showSavedSearches(account_num)
+./includes/map_functions.js:	url=url+"&account_num="+account_num 
+./includes/map_functions.js:function removeSearch(saved_search_num,search_name,account_num)
+./includes/map_functions.js:		showSavedSearches(account_num);
+./includes/map_functions2_sai.js:function saveSearch(account_num)
+./includes/map_functions2_sai.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./includes/map_functions2_sai.js:	url=url+"&account_num="+account_num 
+./includes/map_functions2_sai.js:		//showSavedSearches(account_num);
+./includes/map_functions2_sai.js:function showSavedSearches(account_num)
+./includes/map_functions2_sai.js:	url=url+"&account_num="+account_num 
+./includes/map_functions2_sai.js:function removeSearch(saved_search_num,search_name,account_num)
+./includes/map_functions2_sai.js:		showSavedSearches(account_num);
+./includes/showSavedSearches.php:$account_num=$_GET["account_num"];
+./includes/showSavedSearches.php:if($account_num==''){ echo"You Must Be Logged In To View Your Saved Searches."; }
+./includes/showSavedSearches.php:$query_saved_searches = "SELECT * FROM p2erls_saved_searches where account_num = '$account_num' ORDER BY saved_search_num ASC";
+./includes/showSavedSearches.php:	$account_num= mysql_result($result_saved_searches,$kk_saved_searches,"account_num");
+./includes/showSavedSearches.php:    <td><a href="javascript:loadSearch('<?php echo"$select_multiple_programs";?>','<?php echo"$select_multiple_networks";?>','<?php echo"$select_multiple_gradients";?>','<?php echo"$select_multiple_regions";?>','<?php echo"$select_multiple_ecosystems";?>','<?php echo"$site_elevlow_min";?>','<?php echo"$site_elevlow_max";?>','<?php echo"$site_elevhigh_min";?>','<?php echo"$site_elevhigh_max";?>','<?php echo"$site_temp_min";?>','<?php echo"$site_temp_max";?>','<?php echo"$site_precip_min";?>','<?php echo"$site_precip_max";?>')" class="white"><?php echo"$search_name";?></a> - <a href="javascript:removeSearch('<?php echo"$saved_search_num";?>','<?php echo"$search_name";?>','<?php echo"$account_num";?>')" class="white">Remove</a></td>
+./includes/saveSearch.php:$account_num=$_GET["account_num"];
+./includes/saveSearch.php:			'".$account_num."', 
+./index_old.php:                    <td colspan="2"><a href="javascript:mapReset();" class="white_small">Reset Map</a> - <a href="javascript:saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" class="white_small" >Save Current Search</a></td>
+./my_account.php:$account_num = $_SESSION[p2erls_account_num];
+./my_account.php:$query = "SELECT * FROM p2erls_accounts WHERE account_num = '$account_num' ";
+./my_account.php:	$account_num= mysql_result($result,$i,"account_num");
+./my_account.php:				  <input type="hidden" value="<?php echo"$account_num";?>" name="account_num" id="account_num" ecosystem_id="account_num" />
+./web/process_activate_account.php:		$account_num= mysql_result($result,$i,"account_num"); 
+./web/process_activate_account.php:		$query3="UPDATE p2erls_accounts SET active_user='".$active_user."' WHERE account_num='".$account_num."'";
+./web/process_create_account.php:$account_num			=$_POST["account_num"];
+./web/includes/map_functions2.js.20080531:function saveSearch(account_num)
+./web/includes/map_functions2.js.20080531:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./web/includes/map_functions2.js.20080531:	url=url+"&account_num="+account_num 
+./web/includes/map_functions2.js.20080531:		//showSavedSearches(account_num);
+./web/includes/map_functions2.js.20080531:function showSavedSearches(account_num)
+./web/includes/map_functions2.js.20080531:	url=url+"&account_num="+account_num 
+./web/includes/map_functions2.js.20080531:function removeSearch(saved_search_num,search_name,account_num)
+./web/includes/map_functions2.js.20080531:		showSavedSearches(account_num);
+./web/includes/map_functions2.js:function saveSearch(account_num)
+./web/includes/map_functions2.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./web/includes/map_functions2.js:	url=url+"&account_num="+account_num 
+./web/includes/map_functions2.js:		//showSavedSearches(account_num);
+./web/includes/map_functions2.js:function showSavedSearches(account_num)
+./web/includes/map_functions2.js:	url=url+"&account_num="+account_num 
+./web/includes/map_functions2.js:function removeSearch(saved_search_num,search_name,account_num)
+./web/includes/map_functions2.js:		showSavedSearches(account_num);
+./web/includes/map_functions.js:function saveSearch(account_num)
+./web/includes/map_functions.js:	if(account_num==''){ alert("You must be logged in to save your search"); return; }
+./web/includes/map_functions.js:	url=url+"&account_num="+account_num 
+./web/includes/map_functions.js:		//showSavedSearches(account_num);
+./web/includes/map_functions.js:function showSavedSearches(account_num)
+./web/includes/map_functions.js:	url=url+"&account_num="+account_num 
+./web/includes/map_functions.js:function removeSearch(saved_search_num,search_name,account_num)
+./web/includes/map_functions.js:		showSavedSearches(account_num);
+./web/includes/showSavedSearches.php:$account_num=$_GET["account_num"];
+./web/includes/showSavedSearches.php:if($account_num==''){ echo"You Must Be Logged In To View Your Saved Searches."; }
+./web/includes/showSavedSearches.php:$query_saved_searches = "SELECT * FROM p2erls_saved_searches where account_num = '$account_num' ORDER BY saved_search_num ASC";
+./web/includes/showSavedSearches.php:	$account_num= mysql_result($result_saved_searches,$kk_saved_searches,"account_num");
+./web/includes/showSavedSearches.php:    <td><a href="javascript:loadSearch('<?php echo"$select_multiple_programs";?>','<?php echo"$select_multiple_networks";?>','<?php echo"$select_multiple_gradients";?>','<?php echo"$select_multiple_regions";?>','<?php echo"$select_multiple_ecosystems";?>','<?php echo"$site_elevlow_min";?>','<?php echo"$site_elevlow_max";?>','<?php echo"$site_elevhigh_min";?>','<?php echo"$site_elevhigh_max";?>','<?php echo"$site_temp_min";?>','<?php echo"$site_temp_max";?>','<?php echo"$site_precip_min";?>','<?php echo"$site_precip_max";?>')" class="white"><?php echo"$search_name";?></a> - <a href="javascript:removeSearch('<?php echo"$saved_search_num";?>','<?php echo"$search_name";?>','<?php echo"$account_num";?>')" class="white">Remove</a></td>
+./web/includes/saveSearch.php:$account_num=$_GET["account_num"];
+./web/includes/saveSearch.php:			'".$account_num."', 
+./web/index_old.php:                    <td colspan="2"><a href="javascript:mapReset();" class="white_small">Reset Map</a> - <a href="javascript:saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" class="white_small" >Save Current Search</a></td>
+./web/my_account.php:$account_num = $_SESSION[p2erls_account_num];
+./web/my_account.php:$query = "SELECT * FROM p2erls_accounts WHERE account_num = '$account_num' ";
+./web/my_account.php:	$account_num= mysql_result($result,$i,"account_num");
+./web/my_account.php:				  <input type="hidden" value="<?php echo"$account_num";?>" name="account_num" id="account_num" ecosystem_id="account_num" />
+./web/activate.php:			$account_num= mysql_result($result,$i,"account_num");		
+./web/activate.php:		$query3 = "UPDATE `p2erls_accounts` SET active_user = 'Yes' WHERE  account_num = '$account_num' ";
+./web/activate.php:$query_login = "UPDATE `p2erls_accounts` SET member_since = '$member_since' WHERE account_num = '$account_num' ";
+./web/restricted/accounts.php:<body onLoad="init_table('<?php echo $_GET["mode"]; ?>','<?php echo $_GET["account_num"]; ?>');">
+./web/restricted/showContinents.php:					$query_continents = "SELECT co_name FROM p2erls_continents_oceans WHERE co_id='$co_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY co_id ASC";
+./web/restricted/showContinents.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showContinents.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showLinks.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showLinks.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showRegions.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_region_co WHERE pending_change='Yes' AND account_num!='0' AND region_id='$region_id' AND co_id='$co_id'";
+./web/restricted/showRegions.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./web/restricted/showRegions.php:			<div id="result_account_<?php echo "$co_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./web/restricted/showRegions.php:        <?php $account_num='';
+./web/restricted/showRegions.php:					$query_regions = "SELECT * FROM p2erls_regions WHERE region_id='$region_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY region_id ASC";
+./web/restricted/showRegions.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showRegions.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/includes/update_approvals.old:		if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./web/restricted/includes/update_assc.php:$curr_session_acct=$_SESSION["p2erls_account_num"];
+./web/restricted/includes/update_assc.php:$account_num=$_GET["account_num"];
+./web/restricted/includes/update_assc.php:if ($account_num == '') { $account_num = 0; }
+./web/restricted/includes/update_assc.php://echo "account_num = $account_num<br>";
+./web/restricted/includes/update_assc.php:		if ($curr_session_acct != $account_num && $account_num == 0)
+./web/restricted/includes/update_assc.php:			$query_delete_removal_request="DELETE FROM $table_name WHERE delete_assc='Yes' AND pending_change='Yes' AND account_num='".$account_num."' AND $pkey='".$pkey_value."' AND $assc_pkey='".$assc_pkey_value."'";
+./web/restricted/includes/update_assc.php:		if ($curr_session_acct != $account_num && $account_num == 0)
+./web/restricted/includes/update_assc.php:			$query_delete_approval_request="DELETE FROM $table_name WHERE delete_assc='No' AND pending_change='Yes' AND account_num='".$account_num."' AND $pkey='".$pkey_value."' AND $assc_pkey='".$assc_pkey_value."'";
+./web/restricted/includes/ajax_common.js:	var account_num = document.getElementById('result_account_'+assc_pkey_value).innerHTML;
+./web/restricted/includes/ajax_common.js:	url=url+"?account_num="+account_num;
+./web/restricted/includes/assc_site_landowner.js:	var account_num = document.getElementById('result_account_'+assc_pkey_value).innerHTML;
+./web/restricted/includes/assc_site_landowner.js:	url=url+"?account_num="+account_num;
+./web/restricted/includes/function_pending_check.php:	$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./web/restricted/includes/admin_styles.css:	border:1px solaccount_num #cccccc;
+./web/restricted/includes/admin_styles.css:	border:1px solaccount_num #cccccc;
+./web/restricted/includes/ajax_accounts.js:	Param = url >> Url to call : account_num = Passing div account_num for multiple use ~ as a seprator for eg. div1~div2 :
+./web/restricted/includes/ajax_accounts.js:	Desc = This function is used to valaccount_numation for the empty field 
+./web/restricted/includes/ajax_accounts.js:function init_table(mode,account_num)
+./web/restricted/includes/ajax_accounts.js:		requestInfo('showAccounts.php?mode='+mode+'&account_num='+account_num,'showAccounts','');
+./web/restricted/includes/ajax_accounts.js:function update_data(account_num_update) 
+./web/restricted/includes/ajax_accounts.js:		url2=url2+"&account_num="+account_num_update;
+./web/restricted/includes/update_approvals.php:		if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./web/restricted/includes/function_id_check.php:	//$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./web/restricted/includes/function_id_check.php:		$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./web/restricted/showPrograms.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_program_networks WHERE pending_change='Yes' AND account_num!='0' AND program_id='$program_id' AND network_id='$network_id'";
+./web/restricted/showPrograms.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./web/restricted/showPrograms.php:			<div id="result_account_<?php echo "$network_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./web/restricted/showPrograms.php:        <?php $account_num='';
+./web/restricted/showPrograms.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_program_sites WHERE pending_change='Yes' AND account_num!='0' AND program_id='$program_id' AND site_id='$site_id'";
+./web/restricted/showPrograms.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./web/restricted/showPrograms.php:			<div id="result_account_<?php echo "$site_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./web/restricted/showPrograms.php:        <?php $account_num='';
+./web/restricted/showPrograms.php:					$query_programs = "SELECT * FROM p2erls_programs WHERE program_id='$program_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY program_id ASC";
+./web/restricted/showPrograms.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showPrograms.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showApprovals.php:			//$query_account = "SELECT DISTINCT account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id'";
+./web/restricted/showApprovals.php:			//$account_num= mysql_result($result_account,0,"account_num");		
+./web/restricted/showApprovals.php:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey='$assc_id_db'";
+./web/restricted/showApprovals.php:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc_2." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey_2='$assc_id_db_2'";
+./web/restricted/showApprovals.php:						$account_num= mysql_result($result_assc_cat,0,"account_num");
+./web/restricted/showApprovals.php:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./web/restricted/showApprovals.php:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./web/restricted/showApprovals.php:			$account_num=$_GET["acct"];
+./web/restricted/showApprovals.php:			$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";			
+./web/restricted/showApprovals.php:			<p align="center" style="font-size:10px;"><b>Proposed By <a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$account_username"; ?></a></b></p>
+./web/restricted/showApprovals.php:						if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./web/restricted/showApprovals.php:						$account_num= mysql_result($result_main_cat,$i,"account_num");
+./web/restricted/showApprovals.php:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./web/restricted/showApprovals.php:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./web/restricted/showApprovals.php:					$account_num= mysql_result($results_to_search,$i,"account_num");
+./web/restricted/showApprovals.php:					$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./web/restricted/showApprovals.php:					<?php if ($num_results_main_cat != 0) { ?><td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td><?php } ?>
+./web/restricted/showApprovals.php:					<td><a href="javascript:requestInfo('showApprovals.php?mode=<?php echo "$mode_to_send"; ?>&acct=<?php echo "$account_num"; ?>&cat_id=<?php echo "$cat_id"; ?>&curr_id=<?php echo "$curr_id"; ?>&pkey=<?php echo "$pkey"; if ($cat_id_assc != '') { ?>&cat_id_assc=<?php echo "$cat_id_assc"; ?>&assc_pkey=<?php echo "$assc_pkey"; } if ($cat_id_assc_2 != '') { ?>&cat_id_assc_2=<?php echo "$cat_id_assc_2"; ?>&assc_pkey_2=<?php echo "$assc_pkey_2"; } if ($num_results_main_cat == 0) { ?>&main_cat_approvals=No<?php } ?>','showApprovals','')">Update</a></td>
+./web/restricted/showGradients.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_gradient_region WHERE pending_change='Yes' AND account_num!='0' AND gradient_id='$gradient_id' AND region_id='$region_id'";
+./web/restricted/showGradients.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./web/restricted/showGradients.php:			<div id="result_account_<?php echo "$region_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./web/restricted/showGradients.php:        <?php $account_num='';
+./web/restricted/showGradients.php:				$query_gradients = "SELECT * FROM p2erls_gradients WHERE gradient_id='$gradient_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY gradient_id ASC";
+./web/restricted/showGradients.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showGradients.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/Security_Dept/login_check.php:		$account_num	= mysql_result($result_login_check,0,"account_num");
+./web/restricted/Security_Dept/login_check.php:		$query_login = "UPDATE `p2erls_accounts` SET last_login='$time_now' WHERE account_num='$account_num'";
+./web/restricted/Security_Dept/login_check.php:		$_SESSION["p2erls_account_num"] 	= $account_num;
+./web/restricted/Security_Dept/login_check.php:		echo "<b><span style='color:#FF0000;'>account_num : $account_num</span></b>";
+./web/restricted/Security_Dept/redirect.php:	$account_num	= mysql_result($result_login_check,0,"account_num");
+./web/restricted/Security_Dept/redirect.php:	$query_login = "UPDATE `p2erls_accounts` SET last_login = '$time_now' WHERE account_num = '$account_num'";
+./web/restricted/Security_Dept/redirect.php:	$_SESSION["p2erls_account_num"] 	= $account_num;
+./web/restricted/showAccounts.php:					$account_num=$_GET["account_num"]; 
+./web/restricted/showAccounts.php:					$sql="SELECT * FROM p2erls_accounts where account_num='$account_num' ORDER BY account_num ASC";
+./web/restricted/showAccounts.php:						$account_num		=$row["account_num"]; 
+./web/restricted/showAccounts.php:          Account <?php echo"$account_num";?> <br />
+./web/restricted/showAccounts.php:          <td width="153"><input type="hidden" value="<?php echo"$account_num";?>" name="account_num" id="account_num" ecosystem_id="account_num">
+./web/restricted/showAccounts.php:          <td width="281"><?php echo"$account_num";?></td>
+./web/restricted/showAccounts.php:          <td colspan="2"><a href="javascript:requestInfo('showAccounts.php?mode=list&account_num=<?php echo"$account_num";?>','showAccounts','')">Cancel</a> ||
+./web/restricted/showAccounts.php:            <a href="javascript:update_data('<?php echo"$account_num";?>');">Save</a>
+./web/restricted/showAccounts.php:    <td colspan=20 bgcolor="#FFFFFF"><a href="javascript:requestInfo('showAccounts.php?mode=new&account_num=<?php echo"$account_num";?>','showAccounts','')">Add New Data</a> || <a href="javascript:requestInfo('showAccounts.php?mode=list','showAccounts','')">Refresh</a></td>
+./web/restricted/showAccounts.php:			$var_account_num=$_GET["account_num"];
+./web/restricted/showAccounts.php:			$sqlDelete="DELETE FROM p2erls_accounts where account_num='$var_account_num'";
+./web/restricted/showAccounts.php:				$account_num		=$_GET["account_num"]; 
+./web/restricted/showAccounts.php:				'$account_num', 
+./web/restricted/showAccounts.php:				$account_num		=$_GET["account_num"]; 
+./web/restricted/showAccounts.php:			where account_num='$account_num'";
+./web/restricted/showAccounts.php:			$sql="SELECT * FROM p2erls_accounts ORDER BY account_num ASC";
+./web/restricted/showAccounts.php:				$account_num	=$row["account_num"]; 
+./web/restricted/showAccounts.php:				$account_num2=$_GET["account_num"];
+./web/restricted/showAccounts.php:			if($account_num2!=$account_num) { ?>
+./web/restricted/showAccounts.php:          <td><a href="javascript:requestInfo('showAccounts.php?mode=update&account_num=<?php echo"$account_num";?>','showAccounts','')">Update</a> </td>
+./web/restricted/showAccounts.php:          <td><?php if($_SESSION[p2erls_access_level] == "1"){?><a href="javascript:requestInfo('showAccounts.php?mode=delete&account_num=<?php echo"$account_num";?>','showAccounts','');" onclick="return confirmLink(this, 'username', '<?php echo"$account_num";?>');">Delete</a><?php } ?></td>
+./web/restricted/showSites.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_site_landowner WHERE pending_change='Yes' AND account_num!='0' AND site_id='$site_id' AND landowner_id='$landowner_id'";
+./web/restricted/showSites.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./web/restricted/showSites.php:			<div id="result_account_<?php echo "$landowner_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./web/restricted/showSites.php:        <?php $account_num='';
+./web/restricted/showSites.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_site_gradient WHERE pending_change='Yes' AND account_num!='0' AND site_id='$site_id' AND gradient_id='$gradient_id'";
+./web/restricted/showSites.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./web/restricted/showSites.php:			<div id="result_account_<?php echo "$gradient_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./web/restricted/showSites.php:        <?php $account_num='';
+./web/restricted/showSites.php:				$query_sites = "SELECT * FROM p2erls_sites WHERE site_id='$site_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY site_id ASC";
+./web/restricted/showSites.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showSites.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/assc_site_landowner.php:		'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/assc_site_landowner.php:		'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showStates.php:					$query_states = "SELECT state_name FROM p2erls_states WHERE state_id='$state_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY state_id ASC";
+./web/restricted/showStates.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showStates.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showNetworks.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_network_sites WHERE pending_change='Yes' AND account_num!='0' AND network_id='$network_id' AND site_id='$site_id'";
+./web/restricted/showNetworks.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./web/restricted/showNetworks.php:			<div id="result_account_<?php echo "$site_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./web/restricted/showNetworks.php:        <?php $account_num='';
+./web/restricted/showNetworks.php:					$query_networks = "SELECT * FROM p2erls_networks WHERE network_id='$network_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY network_id ASC";
+./web/restricted/showNetworks.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showNetworks.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/test/approve_assc_examples.php:    <th>account_num</th>
+./web/restricted/showEcosystems.php:				$query_ecosystems = "SELECT * FROM p2erls_ecosystems WHERE ecosystem_id='$ecosystem_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY ecosystem_id ASC";
+./web/restricted/showEcosystems.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showEcosystems.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showApprovals.old:			//$query_account = "SELECT DISTINCT account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id'";
+./web/restricted/showApprovals.old:			//$account_num= mysql_result($result_account,0,"account_num");		
+./web/restricted/showApprovals.old:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey='$assc_id_db'";
+./web/restricted/showApprovals.old:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc_2." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey_2='$assc_id_db_2'";
+./web/restricted/showApprovals.old:						$account_num= mysql_result($result_assc_cat,0,"account_num");
+./web/restricted/showApprovals.old:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./web/restricted/showApprovals.old:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./web/restricted/showApprovals.old:			$account_num=$_GET["acct"];
+./web/restricted/showApprovals.old:			$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";			
+./web/restricted/showApprovals.old:			<p align="center" style="font-size:10px;"><b>Proposed By <a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$account_username"; ?></a></b></p>
+./web/restricted/showApprovals.old:						if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./web/restricted/showApprovals.old:						$account_num= mysql_result($result_main_cat,$i,"account_num");
+./web/restricted/showApprovals.old:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./web/restricted/showApprovals.old:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./web/restricted/showApprovals.old:					$account_num= mysql_result($results_to_search,$i,"account_num");
+./web/restricted/showApprovals.old:					$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./web/restricted/showApprovals.old:					<?php if ($num_results_main_cat != 0) { ?><td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td><?php } ?>
+./web/restricted/showApprovals.old:					<td><a href="javascript:requestInfo('showApprovals.php?mode=<?php echo "$mode_to_send"; ?>&acct=<?php echo "$account_num"; ?>&cat_id=<?php echo "$cat_id"; ?>&curr_id=<?php echo "$curr_id"; ?>&pkey=<?php echo "$pkey"; if ($cat_id_assc != '') { ?>&cat_id_assc=<?php echo "$cat_id_assc"; ?>&assc_pkey=<?php echo "$assc_pkey"; } if ($cat_id_assc_2 != '') { ?>&cat_id_assc_2=<?php echo "$cat_id_assc_2"; ?>&assc_pkey_2=<?php echo "$assc_pkey_2"; } if ($num_results_main_cat == 0) { ?>&main_cat_approvals=No<?php } ?>','showApprovals','')">Update</a></td>
+./web/restricted/showLandowner_bounds.php:					$query_landowner_bounds = "SELECT * FROM p2erls_landowner_bounds WHERE lb_id='$lb_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY lb_id ASC";
+./web/restricted/showLandowner_bounds.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showLandowner_bounds.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showLandowner.php:				$query_landowners = "SELECT * FROM p2erls_landowners WHERE landowner_id='$landowner_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY landowner_id ASC";
+./web/restricted/showLandowner.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showLandowner.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showCountries.php:					$query_countries = "SELECT country_name FROM p2erls_countries WHERE country_id='$country_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY country_id ASC";
+./web/restricted/showCountries.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/restricted/showCountries.php:				'".$_SESSION["p2erls_account_num"]."',
+./web/browse_sites_sai.php:						<input type="button" name="Button" value="Save Current Search" onclick="saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" /></td>
+./web/browse_sites.php:						<input type="button" name="Button" value="Save Current Search" onclick="saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" /></td>
+./web/process_my_account.php:$account_num = $_SESSION[p2erls_account_num];
+./web/process_my_account.php:			where account_num='".$account_num."'
+./web/saved_searches.php:$account_num=$_SESSION["p2erls_account_num"];
+./web/saved_searches.php:if($account_num==''){ echo"You Must Be Logged In To View Your Saved Searches."; }
+./web/saved_searches.php:$query_saved_searches = "SELECT * FROM p2erls_saved_searches where account_num = '$account_num' ORDER BY saved_search_num ASC";
+./web/saved_searches.php:	$account_num= mysql_result($result_saved_searches,$kk_saved_searches,"account_num");
+./web/saved_searches.php:    <td><a href="javascript:loadSearch('<?php echo"$select_multiple_programs";?>','<?php echo"$select_multiple_networks";?>','<?php echo"$select_multiple_gradients";?>','<?php echo"$select_multiple_regions";?>','<?php echo"$select_multiple_ecosystems";?>','<?php echo"$site_elevlow_min";?>','<?php echo"$site_elevlow_max";?>','<?php echo"$site_elevhigh_min";?>','<?php echo"$site_elevhigh_max";?>','<?php echo"$site_temp_min";?>','<?php echo"$site_temp_max";?>','<?php echo"$site_precip_min";?>','<?php echo"$site_precip_max";?>')" class="white"><?php echo"$search_name";?></a> - <a href="javascript:removeSearch('<?php echo"$saved_search_num";?>','<?php echo"$search_name";?>','<?php echo"$account_num";?>')" class="white">Remove</a></td>
+./activate.php:			$account_num= mysql_result($result,$i,"account_num");		
+./activate.php:		$query3 = "UPDATE `p2erls_accounts` SET active_user = 'Yes' WHERE  account_num = '$account_num' ";
+./activate.php:$query_login = "UPDATE `p2erls_accounts` SET member_since = '$member_since' WHERE account_num = '$account_num' ";
+./restricted/accounts.php:<body onLoad="init_table('<?php echo $_GET["mode"]; ?>','<?php echo $_GET["account_num"]; ?>');">
+./restricted/showContinents.php:					$query_continents = "SELECT co_name FROM p2erls_continents_oceans WHERE co_id='$co_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY co_id ASC";
+./restricted/showContinents.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showContinents.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showLinks.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showLinks.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showRegions.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_region_co WHERE pending_change='Yes' AND account_num!='0' AND region_id='$region_id' AND co_id='$co_id'";
+./restricted/showRegions.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./restricted/showRegions.php:			<div id="result_account_<?php echo "$co_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./restricted/showRegions.php:        <?php $account_num='';
+./restricted/showRegions.php:					$query_regions = "SELECT * FROM p2erls_regions WHERE region_id='$region_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY region_id ASC";
+./restricted/showRegions.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showRegions.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/includes/update_approvals.old:		if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./restricted/includes/update_assc.php:$curr_session_acct=$_SESSION["p2erls_account_num"];
+./restricted/includes/update_assc.php:$account_num=$_GET["account_num"];
+./restricted/includes/update_assc.php:if ($account_num == '') { $account_num = 0; }
+./restricted/includes/update_assc.php://echo "account_num = $account_num<br>";
+./restricted/includes/update_assc.php:		if ($curr_session_acct != $account_num && $account_num == 0)
+./restricted/includes/update_assc.php:			$query_delete_removal_request="DELETE FROM $table_name WHERE delete_assc='Yes' AND pending_change='Yes' AND account_num='".$account_num."' AND $pkey='".$pkey_value."' AND $assc_pkey='".$assc_pkey_value."'";
+./restricted/includes/update_assc.php:		if ($curr_session_acct != $account_num && $account_num == 0)
+./restricted/includes/update_assc.php:			$query_delete_approval_request="DELETE FROM $table_name WHERE delete_assc='No' AND pending_change='Yes' AND account_num='".$account_num."' AND $pkey='".$pkey_value."' AND $assc_pkey='".$assc_pkey_value."'";
+./restricted/includes/ajax_common.js:	var account_num = document.getElementById('result_account_'+assc_pkey_value).innerHTML;
+./restricted/includes/ajax_common.js:	url=url+"?account_num="+account_num;
+./restricted/includes/assc_site_landowner.js:	var account_num = document.getElementById('result_account_'+assc_pkey_value).innerHTML;
+./restricted/includes/assc_site_landowner.js:	url=url+"?account_num="+account_num;
+./restricted/includes/function_pending_check.php:	$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./restricted/includes/admin_styles.css:	border:1px solaccount_num #cccccc;
+./restricted/includes/admin_styles.css:	border:1px solaccount_num #cccccc;
+./restricted/includes/ajax_accounts.js:	Param = url >> Url to call : account_num = Passing div account_num for multiple use ~ as a seprator for eg. div1~div2 :
+./restricted/includes/ajax_accounts.js:	Desc = This function is used to valaccount_numation for the empty field 
+./restricted/includes/ajax_accounts.js:function init_table(mode,account_num)
+./restricted/includes/ajax_accounts.js:		requestInfo('showAccounts.php?mode='+mode+'&account_num='+account_num,'showAccounts','');
+./restricted/includes/ajax_accounts.js:function update_data(account_num_update) 
+./restricted/includes/ajax_accounts.js:		url2=url2+"&account_num="+account_num_update;
+./restricted/includes/update_approvals.php:		if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./restricted/includes/function_id_check.php:	//$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./restricted/includes/function_id_check.php:		$query_pending = "SELECT * FROM $table_name WHERE $pkey='$pkey_value' AND pending_change='Yes' AND account_num!='0'";
+./restricted/showPrograms.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_program_networks WHERE pending_change='Yes' AND account_num!='0' AND program_id='$program_id' AND network_id='$network_id'";
+./restricted/showPrograms.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./restricted/showPrograms.php:			<div id="result_account_<?php echo "$network_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./restricted/showPrograms.php:        <?php $account_num='';
+./restricted/showPrograms.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_program_sites WHERE pending_change='Yes' AND account_num!='0' AND program_id='$program_id' AND site_id='$site_id'";
+./restricted/showPrograms.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./restricted/showPrograms.php:			<div id="result_account_<?php echo "$site_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./restricted/showPrograms.php:        <?php $account_num='';
+./restricted/showPrograms.php:					$query_programs = "SELECT * FROM p2erls_programs WHERE program_id='$program_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY program_id ASC";
+./restricted/showPrograms.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showPrograms.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showApprovals.php:			//$query_account = "SELECT DISTINCT account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id'";
+./restricted/showApprovals.php:			//$account_num= mysql_result($result_account,0,"account_num");		
+./restricted/showApprovals.php:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey='$assc_id_db'";
+./restricted/showApprovals.php:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc_2." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey_2='$assc_id_db_2'";
+./restricted/showApprovals.php:						$account_num= mysql_result($result_assc_cat,0,"account_num");
+./restricted/showApprovals.php:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./restricted/showApprovals.php:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./restricted/showApprovals.php:			$account_num=$_GET["acct"];
+./restricted/showApprovals.php:			$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";			
+./restricted/showApprovals.php:			<p align="center" style="font-size:10px;"><b>Proposed By <a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$account_username"; ?></a></b></p>
+./restricted/showApprovals.php:						if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./restricted/showApprovals.php:						$account_num= mysql_result($result_main_cat,$i,"account_num");
+./restricted/showApprovals.php:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./restricted/showApprovals.php:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./restricted/showApprovals.php:					$account_num= mysql_result($results_to_search,$i,"account_num");
+./restricted/showApprovals.php:					$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./restricted/showApprovals.php:					<?php if ($num_results_main_cat != 0) { ?><td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td><?php } ?>
+./restricted/showApprovals.php:					<td><a href="javascript:requestInfo('showApprovals.php?mode=<?php echo "$mode_to_send"; ?>&acct=<?php echo "$account_num"; ?>&cat_id=<?php echo "$cat_id"; ?>&curr_id=<?php echo "$curr_id"; ?>&pkey=<?php echo "$pkey"; if ($cat_id_assc != '') { ?>&cat_id_assc=<?php echo "$cat_id_assc"; ?>&assc_pkey=<?php echo "$assc_pkey"; } if ($cat_id_assc_2 != '') { ?>&cat_id_assc_2=<?php echo "$cat_id_assc_2"; ?>&assc_pkey_2=<?php echo "$assc_pkey_2"; } if ($num_results_main_cat == 0) { ?>&main_cat_approvals=No<?php } ?>','showApprovals','')">Update</a></td>
+./restricted/showGradients.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_gradient_region WHERE pending_change='Yes' AND account_num!='0' AND gradient_id='$gradient_id' AND region_id='$region_id'";
+./restricted/showGradients.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./restricted/showGradients.php:			<div id="result_account_<?php echo "$region_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./restricted/showGradients.php:        <?php $account_num='';
+./restricted/showGradients.php:				$query_gradients = "SELECT * FROM p2erls_gradients WHERE gradient_id='$gradient_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY gradient_id ASC";
+./restricted/showGradients.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showGradients.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/Security_Dept/login_check.php:		$account_num	= mysql_result($result_login_check,0,"account_num");
+./restricted/Security_Dept/login_check.php:		$query_login = "UPDATE `p2erls_accounts` SET last_login='$time_now' WHERE account_num='$account_num'";
+./restricted/Security_Dept/login_check.php:		$_SESSION["p2erls_account_num"] 	= $account_num;
+./restricted/Security_Dept/login_check.php:		echo "<b><span style='color:#FF0000;'>account_num : $account_num</span></b>";
+./restricted/Security_Dept/redirect.php:	$account_num	= mysql_result($result_login_check,0,"account_num");
+./restricted/Security_Dept/redirect.php:	$query_login = "UPDATE `p2erls_accounts` SET last_login = '$time_now' WHERE account_num = '$account_num'";
+./restricted/Security_Dept/redirect.php:	$_SESSION["p2erls_account_num"] 	= $account_num;
+./restricted/showAccounts.php:					$account_num=$_GET["account_num"]; 
+./restricted/showAccounts.php:					$sql="SELECT * FROM p2erls_accounts where account_num='$account_num' ORDER BY account_num ASC";
+./restricted/showAccounts.php:						$account_num		=$row["account_num"]; 
+./restricted/showAccounts.php:          Account <?php echo"$account_num";?> <br />
+./restricted/showAccounts.php:          <td width="153"><input type="hidden" value="<?php echo"$account_num";?>" name="account_num" id="account_num" ecosystem_id="account_num">
+./restricted/showAccounts.php:          <td width="281"><?php echo"$account_num";?></td>
+./restricted/showAccounts.php:          <td colspan="2"><a href="javascript:requestInfo('showAccounts.php?mode=list&account_num=<?php echo"$account_num";?>','showAccounts','')">Cancel</a> ||
+./restricted/showAccounts.php:            <a href="javascript:update_data('<?php echo"$account_num";?>');">Save</a>
+./restricted/showAccounts.php:    <td colspan=20 bgcolor="#FFFFFF"><a href="javascript:requestInfo('showAccounts.php?mode=new&account_num=<?php echo"$account_num";?>','showAccounts','')">Add New Data</a> || <a href="javascript:requestInfo('showAccounts.php?mode=list','showAccounts','')">Refresh</a></td>
+./restricted/showAccounts.php:			$var_account_num=$_GET["account_num"];
+./restricted/showAccounts.php:			$sqlDelete="DELETE FROM p2erls_accounts where account_num='$var_account_num'";
+./restricted/showAccounts.php:				$account_num		=$_GET["account_num"]; 
+./restricted/showAccounts.php:				'$account_num', 
+./restricted/showAccounts.php:				$account_num		=$_GET["account_num"]; 
+./restricted/showAccounts.php:			where account_num='$account_num'";
+./restricted/showAccounts.php:			$sql="SELECT * FROM p2erls_accounts ORDER BY account_num ASC";
+./restricted/showAccounts.php:				$account_num	=$row["account_num"]; 
+./restricted/showAccounts.php:				$account_num2=$_GET["account_num"];
+./restricted/showAccounts.php:			if($account_num2!=$account_num) { ?>
+./restricted/showAccounts.php:          <td><a href="javascript:requestInfo('showAccounts.php?mode=update&account_num=<?php echo"$account_num";?>','showAccounts','')">Update</a> </td>
+./restricted/showAccounts.php:          <td><?php if($_SESSION[p2erls_access_level] == "1"){?><a href="javascript:requestInfo('showAccounts.php?mode=delete&account_num=<?php echo"$account_num";?>','showAccounts','');" onclick="return confirmLink(this, 'username', '<?php echo"$account_num";?>');">Delete</a><?php } ?></td>
+./restricted/showSites.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_site_landowner WHERE pending_change='Yes' AND account_num!='0' AND site_id='$site_id' AND landowner_id='$landowner_id'";
+./restricted/showSites.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./restricted/showSites.php:			<div id="result_account_<?php echo "$landowner_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./restricted/showSites.php:        <?php $account_num='';
+./restricted/showSites.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_site_gradient WHERE pending_change='Yes' AND account_num!='0' AND site_id='$site_id' AND gradient_id='$gradient_id'";
+./restricted/showSites.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./restricted/showSites.php:			<div id="result_account_<?php echo "$gradient_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./restricted/showSites.php:        <?php $account_num='';
+./restricted/showSites.php:				$query_sites = "SELECT * FROM p2erls_sites WHERE site_id='$site_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY site_id ASC";
+./restricted/showSites.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showSites.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/assc_site_landowner.php:		'".$_SESSION["p2erls_account_num"]."',
+./restricted/assc_site_landowner.php:		'".$_SESSION["p2erls_account_num"]."',
+./restricted/showStates.php:					$query_states = "SELECT state_name FROM p2erls_states WHERE state_id='$state_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY state_id ASC";
+./restricted/showStates.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showStates.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showNetworks.php:			$query_pending_check = "SELECT delete_assc, account_num FROM p2erls_network_sites WHERE pending_change='Yes' AND account_num!='0' AND network_id='$network_id' AND site_id='$site_id'";
+./restricted/showNetworks.php:				$account_num= mysql_result($result_pending_check,$l,"account_num");
+./restricted/showNetworks.php:			<div id="result_account_<?php echo "$site_id"; ?>" style="display:none;"><?php echo "$account_num"; ?></div>
+./restricted/showNetworks.php:        <?php $account_num='';
+./restricted/showNetworks.php:					$query_networks = "SELECT * FROM p2erls_networks WHERE network_id='$network_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY network_id ASC";
+./restricted/showNetworks.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showNetworks.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/test/approve_assc_examples.php:    <th>account_num</th>
+./restricted/showEcosystems.php:				$query_ecosystems = "SELECT * FROM p2erls_ecosystems WHERE ecosystem_id='$ecosystem_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY ecosystem_id ASC";
+./restricted/showEcosystems.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showEcosystems.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showApprovals.old:			//$query_account = "SELECT DISTINCT account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id'";
+./restricted/showApprovals.old:			//$account_num= mysql_result($result_account,0,"account_num");		
+./restricted/showApprovals.old:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey='$assc_id_db'";
+./restricted/showApprovals.old:						$query_assc_cat = "SELECT delete_assc, account_num FROM p2erls_".$cat_id_assc_2." WHERE pending_change='Yes' AND $pkey='$curr_id' AND $assc_pkey_2='$assc_id_db_2'";
+./restricted/showApprovals.old:						$account_num= mysql_result($result_assc_cat,0,"account_num");
+./restricted/showApprovals.old:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./restricted/showApprovals.old:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./restricted/showApprovals.old:			$account_num=$_GET["acct"];
+./restricted/showApprovals.old:			$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";			
+./restricted/showApprovals.old:			<p align="center" style="font-size:10px;"><b>Proposed By <a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$account_username"; ?></a></b></p>
+./restricted/showApprovals.old:						if ($db_field != 'pending_change' && $db_field != 'account_num' && $db_field != 'proposed_date' && $db_field != 'last_updated')
+./restricted/showApprovals.old:						$account_num= mysql_result($result_main_cat,$i,"account_num");
+./restricted/showApprovals.old:						$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./restricted/showApprovals.old:					<td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td>
+./restricted/showApprovals.old:					$account_num= mysql_result($results_to_search,$i,"account_num");
+./restricted/showApprovals.old:					$query_username = "SELECT username FROM p2erls_accounts WHERE account_num='$account_num'";
+./restricted/showApprovals.old:					<?php if ($num_results_main_cat != 0) { ?><td><a href="accounts.php?mode=update&account_num=<?php echo "$account_num"; ?>"><?php echo "$acct_username"; ?></a></td><?php } ?>
+./restricted/showApprovals.old:					<td><a href="javascript:requestInfo('showApprovals.php?mode=<?php echo "$mode_to_send"; ?>&acct=<?php echo "$account_num"; ?>&cat_id=<?php echo "$cat_id"; ?>&curr_id=<?php echo "$curr_id"; ?>&pkey=<?php echo "$pkey"; if ($cat_id_assc != '') { ?>&cat_id_assc=<?php echo "$cat_id_assc"; ?>&assc_pkey=<?php echo "$assc_pkey"; } if ($cat_id_assc_2 != '') { ?>&cat_id_assc_2=<?php echo "$cat_id_assc_2"; ?>&assc_pkey_2=<?php echo "$assc_pkey_2"; } if ($num_results_main_cat == 0) { ?>&main_cat_approvals=No<?php } ?>','showApprovals','')">Update</a></td>
+./restricted/showLandowner_bounds.php:					$query_landowner_bounds = "SELECT * FROM p2erls_landowner_bounds WHERE lb_id='$lb_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY lb_id ASC";
+./restricted/showLandowner_bounds.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showLandowner_bounds.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showLandowner.php:				$query_landowners = "SELECT * FROM p2erls_landowners WHERE landowner_id='$landowner_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY landowner_id ASC";
+./restricted/showLandowner.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showLandowner.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showCountries.php:					$query_countries = "SELECT country_name FROM p2erls_countries WHERE country_id='$country_id' AND pending_change != 'Yes' AND account_num='0' ORDER BY country_id ASC";
+./restricted/showCountries.php:				'".$_SESSION["p2erls_account_num"]."',
+./restricted/showCountries.php:				'".$_SESSION["p2erls_account_num"]."',
+./browse_sites_sai.php:						<input type="button" name="Button" value="Save Current Search" onclick="saveSearch('<?php echo $_SESSION["p2erls_account_num"];?>');" /></td>
+./browse_sites.php:                      <input type="button" name="Button7" value="Save Current Search" onclick="saveSearch('<? echo $_SESSION["p2erls_account_num"];?>');" /></td>
+./process_my_account.php:$account_num = $_SESSION[p2erls_account_num];
+./process_my_account.php:			where account_num='".$account_num."'
+./saved_searches.php:$account_num=$_SESSION["p2erls_account_num"];
+./saved_searches.php:if($account_num==''){ echo"You Must Be Logged In To View Your Saved Searches."; }
+./saved_searches.php:$query_saved_searches = "SELECT * FROM p2erls_saved_searches where account_num = '$account_num' ORDER BY saved_search_num ASC";
+./saved_searches.php:	$account_num= mysql_result($result_saved_searches,$kk_saved_searches,"account_num");
+./saved_searches.php:    <td><a href="javascript:loadSearch('<?php echo"$select_multiple_programs";?>','<?php echo"$select_multiple_networks";?>','<?php echo"$select_multiple_gradients";?>','<?php echo"$select_multiple_regions";?>','<?php echo"$select_multiple_ecosystems";?>','<?php echo"$site_elevlow_min";?>','<?php echo"$site_elevlow_max";?>','<?php echo"$site_elevhigh_min";?>','<?php echo"$site_elevhigh_max";?>','<?php echo"$site_temp_min";?>','<?php echo"$site_temp_max";?>','<?php echo"$site_precip_min";?>','<?php echo"$site_precip_max";?>')" class="white"><?php echo"$search_name";?></a> - <a href="javascript:removeSearch('<?php echo"$saved_search_num";?>','<?php echo"$search_name";?>','<?php echo"$account_num";?>')" class="white">Remove</a></td>
