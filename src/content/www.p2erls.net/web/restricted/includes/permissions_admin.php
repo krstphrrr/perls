@@ -1,1 +1,0 @@
-<?php session_start(); if($_SESSION["p2erls_username"] == '' || $_SESSION["p2erls_access_level"] == 3) { header("Location: https://www.p2erls.net/web/restricted/index.php"); } ?>
