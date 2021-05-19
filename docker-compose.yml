@@ -1,20 +1,29 @@
 version: "3.9"
 services:
   apache-php:
-    image: php:7-apache
+    build:
+      context: .
+      dockerfile: src/images/apache-php/Dockerfile
+    # image: php:7-apache
     ports:
       - 5020:80
     container_name: php
     volumes:
       # - drupal_test4_dbdata:/var/lib/mysql
       - ./src/content:/outside
-    # env_file:
-    #   - .env
+    environment: 
+      APACHE_RUN_DIR: ${ARD}
+      APACHE_PID_FILE: ${PID}
+      APACHE_RUN_USER: ${USR}
+      APACHE_RUN_GROUP: ${GRP}
+      APACHE_LOG_DIR: ${LOG}
+    env_file:
+      - .env
   mysql:
     build:
       context: .
       dockerfile: src/images/mysql/Dockerfile
-    image: mysql:latest
+    # image: mysql:latest
     ports:
       - 3306:3306
     container_name: mysql
@@ -33,7 +42,7 @@ services:
     build:
       context: . 
       dockerfile: src/images/phpmyadmin/Dockerfile
-    image: krstphr/custom_phpmyadmin:latest
+    # image: krstphr/custom_phpmyadmin:latest
     ports:
       - 8090:80
     container_name: phpmyadmin
